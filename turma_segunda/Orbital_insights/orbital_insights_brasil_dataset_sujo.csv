@@ -1,0 +1,1026 @@
+registro_id,data_coleta,cidade,uf,regiao,latitude,longitude,fonte_dado,tipo_cobertura_solo,cultura,area_monitorada_ha,ndvi_anterior,ndvi_atual,umidade_solo_pct,temperatura_superficie_c,dias_sem_chuva,focos_calor_7d,risco_incendio_pct,classe_risco_incendio,producao_historica_t_ha,densidade_construcoes,expansao_urbana_ha,risco_desmatamento_pct,status_processamento,observacao
+ORB-00001,2025-07-14,Palmas,TO,Norte,-10.12,-48.40,sensor_landsat,vegetacao_nativa,nao_aplicavel,53.34,0.65,0.57,60.36,28.84,22,11,76.64,critico,0.00,0.09,0.00,34.59,processado,
+ORB-00002,2025-10-11,Goiânia,GO,Centro-Oeste,-16.76,-48.95,base_municipal,agric.,soja,105.74,0.47,0.46,8.54,,8,,69.97,alto,3.20,"0,06",0.00,21.22,processado,possivel queimadura
+ORB-00003,01-17-2025,Porto Velho,RO,Norte,-8.43,-63.59,sensor_sentinel,urbano,nao_aplicavel,270.70,0.27,0.29,60.72,"31,59",5,9,48.93,médio,0.00,0.58,"2,74",0.00,processado,possivel queimadura
+ORB-00004,2025-10-26,Ribeirão Preto,SP,Sudeste,-21.43,"-47,97",sensor_landsat,pastagem,pastagem,198.59,0.49,0.50,21.67,25.51,4,7,61.22,alto,1.33,0.13,0.00,"17,05",processado,sombra parcial
+ORB-00005,2025-02-22,Palmas,TO,Norte,-10.43,-48.43,sensor_sentinel,vegetacao_nativa,nao_aplicavel,504.22,0.87,"0,61",50.35,29.01,22,0,"69,44",alto,0.00,"0,04",0.00,66.54,processado,
+ORB-00006,2025-06-01,Goiânia,GO,Centro-Oeste,-16.72,-48.99,sensor_sentinel,vegetacao_nativa,nao_aplicavel,81.41,0.85,0.83,29.70,37.26,9,6,73.91,alto,0.00,0.04,0.00,14.95,processado,sombra parcial
+ORB-00007,2025-05-07,Ribeirão Preto,SP,Sudeste,-21.50,-48.00,sensor_sentinel,urbano,nao_aplicavel,299.47,"0,21",0.24,NA,31.01,22,11,100.00,critico,0.00,0.84,6.49,4.15,processado,coordenada imprecisa
+ORB-00008,2025-01-21,PETROLINA,PE,Nordeste,-9.28,-40.48,sensor_sentinel,agricultura,soja,55.86,0.55,0.67,37.09,32.64,25,2,64.76,alto,4.83,0.19,0.00,0.00,reprocessar,nuvem na cena
+ORB-00009,2025-05-13,Marabá,pa,Norte,-5.31,-48.89,sensor_sentinel,urbano,nao_aplicavel,86.47,0.22,0.25,70.67,33.33,7,10,49.42,medio,0.00,0.85,10.37,,processado,
+ORB-00010,2025-03-02,Sorriso,MT,Centro-Oeste,-12.79,-55.97,sensor_sentinel,vegetacao_nativa,nao_aplicavel,182.04,0.87,0.80,"23,53",32.56,19,15,100.00,critico,0.00,0.02,0.00,33.90,reprocessar,sombra parcial
+ORB-00011,2025-10-27,Sinop,MT,Centro-Oeste,-11.75,-55.26,drone_cliente,agricultura,milho,231.91,0.39,NA,"32,67",33.89,24,0,84.29,critico,4.46,0.19,,50.01,processado,
+ORB-00012,2025-10-24,Uberaba,MG,Sudeste,-19.71,-48.04,sensor_landsat,pastagem,pastagem,1.00,0.55,0.44,20.59,29.34,11,0,62.18,alto,1.24,0.14,0.00,23.67,pendente,registro importado manualmente
+ORB-00013,03-31-2025,Altamira,PA,Norte,-3.17,-52.28,sensor_landsat,agricultura,soja,116.85,0.46,0.25,45.74,36.81,,0,NA,medio,2.45,0.10,0.00,30.65,processado,
+ORB-00014,2025-02-28,Altamira,PA,Norte,-3.16,-52.06,sensor_landsat,agricultura,soja,361.33,0.56,0.56,69.29,34.59,14,5,"46,50",medio,3.72,0.20,0.00,0.00,processado,
+ORB-00015,2025-06-20,Porto Velho,RO,Norte,-8.44,"-64,06",base_municipal,agricultura,soja,224.45,"0,56",,41.64,31.26,18,9,72.75,alto,"3,33",0.20,"0,00",14.09,processado,
+ORB-00016,2025-08-01,Sinop,MT,Centro-Oeste,-12.17,-55.82,sensor_sentinel,agricultura,soja,57.07,0.48,0.50,14.46,34.94,43,3,100.00,critico,3.55,0.16,0.00,4.83,processado,nuvem na cena
+ORB-00017,2025-08-15,Altamira,PA,Norte,-3.28,-52.38,sensor_landsat,vegetacao_nativa,nao_aplicavel,69.87,0.79,0.78,75.12,32.77,2,2,50.04,alto,0.00,0.02,0.00,34.35,processado,
+ORB-00018,2025-08-18,Cuiabá,MT,Centro-Oeste,-15.63,-56.15,sensor_landsat,vegetacao_nativa,nao_aplicavel,"149,92",0.71,0.69,50.35,38.15,9,7,57.38,alto,0.00,"0,09",0.00,16.92,pendente,nuvem na cena
+ORB-00019,2025-10-14,Cuiabá,MT,Centro-Oeste,-15.50,-56.35,sensor_landsat,agricultura,soja,30.37,"0,50",0.49,"58,93",33.48,17,13,76.16,critico,4.60,0.15,0.00,0.00,processado,
+ORB-00020,data_invalida,Porto Velho,ro,Norte,-8.66,-63.86,sensor_sentinel,agricultura,cana,131.25,0.72,0.68,,31.77,15,3,62.43,alto,85.17,0.11,NA,0.00,pendente,registro importado manualmente
+ORB-00021,2026-01-12,Cuiabá,MT,Centro-Oeste,-15.74,-56.14,sensor_landsat,agricultura,soja,290.46,0.81,0.59,42.76,34.73,0,3,35.62,medio,3.32,0.20,0.00,37.24,pendente,nuvem na cena
+ORB-00022,02-04-2025,Uberaba,MG,Sudeste,-19.66,-48.05,sensor_landsat,agricultura,soja,205.79,0.67,0.58,48.22,25.38,3,25,64.53,alto,"3,72",0.06,0.00,34.23,processado,
+ORB-00023,28/10/2025,Uberlândia,MG,Sudeste,-19.01,-48.28,sensor_landsat,vegetacao_nativa,nao_aplicavel,30.22,0.77,0.34,35.40,25.59,0,2,41.55,medio,0.00,0.04,0.00,87.15,processado,
+ORB-00024,2025-10-23,Marabá,PA,Norte,-5.39,-49.12,drone_cliente,vegetacao_nativa,nao_aplicavel,723.44,"0,78",0.19,"73,18",36.78,15,5,59.60,alto,0.00,0.02,0.00,"100,00",pendente,nuvem na cena
+ORB-00025,2025-12-19,Marabá,PA,Norte,-5.35,-49.37,sensor_landsat,pastagem,pastagem,192.80,0.63,0.49,69.27,31.54,0,11,66.03,alto,0.92,0.08,0.00,26.75,pendente,sombra parcial
+ORB-00026,2026-02-28,Barreiras,BA,Nordeste,-12.01,-44.88,sensor_landsat,agricultura,milho,"234,75",0.58,0.57,35.67,39.41,10,3,63.00,alto,7.61,0.10,0.00,NA,processado,
+ORB-00027,07-27-2025,Sorriso,MT,Centro-Oeste,NA,-55.77,sensor_landsat,agricultura,milho,47.22,0.60,0.73,55.31,31.21,10,6,45.31,medio,5.58,0.16,0.00,0.00,processado,coordenada imprecisa
+ORB-00028,2025-10-24,Goiânia,GO,Centro-Oeste,-16.81,-49.25,sensor_landsat,agricultura,milho,110.90,0.42,0.31,46.08,34.68,22,3,49.64,medio,6.17,0.12,"0,00",21.65,pendente,
+ORB-00029,2025-07-31,Rio Branco,AC,Norte,-10.08,-67.97,base_municipal,vegetacao_nativa,nao_aplicavel,459.70,0.78,0.71,33.98,30.11,13,8,90.28,critico,0.00,0.07,0.00,27.57,processado,
+ORB-00030,2026-01-05,Barreiras,BA,Nordeste,-12.23,-45.08,sensor_sentinel,urbano,nao_aplicavel,471.67,0.29,0.31,69.27,39.23,13,2,"46,04",médio,0.00,0.66,"0,00",0.00,pendente,
+ORB-00031,2025-05-05,Marabá,PA,Norte,-5.25,"-49,47",base_municipal,agricultura,soja,18.11,0.36,0.42,53.68,32.82,20,4,57.66,alto,2.74,0.19,0.00,9.11,processado,registro importado manualmente
+ORB-00032,2025-02-12,Uberlândia,MG,Sudeste,-18.92,-48.14,sensor_landsat,vegetacao_nativa,nao_aplicavel,212.07,0.73,"0,14",60.57,28.57,10,1,61.79,alto,0.00,0.06,0.00,"100,00",processado,
+ORB-00033,2025-10-07,Cuiabá,MT,Centro-Oeste,-15.38,-56.22,sensor_sentinel,vegetacao_nativa,nao_aplicavel,26.60,0.83,0.75,34.12,38.53,20,15,97.30,critico,0.00,0.04,0.00,43.74,procesado,
+ORB-00034,2025-12-23,Sorriso,mt,Centro-Oeste,-12.56,-55.76,sensor_sentinel,urbano,nao_aplicavel,145.11,0.25,0.23,"51,24",33.10,22,2,72.55,alto,0.00,0.93,7.36,0.00,procesado,
+ORB-00035,2025-12-17,Altamira,PA,Norte,-3.16,-52.26,sensor_sentinel,vegetacao_nativa,nao_aplicavel,730.29,0.65,0.47,41.64,33.17,14,,66.16,alto,0.00,0.06,6.61,52.49,processado,
+ORB-00036,2025-10-23,Sorriso,MT,Centro-Oeste,-12.49,-55.90,sensor_landsat,pastagem,pastagem,315.32,0.50,0.58,60.24,34.63,31,4,94.58,crítico,"0,97",0.06,0.00,7.27,processado,sombra parcial
+ORB-00037,2025-07-16,Porto Velho,RO,Norte,-8.98,-63.98,sensor_sentinel,vegetacao_nativa,nao_aplicavel,120.72,0.79,0.63,51.68,34.80,11,1,53.07,alto,0.00,0.01,0.00,38.42,processado,
+ORB-00038,01/08/2025,Cuiabá,MT,Centro-Oeste,-15.60,-56.06,sensor_landsat,agricultura,algodao,155.42,"0,81",0.90,51.30,31.19,9,1,45.71,medio,4.58,0.17,,"0,00",processado,
+ORB-00039,2025-08-02,Marabá,PA,Norte,-5.37,-49.11,sensor_sentinel,vegetacao_nativa,nao_aplicavel,296.92,0.84,0.25,77.69,34.07,19,0,52.85,alto,NA,0.11,0.00,100.00,processado,possivel queimadura
+ORB-00040,2026-01-12,Petrolina,PE,Nordeste,-9.31,-40.65,sensor_landsat,pastagem,nao_aplicavel,83.24,0.48,0.48,44.65,"34,35",17,0,47.82,medio,0.00,"0,17",0.00,15.30,processado,
+ORB-00041,2025-05-21,Uberaba,MG,Sudeste,-19.52,-48.18,sensor_sentinel,agua,nao_aplicavel,122.38,0.05,0.10,63.98,32.28,19,6,50.38,alto,0.00,0.01,0.00,9.53,erro validacao,
+ORB-00042,2025-11-11,Goiânia,GO,Centro-Oeste,,-49.23,sensor_sentinel,urbano,nao_aplicavel,54.33,0.27,0.32,26.12,30.25,0,3,53.40,alto,0.00,0.95,10.07,0.00,processado,
+ORB-00043,08-03-2025,Barreiras,BA,Nordeste,-12.10,-45.14,Sentinel,agricultura,soja,,0.39,"0,29",44.25,33.88,2,6,"49,43",medio,2.21,0.05,0.00,"27,01",processado,registro importado manualmente
+ORB-00044,2025-02-01,Uberaba,MG,Sudeste,-19.80,-47.89,sensor_sentinel,agricultura,soja,137.63,0.36,0.19,64.83,27.63,18,1,"44,29",medio,2.95,0.06,0.00,31.15,processado,
+ORB-00045,2025-03-15,Rio Branco,AC,Norte,-9.90,-67.79,sensor_sentinel,agricultura,soja,206.57,0.54,0.36,62.18,33.29,11,10,62.49,alto,1.95,0.13,"0,00",20.97,processado,sombra parcial
+ORB-00046,2025-05-18,Uberlândia,MG,Sudeste,-18.74,-48.27,sensor_landsat,agricultura,soja,428.05,0.36,0.27,NA,30.35,26,3,58.10,alto,1.98,0.16,0.00,8.38,processado,sombra parcial
+ORB-00047,2025-04-03,Cuiabá,MT,Centro-Oeste,-15.50,-55.97,sensor_landsat,agricultura,algodao,410.75,"0,47",0.40,19.84,33.49,31,3,87.06,critico,4.35,0.13,"0,00",22.30,pendente,
+ORB-00048,2025-02-03,Sorriso,MT,Centro-Oeste,-12.55,-55.62,sensor_sentinel,vegetacao_nativa,nao_aplicavel,23.84,0.78,0.72,42.83,"30,34",26,2,NA,critico,0.00,0.09,0.00,35.43,processado,coordenada imprecisa
+ORB-00049,2026-02-04,Uberlândia,MG,Sudeste,-18.92,-48.24,sensor_sentinel,vegetacao_nativa,nao_aplicavel,187.81,0.82,0.52,27.69,33.76,17,0,76.68,critico,0.00,0.04,0.00,82.65,erro_validacao,
+ORB-00050,2025-09-04,Cuiabá,MT,Centro-Oeste,-15.54,-55.89,sensor_sentinel,pastagem,pastagem,211.85,0.61,0.53,51.12,34.39,11,2,"40,57",medio,0.87,0.06,"0,00",28.19,pendente,
+ORB-00051,2025-04-21,Palmas,TO,Norte,-10.03,-48.43,sensor_sentinel,agricultura,soja,"47,97",0.66,0.41,55.08,31.20,0,3,29.69,medio,2.58,0.12,0.00,30.55,pendente,
+ORB-00052,2025-07-15,Palmas,TO,Norte,-10.29,"-48,26",sensor_sentinel,agricultura,cafe,120.75,0.41,0.47,66.77,36.78,20,4,,alto,1.15,0.14,0.00,4.50,processado,
+ORB-00053,2025-07-03,Goiânia,GO,Centro-Oeste,-16.51,-49.42,sensor_sentinel,pastagem,pastagem,238.56,0.34,0.11,31.07,32.51,17,7,78.26,crítico,1.33,0.03,0.00,46.66,processado,
+ORB-00054,2025-07-27,Sorriso,MT,Centro-Oeste,-12.62,-55.69,sensor_sentinel,vegetacao nat.,nao_aplicavel,532.17,0.80,0.19,10.93,36.67,24,1,90.19,critico,"0,00",0.03,0.00,100.00,processado,
+ORB-00055,2025-06-18,Sinop,MT,Centro-Oeste,NA,-55.47,sensor_sentinel,vegetacao_nativa,nao_aplicavel,15.92,0.65,0.36,16.06,38.91,14,0,NA,critico,0.00,0.05,0.00,59.70,processado,sombra parcial
+ORB-00056,data_invalida,Altamira,PA,Norte,-3.40,-52.21,sensor_sentinel,vegetacao_nativa,nao_aplicavel,14.28,"0,71",0.07,58.40,"34,16",5,8,72.35,alto,0.00,0.06,0.00,100.00,processado,
+ORB-00057,2026-02-25,Ribeirão Preto,SP,Sudeste,-21.15,NA,sensor_landsat,agricultura,soja,390.30,0.62,0.39,55.16,"27,32",30,3,66.40,alto,3.65,0.15,0.00,24.45,pendente,coordenada imprecisa
+ORB-00058,2025-10-13,Rio Branco,AC,Norte,-10.03,-67.72,sensor_sentinel,vegetacao_nativa,nao_aplicavel,111.45,0.67,0.60,,28.06,2,3,"29,16",medio,0.00,0.07,0.00,33.42,processado,
+ORB-00059,2025-06-27,Ribeirão Preto,SP,Sudeste,-21.10,-47.81,sensor_sentinel,agricultura,milho,284.93,0.67,0.57,17.85,30.90,13,1,68.69,alto,"5,53",0.08,"0,00",24.39,processado,registro importado manualmente
+ORB-00060,2025-10-22,Rio Branco,AC,Norte,-10.15,-67.69,sensor_sentinel,pastagem,pastagem,102.07,0.56,,56.88,30.18,16,15,76.24,critico,1.60,0.10,0.00,38.54,erro_validacao,possivel queimadura
+ORB-00061,14/05/2025,Cuiabá,mt,Centro-Oeste,-15.49,-56.01,sensor_sentinel,agricultura,soja,401.76,0.55,0.36,29.90,38.04,10,1,62.24,alto,2.85,0.06,0.00,26.36,pendente,
+ORB-00062,2026-03-22,Uberlândia,MG,Sudeste,-19.20,-48.61,sensor_sentinel,pastagem,pastagem,433.13,0.31,NA,48.82,NA,13,0,NA,alto,"1,51",0.12,0.00,33.22,processado,
+ORB-00063,2025-05-25,Cuiabá,MT,Centro-Oeste,-15.60,-55.99,sensor_sentinel,agricultura,milho,"769,37",0.48,0.51,42.22,34.79,17,,42.74,medio,6.25,"0,12",0.00,0.00,reprocessar,
+ORB-00064,2025-10-02,Porto Velho,RO,Norte,-8.59,-64.00,sensor_sentinel,agricultura,soja,13.62,0.72,0.72,59.83,31.56,33,3,,critico,"4,41",0.17,0.00,10.44,processado,coordenada imprecisa
+ORB-00065,2025-02-10,Sorriso,MT,Centro-Oeste,-12.64,-55.64,sensor_sentinel,vegetacao_nativa,nao_aplicavel,51.51,0.76,0.32,32.88,31.82,13,7,81.04,critico,0.00,0.05,0.00,90.64,erro_validacao,
+ORB-00066,10-11-2025,Ribeirão Preto,SP,Sudeste,-21.22,-47.79,drone_cliente,urbano,nao_aplicavel,324.79,0.19,0.16,38.67,33.64,12,1,37.69,medio,"0,00",0.91,7.00,"0,00",pendente,
+ORB-00067,2025-05-05,Marabá,PA,Norte,-5.03,-48.93,base_municipal,agricultura,soja,181.20,0.55,0.64,"48,63",29.33,18,,57.54,alto,2.77,0.12,0.00,,processado,
+ORB-00068,2025-09-14,Sorriso,MT,Centro-Oeste,"-12,61",-55.84,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"443,45",0.80,0.77,50.73,35.94,7,1,35.77,medio,0.00,0.05,0.00,40.09,processado,registro importado manualmente
+ORB-00069,2025-11-07,Cuiabá,MT,Centro-Oeste,-15.54,-56.07,base_municipal,vegetacao_nativa,nao_aplicavel,"5,84",NA,0.31,"7,81",31.31,25,18,100.00,crítico,0.00,0.09,0.00,81.85,processado,sombra parcial
+ORB-00070,2026-01-05,Uberaba,MG,Sudeste,-19.74,-47.98,sensor_landsat,urbano,nao_aplicavel,33.75,0.24,0.22,40.58,30.68,17,2,49.31,medio,"0,00",0.73,8.26,NA,processado,
+ORB-00071,2025-06-02,Altamira,PA,Norte,-3.22,-52.11,sensor_landsat,agricultura,soja,423.06,0.76,0.62,41.75,33.30,11,0,48.87,medio,3.30,0.14,0.00,19.50,pendente,
+ORB-00072,2025-06-24,Sinop,MT,Centro-Oeste,-11.72,-55.61,sensor_sentinel,vegetacao_nativa,nao_aplicavel,86.12,"0,67",0.40,NA,31.87,11,2,65.33,alto,0.00,0.04,0.00,69.06,processado,
+ORB-00073,2025-03-01,Cuiabá,MT,Centro-Oeste,-15.75,-56.21,sensor_sentinel,vegetacao_nativa,nao_aplicavel,8.19,0.82,"0,75",27.03,34.34,12,18,97.39,critico,0.00,"0,12",0.00,31.49,pendente,
+ORB-00074,2025-05-13,Palmas,TO,Norte,-10.28,-48.50,sensor_sentinel,urbano,nao_aplicavel,648.11,0.30,0.21,58.00,36.31,11,0,54.40,alto,0.00,0.59,0.55,24.07,erro_validacao,possivel queimadura
+ORB-00075,2025-08-11,Barreiras,BA,Nordeste,-12.13,"-44,94",sensor_landsat,agricultura,cana,78.39,0.50,0.53,39.77,31.55,22,3,71.98,alto,85.91,0.15,0.00,10.19,processado,nuvem na cena
+ORB-00076,03-16-2026,Palmas,TO,Norte,-10.18,-48.30,sensor_sentinel,agricultura,soja,"258,01",0.44,0.45,89.52,33.20,13,2,45.76,medio,3.03,0.20,0.00,4.89,pendente,registro importado manualmente
+ORB-00077,2025-01-27,Rio Branco,AC,Norte,-9.92,"-67,87",sensor_sentinel,vegetacao_nativa,nao_aplicavel,12.29,0.82,0.80,79.08,36.86,7,10,74.80,alto,0.00,0.09,,25.93,pendente,
+ORB-00078,2025-05-22,Ribeirão Preto,SP,Sudeste,-21.31,-48.08,sensor_sentinel,agricultura,soja,237.65,0.63,0.76,31.38,26.95,7,,"55,11",alto,3.61,NA,0.00,0.00,processado,coordenada imprecisa
+ORB-00079,2025-01-21,Uberaba,MG,Sudeste,-19.93,"-47,76",sensor_landsat,urbano,nao_aplicavel,320.01,0.22,"0,21",50.24,33.42,1,2,38.79,medio,0.00,,12.86,NA,processado,registro importado manualmente
+ORB-00080,2025-02-02,Palmas,TO,Norte,-10.01,-48.55,Sentinel,agricultura,cafe,NA,0.38,0.48,39.70,29.03,3,0,25.96,medio,1.44,,0.00,0.00,processado,
+ORB-00081,2025-03-01,Sorriso,MT,Centro-Oeste,-12.56,-55.67,sensor_landsat,vegetacao_nativa,nao_aplicavel,42.56,0.63,0.05,75.26,"34,48",28,2,68.38,alto,0.00,0.09,0.00,100.00,processado,
+ORB-00082,2026-02-13,Ribeirão Preto,SP,Sudeste,-20.93,"-47,98",sensor_sentinel,urbano,nao_aplicavel,7.52,0.28,0.22,68.54,,0,3,20.02,baixo,0.00,0.55,1.95,"16,29",processado,nuvem na cena
+ORB-00083,2025-09-14,Cuiabá,MT,Centro-Oeste,-15.52,-56.20,sensor_sentinel,vegetacao_nativa,nao_aplicavel,12.32,0.77,0.31,51.80,32.15,24,19,100.00,crítico,0.00,0.05,0.00,98.76,processado,
+ORB-00084,2025-10-22,Goiânia,GO,Centro-Oeste,-16.54,-49.34,sensor_sentinel,urbano,nao_aplicavel,38.69,NA,0.12,43.12,32.59,13,1,61.65,alto,0.00,0.61,"14,35",14.63,reprocessar,
+ORB-00085,2025-08-17,Barreiras,BA,Nordeste,-12.32,-45.22,sensor_sentinel,urbano,nao_aplicavel,2.70,"0,27",0.32,21.96,39.78,9,3,"74,94",alto,0.00,"0,82",10.58,0.00,processado,possivel queimadura
+ORB-00086,2025-11-22,Cuiabá,MT,Centro-Oeste,-15.31,-55.99,sensor_sentinel,vegetacao_nativa,nao_aplicavel,97.29,0.82,NA,26.63,34.32,20,4,83.66,critico,0.00,0.07,0.00,39.38,processado,possivel queimadura
+ORB-00087,2025-05-10,Porto Velho,RO,Norte,-8.94,,sensor_landsat,urbano,nao_aplicavel,237.20,0.13,"0,05",52.80,34.25,2,,47.56,medio,0.00,0.86,7.43,14.66,procesado,
+ORB-00088,2025-08-13,Sinop,MT,Centro-Oeste,-11.86,-55.56,sensor_sentinel,vegetacao_nativa,nao_aplicavel,1465.97,0.81,0.80,41.90,36.63,11,5,59.43,alto,,0.10,,36.89,processado,
+ORB-00089,2025-12-04,Goiânia,GO,Centro-Oeste,-16.62,-49.22,sensor_sentinel,agricultura,milho,128.57,0.57,0.45,,34.48,6,,85.27,critico,5.56,0.20,0.00,NA,processado,possivel queimadura
+ORB-00090,2025-02-08,Goiânia,GO,Centro-Oeste,-16.57,-49.32,sensor_landsat,agricultura,soja,49.58,0.36,0.31,29.56,30.20,,1,64.55,alto,2.91,0.08,0.00,11.86,reprocessar,possivel queimadura
+ORB-00091,2025-05-20,Uberlândia,MG,Sudeste,"-18,73",-48.33,drone_cliente,pastagem,nao_aplicavel,120.61,0.52,0.57,78.23,27.40,8,4,41.15,medio,0.00,0.07,0.00,0.00,processado,
+ORB-00092,,Cuiabá,MT,Centro-Oeste,-15.65,-56.12,sensor_sentinel,agricultura,algodao,177.01,0.76,0.90,47.21,33.27,14,0,"60,04",alto,2.76,0.15,0.00,,reprocessar,possivel queimadura
+ORB-00093,04-25-2025,Uberlândia,MG,Sudeste,-19.02,-48.52,drone_cliente,vegetacao nat.,nao_aplicavel,459.94,0.75,0.40,41.72,31.17,2,2,52.29,alto,0.00,0.10,0.00,NA,erro_validacao,
+ORB-00094,2025-10-14,Uberlândia,MG,Sudeste,-18.66,-48.34,sensor_landsat,vegetacao_nativa,nao_aplicavel,834.97,0.72,0.42,54.39,25.47,5,1,"41,66",medio,0.00,0.10,0.00,75.02,processado,
+ORB-00095,2026-03-05,Uberlândia,MG,Sudeste,-19.14,-48.07,sensor_landsat,vegetacao nat.,nao_aplicavel,110.25,0.66,0.45,57.24,30.25,8,,47.32,medio,0.00,0.11,0.00,45.03,reprocessar,
+ORB-00096,data_invalida,Cuiabá,MT,Centro-Oeste,-15.62,-56.05,sensor_sentinel,agricultura,cana,142.86,0.73,0.75,33.89,33.91,19,1,64.18,alto,49.73,,0.00,0.00,processado,possivel queimadura
+ORB-00097,2026-01-30,Palmas,TO,Norte,-10.33,-48.10,sensor_sentinel,agricultura,milho,NA,0.80,0.84,71.38,35.24,14,0,57.30,alto,5.88,0.05,0.00,,procesado,
+ORB-00098,2025-03-30,Ribeirão Preto,SP,Sudeste,"-21,19",-47.83,sensor_sentinel,agricultura,milho,"258,16",0.67,0.82,34.10,32.68,0,8,61.40,alto,5.96,0.19,0.00,0.00,processado,
+ORB-00099,2026-01-21,Uberlândia,MG,Sudeste,-18.81,-48.13,LANDSAT,agricultura,cafe,117.95,0.42,0.33,"47,28",32.37,14,13,76.71,critico,"1,95",0.12,0.00,4.24,processado,nuvem na cena
+ORB-00100,2025-07-10,Marabá,PA,Norte,NA,-48.84,sensor_sentinel,vegetacao_nativa,nao_aplicavel,954.65,0.76,0.72,62.33,32.87,20,3,73.69,alto,0.00,0.08,0.00,20.65,processado,
+ORB-00101,2026-02-10,Marabá,PA,Norte,"-5,20","-49,18",sensor_sentinel,vegetacao_nativa,nao_aplicavel,1036.81,0.75,0.70,51.97,32.76,0,1,"52,61",alto,0.00,0.05,4.65,28.35,processado,
+ORB-00102,24/06/2025,Sorriso,MT,Centro-Oeste,-12.42,-55.72,sensor_sentinel,urbano,nao_aplicavel,195.56,0.23,0.13,"50,66",35.92,0,1,25.31,medio,0.00,NA,4.45,29.44,erro_validacao,
+ORB-00103,2025-04-19,Sorriso,MT,Centro-Oeste,-12.84,-55.62,base_municipal,vegetacao_nativa,nao_aplicavel,250.67,0.87,0.83,52.90,,12,4,,alto,0.00,0.02,0.00,34.22,pendete,sombra parcial
+ORB-00104,,Marabá,PA,Norte,-5.41,-49.03,sensor_landsat,urbnao,nao_aplicavel,79.47,0.19,0.12,57.32,34.91,8,2,"57,31",alto,0.00,0.64,12.82,14.08,processado,registro importado manualmente
+ORB-00105,2025-06-24,Uberaba,MG,Sudeste,-19.72,-48.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,403.87,"0,71",0.62,49.82,31.21,29,0,64.31,alto,0.00,0.06,"0,00",25.09,processado,coordenada imprecisa
+ORB-00106,2025-12-14,Rio Branco,AC,Norte,-9.93,-67.91,sensor_sentinel,agricultura,cana,101.24,0.56,0.41,48.64,35.17,17,2,68.60,alto,"82,50",,0.00,34.45,processado,
+ORB-00107,2025-08-11,Goiânia,GO,Centro-Oeste,-16.77,"-49,33",base_municipal,vegetacao_nativa,nao_aplicavel,623.25,0.69,0.67,37.45,"31,58",22,8,80.04,critico,0.00,0.04,0.00,36.24,reprocessar,possivel queimadura
+ORB-00108,2025-02-12,Porto Velho,RO,Norte,-8.96,-63.95,sensor_landsat,vegetacao_nativa,nao_aplicavel,58.59,0.66,0.45,46.51,30.66,9,,63.97,alto,0.00,0.10,0.00,54.83,processado,
+ORB-00109,2025-11-19,Barreiras,BA,Nordeste,-12.36,-45.03,base_municipal,agricultura,soja,36.71,"0,62",0.43,67.12,"39,49",18,7,64.04,alto,2.05,0.11,4.49,31.80,processado,coordenada imprecisa
+ORB-00110,2025-08-10,Marabá,PA,Norte,-5.53,-49.47,sensor_sentinel,vegetacao_nativa,nao_aplicavel,117.97,0.64,0.11,37.69,"35,91",12,7,78.42,critico,,0.10,"0,00",100.00,processado,
+ORB-00111,2025-06-07,Uberlândia,MG,Sudeste,"-18,73",,drone_cliente,vegetacao_nativa,nao_aplicavel,"277,25",0.65,"0,62",33.93,31.87,5,1,46.81,médio,NA,0.09,"0,00",15.45,procesado,
+ORB-00112,2025-01-07,Sinop,MT,Centro-Oeste,-11.80,-55.43,Sentinel,pastagem,pastagem,225.13,0.39,0.17,27.20,,11,11,82.84,critico,1.02,0.10,NA,41.59,processado,
+ORB-00113,2025-09-16,Palmas,TO,Norte,-10.03,-48.47,sensor_sentinel,vegetacao_nativa,nao_aplicavel,111.74,0.76,0.68,,32.20,13,10,62.40,alto,0.00,0.04,0.00,30.49,processado,sombra parcial
+ORB-00114,2025-02-11,Marabá,PA,Norte,-5.26,-49.04,sensor_sentinel,pastagem,pastagem,547.25,0.38,0.15,"67,11",35.32,0,5,41.63,medio,1.24,"0,17",0.00,39.35,processado,
+ORB-00115,data_invalida,Palmas,TO,Norte,-10.34,-48.49,sensor_sentinel,vegetacao_nativa,nao_aplicavel,90.43,0.64,0.43,35.19,28.09,,4,46.24,medio,0.00,0.12,0.00,56.97,processado,registro importado manualmente
+ORB-00116,2025-02-24,Uberlândia,MG,Sudeste,-18.79,-48.13,drone_cliente,urbano,nao_aplicavel,41.11,0.28,0.18,77.67,29.48,24,22,100.00,critico,0.00,0.91,NA,18.24,processado,
+ORB-00117,2025-05-21,Petrolina,PE,Nordeste,-9.24,-40.34,sensor_sentinel,pastagem,pastagem,84.89,0.53,0.49,69.24,31.96,19,1,69.90,alto,1.23,0.07,0.00,5.39,processado,registro importado manualmente
+ORB-00118,2026-01-05,Uberlândia,MG,Sudeste,-18.81,-48.39,sensor_sentinel,agric.,soja,90.91,0.75,0.55,,32.07,15,16,91.03,critico,"2,94",0.10,NA,25.97,processado,
+ORB-00119,2025-01-24,Sinop,MT,Centro-Oeste,-11.79,-55.59,sensor_landsat,agricultura,soja,830.89,0.76,0.80,"24,86",30.05,20,0,72.44,alto,3.77,0.09,0.00,2.24,processado,registro importado manualmente
+ORB-00120,data_invalida,Cuiabá,MT,Centro-Oeste,-15.48,-56.17,sensor_landsat,vegetacao_nativa,nao_aplicavel,80.54,0.76,0.69,35.94,38.18,18,8,71.83,alto,0.00,0.02,0.00,"31,57",processado,
+ORB-00121,2026-01-01,Ribeirão Preto,SP,Sudeste,-21.27,-47.94,drone_cliente,urbano,nao_aplicavel,210.73,0.24,0.22,29.14,32.87,19,2,NA,critico,0.00,0.76,5.76,NA,pendente,
+ORB-00122,2025-03-13,Sinop,MT,Centro-Oeste,-11.94,-55.78,sensor_landsat,pastagem,pastagem,999.68,0.42,0.21,54.57,34.43,,0,77.83,critico,1.03,0.08,0.00,22.39,processado,
+ORB-00123,2025-12-25,Porto Velho,RO,Norte,-8.70,-63.93,Sentinel,agricultura,cana,439.49,0.40,0.46,55.12,,16,3,43.41,medio,103.56,0.09,0.00,0.00,processado,sombra parcial
+ORB-00124,2025-09-15,Uberlândia,MG,Sudeste,-18.61,-48.60,sensor_sentinel,agricultura,soja,15.42,0.69,NA,"37,13",26.82,7,0,41.58,medio,3.13,0.18,"0,00",0.00,erro_validacao,coordenada imprecisa
+ORB-00125,2025-12-01,Uberaba,MG,Sudeste,-19.68,-47.67,sensor_landsat,vegetacao_nativa,nao_aplicavel,192.57,0.87,0.43,5.00,27.65,22,0,93.85,critico,"0,00",0.01,,96.92,processado,
+ORB-00126,2026-03-05,Altamira,PA,Norte,-3.40,-52.14,sensor_sentinel,vegetacao nat.,nao_aplicavel,10.02,0.87,0.78,55.93,34.37,13,7,75.94,critico,0.00,0.07,6.28,33.59,processado,
+ORB-00127,2025-02-12,Altamira,PA,Norte,NA,NA,sensor_sentinel,agricultura,cana,"149,26",0.42,0.31,59.64,"29,15",1,2,"30,42",medio,61.37,0.15,"0,00",35.85,processado,sombra parcial
+ORB-00128,2025-10-20,Uberlândia,MG,Sudeste,-18.93,-48.41,sensor_landsat,agricultura,algodao,133.25,0.57,0.63,31.93,29.00,,0,36.32,medio,4.00,0.08,0.00,0.17,processado,
+ORB-00129,2025-04-29,Uberaba,MG,Sudeste,-19.61,-47.67,sensor_landsat,agricultura,soja,18.05,0.53,"0,44",31.46,26.17,2,9,55.70,alto,4.19,0.05,5.41,19.61,reprocessar,possivel queimadura
+ORB-00130,2025-02-23,Uberlândia,MG,Sudeste,-18.79,-48.28,sensor_sentinel,vegetacao_nativa,nao_aplicavel,264.69,0.69,0.65,"28,16",29.61,4,,53.49,alto,"0,00",0.01,0.00,29.64,processado,
+ORB-00131,12-07-2025,Marabá,PA,Norte,-5.35,-48.99,sensor_sentinel,vegetacao_nativa,nao_aplicavel,282.20,0.84,0.46,48.26,29.48,17,3,73.45,alto,0.00,0.10,0.00,79.42,processado,registro importado manualmente
+ORB-00132,01-17-2025,Cuiabá,MT,Centro-Oeste,-15.59,-56.14,sensor_sentinel,urbano,nao_aplicavel,23.11,0.27,0.24,NA,"32,55",3,7,93.70,critico,0.00,0.59,7.12,18.68,processado,sombra parcial
+ORB-00133,2025-08-21,Cuiabá,MT,Centro-Oeste,-15.59,-56.13,sensor_sentinel,vegetacao_nativa,nao_aplicavel,186.59,0.83,0.52,5.00,35.65,17,12,100.00,critico,0.00,0.03,0.00,56.95,pendente,sombra parcial
+ORB-00134,2026-01-17,Petrolina,PE,Nordeste,-9.48,-40.44,sensor_sentinel,pastagem,pastagem,94.28,0.31,0.07,58.26,35.61,28,0,63.75,alto,1.55,0.06,0.00,"36,12",processado,coordenada imprecisa
+ORB-00135,2025-08-20,Marabá,PA,Norte,-5.52,-49.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,10.54,0.68,0.67,49.86,33.05,0,6,50.76,alto,,NA,0.00,30.38,processado,
+ORB-00136,2025-03-04,Rio Branco,AC,Norte,-9.80,-67.80,sensor_sentinel,vegetacao_nativa,nao_aplicavel,742.85,0.80,0.79,55.90,30.74,23,10,73.21,alto,0.00,0.02,0.00,15.90,processado,
+ORB-00137,2025-11-08,Sinop,MT,Centro-Oeste,-11.79,-55.58,sensor_sentinel,pastagem,pastagem,46.21,0.31,0.29,34.42,34.07,38,4,91.51,crítico,1.33,,0.00,4.66,processado,
+ORB-00138,2025-01-07,Porto Velho,RO,Norte,-8.51,-63.85,sensor_sentinel,agricultura,soja,65.45,0.40,0.50,53.41,33.11,27,2,54.46,alto,3.33,0.10,0.00,0.00,processado,coordenada imprecisa
+ORB-00139,16/03/2026,Goiânia,GO,Centro-Oeste,-16.56,-49.27,sensor_sentinel,agricultura,milho,63.71,0.42,0.59,31.02,35.61,11,1,69.48,alto,5.58,0.09,0.00,0.00,processado,
+ORB-00140,2025-11-01,Uberaba,MG,Sudeste,-20.04,-48.21,base_municipal,pastagem,pastagem,69.29,0.50,,37.52,,24,0,80.97,critico,0.94,0.10,0.00,11.69,processado,
+ORB-00141,2025-12-03,Cuiabá,MT,Centro-Oeste,-15.69,-56.01,sensor_sentinel,agric.,soja,2.44,0.70,0.68,32.09,34.29,30,12,99.66,critico,3.61,0.15,0.00,12.27,processado,sombra parcial
+ORB-00142,2025-11-23,Sinop,MT,Centro-Oeste,-11.69,-55.40,sensor_landsat,urbano,nao_aplicavel,85.22,0.16,0.20,58.96,31.57,8,2,"28,14",medio,0.00,0.60,13.12,1.76,processado,sombra parcial
+ORB-00143,2025-10-08,Ribeirão Preto,SP,Sudeste,-21.41,-47.59,sensor_landsat,pastagem,pastagem,89.60,0.50,0.55,7.45,33.39,0,,81.52,critico,NA,0.02,0.00,0.00,processado,coordenada imprecisa
+ORB-00144,2025-03-04,Rio Branco,AC,Norte,-10.14,-67.86,sensor_landsat,vegetacao_nativa,nao_aplicavel,76.10,0.68,0.09,13.34,35.14,0,1,82.46,critico,"0,00",0.01,"0,00","100,00",processado,sombra parcial
+ORB-00145,2025-07-18,Cuiabá,MT,Centro-Oeste,-15.93,-56.32,sensor_sentinel,vegetacao_nativa,nao_aplicavel,292.51,0.73,"0,73",11.76,"30,23",5,12,100.00,crítico,,0.10,0.00,28.51,processado,registro importado manualmente
+ORB-00146,03/01/2026,Barreiras,BA,Nordeste,-12.38,-44.79,drone_cliente,vegetacao_nativa,nao_aplicavel,249.57,0.85,0.54,41.37,,19,4,79.80,critico,0.00,0.02,"0,00",73.53,processado,
+ORB-00147,2025-07-05,Sorriso,MT,Centro-Oeste,-12.51,-56.00,sensor_sentinel,pastagem,pastagem,18.27,0.51,0.49,NA,34.68,23,4,79.03,critico,1.41,0.18,0.00,16.86,processado,sombra parcial
+ORB-00148,2025-11-29,Sorriso,MT,Centro-Oeste,"-12,41",-55.85,sensor_landsat,urbano,nao_aplicavel,497.09,0.19,0.16,33.67,33.68,1,1,43.90,medio,0.00,0.62,"9,95",0.00,processado,
+ORB-00149,2025-05-22,Sinop,MT,Centro-Oeste,-11.90,-55.57,sensor_sentinel,pastagem,pastagem,285.91,0.46,0.25,60.10,34.08,10,10,66.51,alto,1.54,0.14,0.00,33.84,processado,
+ORB-00150,2025-01-15,Marabá,PA,Norte,-5.15,-49.20,sensor_landsat,vegetacao_nativa,nao_aplicavel,438.94,0.75,0.57,71.54,NA,17,4,52.56,alto,0.00,0.05,0.00,65.40,processado,
+ORB-00151,2025-08-01,Uberlândia,MG,Sudeste,-18.76,-48.45,sensor_landsat,vegetacao_nativa,nao_aplicavel,16.89,0.86,0.85,35.28,27.71,11,1,50.28,alto,0.00,0.02,0.00,15.25,pendente,
+ORB-00152,2025-11-30,Uberaba,MG,Sudeste,-19.66,NA,sensor_sentinel,urbano,nao_aplicavel,348.32,0.24,0.18,"65,31",31.91,9,1,30.38,medio,0.00,0.78,11.32,9.06,processado,
+ORB-00153,2025-11-16,Uberlândia,MG,Sudeste,-19.27,-48.34,sensor_landsat,vegetacao_nativa,nao_aplicavel,445.65,0.64,0.41,,29.84,12,2,NA,alto,0.00,0.08,0.00,54.71,processado,coordenada imprecisa
+ORB-00154,2025-10-14,Porto Velho,RO,Norte,-8.74,-63.69,sensor_landsat,urbano,nao_aplicavel,NA,0.34,0.39,50.64,35.50,0,3,37.06,medio,0.00,0.82,3.28,5.98,processado,possivel queimadura
+ORB-00155,2025-08-16,Goiânia,GO,Centro-Oeste,-16.43,-49.44,sensor_landsat,agricultura,soja,153.16,0.74,0.86,,32.85,13,3,63.24,alto,2.11,0.11,0.00,0.00,processado,
+ORB-00156,2025-08-28,Cuiabá,MT,Centro-Oeste,-15.60,-56.08,sensor_landsat,vegetacao_nativa,nao_aplicavel,20.93,0.79,0.74,23.03,37.51,25,4,95.09,critico,0.00,0.09,0.00,41.07,processado,
+ORB-00157,2025-03-23,Goiânia,GO,Centro-Oeste,-16.52,-49.24,sensor_landsat,vegetacao_nativa,nao_aplicavel,178.30,0.79,0.63,28.88,31.27,25,3,77.43,critico,0.00,0.10,0.00,39.68,processado,
+ORB-00158,2025-06-21,Uberlândia,MG,Sudeste,"-18,93",-48.40,sensor_sentinel,agricultura,soja,131.63,0.76,0.85,29.21,25.11,20,1,"61,83",alto,2.52,0.11,0.00,0.00,processado,possivel queimadura
+ORB-00159,2025-09-21,Rio Branco,AC,Norte,-10.31,"-67,95",sensor_sentinel,vegetacao_nativa,nao_aplicavel,"46,81",0.78,0.71,40.54,34.53,3,5,41.66,medio,0.00,0.11,0.00,49.37,processado,
+ORB-00160,03-05-2025,Marabá,PA,Norte,-5.33,-49.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,169.69,0.67,0.58,77.39,"34,07",22,2,69.51,alto,0.00,,0.00,37.23,erro_validacao,
+ORB-00161,2025-08-24,Uberaba,MG,Sudeste,-19.87,-47.89,sensor_sentinel,agricultura,algodao,,0.36,"0,37",42.14,32.11,1,,45.31,medio,4.67,0.09,0.00,2.45,processado,
+ORB-00162,2025-10-16,Uberaba,MG,Sudeste,-19.80,-47.88,sensor_sentinel,vegetacao_nativa,nao_aplicavel,162.29,0.68,0.47,31.20,29.12,0,5,52.28,alto,"0,00",0.04,0.00,63.09,erro_validacao,
+ORB-00163,2025-12-20,Sinop,MT,Centro-Oeste,-11.77,-55.41,sensor_sentinel,urbano,nao_aplicavel,62.70,0.23,0.17,29.72,31.82,10,0,,alto,0.00,0.77,13.07,1.54,pendente,possivel queimadura
+ORB-00164,2025-04-10,Goiânia,GO,Centro-Oeste,-16.68,-48.93,sensor_landsat,vegetacao_nativa,nao_aplicavel,92.23,0.85,0.82,45.13,33.96,39,4,100.00,critico,0.00,0.09,"0,00",29.02,pendente,coordenada imprecisa
+ORB-00165,2025-11-24,Goiânia,GO,Centro-Oeste,-16.94,-49.31,sensor_sentinel,vegetacao_nativa,nao_aplicavel,205.30,0.77,0.69,32.49,32.47,22,13,97.52,critico,0.00,0.09,0.00,"50,22",processado,
+ORB-00166,2025-05-22,Petrolina,PE,Nordeste,-9.65,-40.54,sensor_landsat,vegetacao_nativa,nao_aplicavel,306.67,,0.40,42.27,36.71,16,14,95.79,critico,0.00,0.02,0.00,78.08,processado,
+ORB-00167,2025-09-17,Uberlândia,MG,Sudeste,-19.06,-48.04,sensor_sentinel,urbano,nao_aplicavel,196.27,,0.15,17.45,33.50,25,0,97.48,critico,0.00,0.63,15.49,9.56,reprocessar,possivel queimadura
+ORB-00168,2026-01-26,porto velho,RO,Norte,-8.83,-63.95,sensor_sentinel,vegetacao_nativa,nao_aplicavel,34.29,0.66,0.27,63.58,29.63,7,4,41.04,medio,0.00,0.08,0.00,80.81,processado,sombra parcial
+ORB-00169,2026-01-17,Cuiabá,MT,Centro-Oeste,-15.57,-55.93,sensor_sentinel,vegetacao_nativa,nao_aplicavel,132.81,0.86,0.82,42.80,31.29,33,2,65.25,alto,"0,00",0.11,0.00,30.20,processado,
+ORB-00170,2025-10-12,Barreiras,BA,Nordeste,-12.20,-45.14,sensor_sentinel,vegetacao_nativa,nao_aplicavel,612.25,0.78,0.72,44.06,39.48,4,1,64.65,alto,0.00,0.12,0.00,"47,74",processado,sombra parcial
+ORB-00171,2026-01-06,Porto Velho,RO,Norte,NA,-63.92,drone_cliente,agricultura,cafe,223.58,0.67,0.77,37.89,34.83,10,24,96.25,critico,"1,95",0.18,0.00,0.00,processado,nuvem na cena
+ORB-00172,2026-01-21,Rio Branco,AC,Norte,-9.95,-68.00,sensor_landsat,pastagem,pastagem,438.09,0.62,0.65,65.16,34.56,4,8,53.68,alto,1.35,0.13,0.00,14.37,pendente,
+ORB-00173,2025-04-06,Porto Velho,RO,Norte,-8.70,-63.64,base_municipal,vegetacao_nativa,nao_aplicavel,178.78,0.68,0.24,75.31,28.24,12,1,47.22,medio,"0,00",0.12,0.00,100.00,processado,possivel queimadura
+ORB-00174,2025-12-15,Porto Velho,RO,Norte,-8.92,-63.95,sensor_sentinel,pastagem,pastagem,643.22,,0.45,82.34,28.25,2,6,61.11,alto,1.07,0.07,0.00,"0,00",processado,sombra parcial
+ORB-00175,data_invalida,Sorriso,MT,Centro-Oeste,-12.76,-56.00,sensor_sentinel,agua,nao_aplicavel,36.97,0.02,0.06,44.41,32.76,6,1,25.85,medio,0.00,0.00,0.00,0.00,processado,nuvem na cena
+ORB-00176,2025-11-25,Sorriso,MT,Centro-Oeste,-12.36,-55.62,drone_cliente,vegetacao nat.,nao_aplicavel,194.80,0.66,0.58,"19,43",33.39,18,5,96.61,critico,0.00,0.09,5.43,30.63,procesado,
+ORB-00177,2025-10-02,Goiânia,GO,Centro-Oeste,-16.74,-49.54,sensor_landsat,urbano,nao_aplicavel,38.08,0.19,0.23,33.50,31.71,19,0,67.66,alto,0.00,0.86,3.24,0.00,processado,
+ORB-00178,07-18-2025,Ribeirão Preto,SP,Sudeste,-21.25,-47.77,sensor_sentinel,vegetacao_nativa,nao_aplicavel,1.30,0.81,0.55,48.67,27.59,,1,44.82,medio,0.00,0.09,6.71,50.97,processado,coordenada imprecisa
+ORB-00179,2025-06-22,Cuiabá,MT,Centro-Oeste,-15.69,-56.02,sensor_sentinel,agricultura,algodao,449.04,0.69,0.78,23.91,33.27,0,,58.08,alto,4.44,0.12,0.00,0.00,processado,sombra parcial
+ORB-00180,2025-08-14,Uberaba,MG,Sudeste,-19.60,-48.07,sensor_landsat,vegetacao_nativa,nao_aplicavel,4.43,0.76,0.70,"25,25",33.85,0,14,88.33,critico,0.00,0.02,0.00,23.67,pendente,sombra parcial
+ORB-00181,2025-06-13,Uberlândia,MG,Sudeste,-18.86,-48.41,sensor_sentinel,vegetacao_nativa,nao_aplicavel,552.32,0.86,0.70,"48,28",28.02,0,6,41.23,medio,0.00,0.07,0.00,44.11,procesado,possivel queimadura
+ORB-00182,05-09-2025,Cuiabá,MT,Centro-Oeste,-15.71,,sensor_landsat,vegetacao_nativa,nao_aplicavel,166.36,0.85,0.65,53.61,31.69,5,5,55.33,alto,0.00,0.04,0.00,57.37,reprocessar,
+ORB-00183,2025-03-23,Goiânia,GO,Centro-Oeste,-16.72,-49.45,sensor_sentinel,urbano,nao_aplicavel,283.00,0.27,0.19,40.88,NA,21,1,51.37,alto,0.00,0.56,7.80,10.97,erro_validacao,
+ORB-00184,08-31-2025,Marabá,PA,Norte,-5.26,-49.21,sensor_sentinel,agricultura,cafe,273.78,0.50,0.63,76.29,"31,46",14,3,48.69,medio,2.03,0.16,0.00,"0,00",pendente,
+ORB-00185,2025-07-02,Uberaba,MG,Sudeste,-19.72,-48.01,sensor_sentinel,vegetacao_nativa,nao_aplicavel,619.40,"0,81","0,75",40.18,27.94,7,1,,medio,0.00,0.09,"5,12",35.31,pendente,
+ORB-00186,2026-03-24,Rio Branco,AC,Norte,-10.01,-67.95,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"26,30",0.78,0.72,73.86,35.51,10,2,51.84,alto,0.00,0.12,"0,00",38.86,processado,
+ORB-00187,2025-02-02,Porto Velho,ro,Norte,-8.82,-63.86,sensor_sentinel,vegetacao_nativa,nao_aplicavel,70.18,0.63,0.11,,36.85,13,4,74.72,alto,0.00,0.09,0.00,100.00,processado,nuvem na cena
+ORB-00188,03-12-2026,Cuiabá,MT,Centro-Oeste,-15.25,-55.90,sensor_landsat,vegetacao_nativa,nao_aplicavel,91.96,0.79,0.29,33.86,30.78,17,14,90.12,critico,,0.05,0.00,100.00,pendente,coordenada imprecisa
+ORB-00189,2025-06-13,Sorriso,MT,Centro-Oeste,-12.42,-55.81,sensor_sentinel,vegetacao_nativa,nao_aplicavel,9.41,0.70,0.68,46.71,34.07,33,4,89.75,critico,0.00,0.06,0.00,22.11,processado,
+ORB-00190,2025-03-13,SINOP,MT,Centro-Oeste,-11.72,"-55,59",drone_cliente,vegetacao_nativa,nao_aplicavel,265.45,0.70,0.52,64.18,31.79,17,6,75.14,critico,0.00,0.09,"0,00",37.93,processado,
+ORB-00191,2025-07-31,Goiânia,GO,Centro-Oeste,"-16,75",-49.36,sensor_sentinel,agricultura,soja,16.58,0.66,0.62,38.15,"31,93",23,3,78.20,critico,4.09,0.18,0.00,0.00,processado,coordenada imprecisa
+ORB-00192,2026-01-29,Marabá,PA,Norte,-5.38,-49.27,sensor_sentinel,agricultura,soja,67.41,0.59,0.61,56.55,"30,26",17,1,"48,99",medio,2.77,0.19,0.00,0.00,processado,sombra parcial
+ORB-00193,2025-10-10,Cuiabá,MT,Centro-Oeste,-15.81,,sensor_landsat,vegetacao_nativa,nao_aplicavel,54.78,0.83,0.82,36.17,,22,5,66.50,alto,0.00,0.12,0.00,30.63,pendete,
+ORB-00194,,porto velho,RO,Norte,-8.86,-63.90,sensor_sentinel,agricultura,cafe,139.55,0.64,0.55,22.34,34.33,0,1,64.00,alto,1.50,0.11,0.00,9.66,erro_validacao,sombra parcial
+ORB-00195,2025-01-30,Ribeirão Preto,SP,Sudeste,-20.86,-47.51,sensor_sentinel,vegetacao_nativa,nao_aplicavel,158.40,0.83,0.81,41.57,32.36,14,2,68.08,alto,"0,00",0.04,0.00,34.63,processado,
+ORB-00196,2025-06-29,Altamira,PA,Norte,-3.23,-52.16,sensor_sentinel,vegetacao_nativa,nao_aplicavel,224.78,0.84,,"69,42",30.20,10,6,54.46,alto,"0,00",0.02,0.00,43.24,processado,
+ORB-00197,2025-03-26,Marabá,PA,Norte,-5.56,-48.98,sensor_sentinel,vegetacao_nativa,nao_aplicavel,340.23,0.78,0.75,48.85,29.20,12,7,58.48,alto,0.00,0.12,0.00,31.18,erro_validacao,possivel queimadura
+ORB-00198,,Goiânia,GO,Centro-Oeste,-16.76,-49.23,sensor_landsat,pastagem,pastagem,,0.57,0.65,"23,87","30,51",23,2,81.66,critico,1.06,0.17,"0,00",0.00,processado,
+ORB-00199,2025-02-25,Marabá,PA,Norte,-5.37,-49.19,sensor_landsat,vegetacao_nativa,nao_aplicavel,18.21,0.72,0.69,62.98,36.57,5,10,73.87,alto,0.00,0.05,0.00,22.13,processado,registro importado manualmente
+ORB-00200,2025-09-28,Sinop,MT,Centro-Oeste,-11.53,"-55,21",sensor_sentinel,urbano,nao_aplicavel,293.45,0.20,0.23,59.85,"35,68",14,1,35.10,médio,0.00,0.88,0.00,0.98,processado,registro importado manualmente
+ORB-00201,2025-05-12,Altamira,PA,Norte,-3.06,-52.12,sensor_sentinel,agricultura,milho,,0.60,0.59,80.40,35.02,0,1,40.09,medio,7.49,0.05,0.00,0.00,processado,
+ORB-00202,2025-06-14,Uberlândia,mg,Sudeste,-19.17,-48.08,sensor_sentinel,urbano,nao_aplicavel,333.87,0.21,0.24,"59,65",31.98,5,3,39.44,medio,0.00,0.83,"8,74","3,22",procesado,sombra parcial
+ORB-00203,2025-12-03,Petrolina,PE,Nordeste,-9.56,-40.73,sensor_sentinel,vegetacao_nativa,nao_aplicavel,449.36,0.76,0.33,34.58,"37,91",22,3,85.71,critico,NA,0.09,1.38,76.62,erro_validacao,
+ORB-00204,2025-01-21,Uberlândia,MG,Sudeste,"-19,00",-48.33,sensor_landsat,agricultura,cafe,28.12,0.49,0.34,5.00,32.71,16,4,94.97,crítico,,0.08,0.00,40.77,procesado,
+ORB-00205,2025-03-16,Ribeirão Preto,SP,Sudeste,"-20,98",-47.83,sensor_sentinel,urbano,nao_aplicavel,947.00,0.12,0.09,"39,72",27.73,15,7,70.27,alto,0.00,0.66,3.99,"23,00",processado,
+ORB-00206,2025-05-12,Goiânia,GO,Centro-Oeste,-16.50,-49.24,sensor_sentinel,agricultura,soja,"294,69",0.61,NA,25.53,30.93,23,8,79.31,critico,"3,13","0,06",0.00,0.00,processado,
+ORB-00207,2025-02-07,Uberlândia,MG,Sudeste,-18.99,-48.44,sensor_sentinel,agricultura,milho,119.98,0.36,0.43,20.01,"31,52",21,5,96.55,critico,7.33,0.18,5.62,0.00,processado,
+ORB-00208,,Sorriso,MT,Centro-Oeste,-12.43,-55.82,sensor_sentinel,vegetacao_nativa,nao_aplicavel,128.48,0.84,0.79,48.36,34.73,21,4,56.92,alto,0.00,0.10,"0,00",32.87,processado,nuvem na cena
+ORB-00209,2026-02-06,Altamira,PA,Norte,-3.27,-52.46,sensor_sentinel,agricultura,soja,238.20,"0,63",0.38,58.41,30.35,18,1,45.66,medio,3.47,0.11,0.00,42.80,pendente,sombra parcial
+ORB-00210,2025-12-12,Sinop,MT,Centro-Oeste,-11.91,-55.70,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"9,51",0.73,0.66,51.96,31.92,12,0,60.19,alto,0.00,0.05,0.00,29.50,processado,
+ORB-00211,2025-09-16,Marabá,PA,Norte,-5.35,,drone_cliente,urbano,nao_aplicavel,688.24,0.24,0.23,,29.79,0,0,18.31,baixo,0.00,0.68,3.09,2.59,processado,
+ORB-00212,2026-01-18,Sorriso,MT,Centro-Oeste,-12.53,-55.80,sensor_sentinel,vegetacao_nativa,nao_aplicavel,288.65,0.74,0.66,31.55,31.54,0,11,59.07,alto,0.00,0.02,0.00,29.78,procesado,
+ORB-00213,2025-10-17,Altamira,PA,Norte,-3.31,-52.26,sensor_landsat,agricultura,cana,4.01,0.81,0.90,60.52,31.08,27,9,82.32,critico,63.21,0.08,0.00,0.00,processado,sombra parcial
+ORB-00214,2025-09-24,Altamira,PA,Norte,-3.27,-52.16,drone_cliente,pastagem,pastagem,238.99,0.54,0.64,75.82,32.26,,5,57.19,alto,1.26,0.06,0.00,0.00,processado,
+ORB-00215,2025-11-07,Sinop,MT,Centro-Oeste,-11.76,-55.42,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.82,0.50,5.00,38.17,38,4,100.00,critico,0.00,0.05,,59.79,processado,
+ORB-00216,2025-05-02,Barreiras,BA,Nordeste,-12.26,-45.09,sensor_sentinel,pastagem,nao_aplicavel,1.00,0.41,0.41,45.92,32.54,5,0,44.38,medio,0.00,0.05,0.00,0.00,pendente,coordenada imprecisa
+ORB-00217,02-07-2026,Uberlândia,MG,Sudeste,-18.79,-48.28,base_municipal,urbano,nao_aplicavel,"305,22",0.25,0.19,71.75,NA,18,3,63.35,alto,0.00,0.62,0.00,24.83,processado,nuvem na cena
+ORB-00218,2026-03-10,Ribeirão Preto,SP,Sudeste,-21.09,-47.78,sensor_sentinel,urbano,nao_aplicavel,229.94,0.32,0.37,65.22,26.14,1,6,49.02,medio,0.00,0.64,6.94,"2,88",processado,nuvem na cena
+ORB-00219,2025-04-11,Palmas,TO,Norte,-10.23,-48.26,sensor_sentinel,pastagem,pastagem,598.75,0.60,0.62,95.00,31.51,8,2,35.08,medio,1.01,0.07,"0,00",0.00,processado,
+ORB-00220,2025-04-18,Barreiras,BA,Nordeste,-12.41,-45.09,sensor_sentinel,agricultura,milho,68.98,NA,0.58,32.39,32.75,14,4,65.75,alto,5.23,NA,0.00,30.35,pendente,
+ORB-00221,2026-01-11,Rio Branco,AC,Norte,-9.94,-67.60,sensor_sentinel,urbano,nao_aplicavel,492.04,0.20,0.26,37.72,35.78,1,5,NA,alto,0.00,0.90,4.40,0.00,processado,sombra parcial
+ORB-00222,2025-04-08,Sinop,MT,Centro-Oeste,-11.53,-55.37,sensor_landsat,pastagem,pastagem,172.45,0.61,0.64,33.62,36.47,26,6,"88,89",critico,1.25,0.05,"0,00",1.55,pendente,coordenada imprecisa
+ORB-00223,2025-10-11,Palmas,TO,Norte,-10.34,-48.26,sensor_sentinel,vegetacao_nativa,nao_aplicavel,423.11,0.82,0.26,48.73,36.61,17,8,88.55,critico,0.00,0.03,0.00,100.00,processado,sombra parcial
+ORB-00224,2025-12-21,Sorriso,MT,Centro-Oeste,-12.68,-55.90,sensor_sentinel,agricultura,algodao,438.31,0.41,"0,32",31.64,36.56,,0,51.95,alto,3.86,0.12,0.00,,processado,nuvem na cena
+ORB-00225,2025-01-22,Cuiabá,MT,Centro-Oeste,-15.90,"-55,96",sensor_sentinel,agricultura,milho,106.09,0.40,0.33,37.09,35.70,13,0,NA,alto,5.37,0.11,0.00,"29,56",erro_validacao,
+ORB-00226,2026-01-16,Altamira,PA,Norte,-3.12,-52.28,sensor_sentinel,agric.,milho,52.42,,0.46,50.96,32.47,14,13,57.28,alto,5.65,0.10,0.00,0.00,erro_validacao,coordenada imprecisa
+ORB-00227,22/01/2025,Marabá,PA,Norte,-5.44,-49.16,sensor_sentinel,vegetacao_nativa,nao_aplicavel,631.05,0.68,0.64,73.64,"31,91",17,13,68.35,alto,0.00,0.06,0.00,23.41,processado,
+ORB-00228,2025-12-02,Rio Branco,AC,Norte,-9.69,-67.87,sensor_sentinel,vegetacao_nativa,nao_aplicavel,29.21,0.71,0.28,69.77,"28,17",12,2,45.07,medio,0.00,0.10,0.00,85.09,processado,
+ORB-00229,2025-12-07,Uberlândia,MG,Sudeste,-18.87,-48.04,sensor_sentinel,agua,nao_aplicavel,20.51,0.08,0.02,46.15,31.40,7,2,54.55,alto,0.00,0.01,0.00,"18,22",processado,sombra parcial
+ORB-00230,2025-12-10,Uberaba,MG,Sudeste,-19.77,-47.99,sensor_landsat,agricultura,cana,136.93,0.43,0.27,33.02,30.07,18,5,73.78,alto,62.51,0.12,0.00,43.34,processado,possivel queimadura
+ORB-00231,2025-02-04,Uberlândia,MG,Sudeste,-18.88,-48.42,sensor_sentinel,agricultura,soja,964.45,0.61,0.36,31.05,33.71,,1,71.84,alto,3.14,0.06,,"48,38",processado,
+ORB-00232,2025-11-17,Altamira,PA,Norte,-2.92,-51.90,sensor_landsat,vegetacao_nativa,nao_aplicavel,402.80,0.75,0.68,24.24,28.38,4,4,64.95,alto,0.00,0.04,0.00,37.04,erro_validacao,
+ORB-00233,2025-08-05,Goiânia,go,Centro-Oeste,-16.72,-49.40,sensor_landsat,vegetacao_nativa,nao_aplicavel,3.18,0.79,0.32,72.45,32.25,,28,100.00,critico,0.00,0.06,0.00,"100,00",processado,possivel queimadura
+ORB-00234,2025-07-03,Ribeirão Preto,SP,Sudeste,-21.29,-47.69,sensor_sentinel,urbano,nao_aplicavel,18.14,0.30,0.24,5.55,32.17,0,0,80.54,critico,0.00,"0,59",3.92,15.08,erro validacao,
+ORB-00235,2025-04-09,Uberlândia,MG,Sudeste,-18.79,-48.44,sensor_sentinel,vegetacao_nativa,nao_aplicavel,249.66,0.67,0.58,34.18,"31,89",8,11,83.52,critico,0.00,0.05,0.00,53.52,processado,possivel queimadura
+ORB-00236,2025-11-15,Porto Velho,RO,Norte,-8.65,-63.76,sensor_sentinel,agricultura,milho,64.90,0.64,0.58,39.53,35.06,20,4,79.53,critico,6.50,0.15,0.00,20.23,processado,sombra parcial
+ORB-00237,06/01/2026,Rio Branco,AC,Norte,-10.10,-67.99,sensor_landsat,vegetacao_nativa,nao_aplicavel,102.58,"0,67",0.65,"54,46",32.15,11,8,69.13,alto,0.00,0.05,0.00,29.38,processado,
+ORB-00238,2025-04-30,Barreiras,BA,Nordeste,-12.42,-45.02,sensor_sentinel,vegetacao_nativa,nao_aplicavel,108.17,0.72,0.34,26.53,31.38,12,3,,alto,NA,0.05,0.00,79.45,processado,
+ORB-00239,2025-01-28,Sinop,MT,Centro-Oeste,-12.01,-55.81,sensor_sentinel,urbano,nao_aplicavel,142.82,0.22,"0,18",55.83,31.66,23,6,70.10,alto,0.00,0.59,,0.10,processado,coordenada imprecisa
+ORB-00240,26/08/2025,Porto Velho,RO,Norte,-8.88,-63.99,sensor_sentinel,agricultura,soja,102.28,NA,0.60,76.56,36.47,0,5,27.01,medio,3.03,0.19,0.00,24.80,processado,possivel queimadura
+ORB-00241,2025-03-19,Uberlândia,MG,Sudeste,-19.13,-48.42,sensor_landsat,agricultura,soja,317.61,0.71,0.79,33.43,25.32,14,5,64.38,alto,3.10,,0.00,0.00,processado,
+ORB-00242,,Goiânia,GO,Centro-Oeste,-16.64,-49.24,sensor_landsat,pastagem,pastagem,114.64,"0,33",0.11,47.48,37.01,21,17,85.33,critico,1.17,0.13,0.00,,erro_validacao,coordenada imprecisa
+ORB-00243,2025-12-01,Ribeirão Preto,SP,Sudeste,-21.30,-47.67,sensor_sentinel,vegetacao_nativa,nao_aplicavel,209.10,0.80,"0,77",47.48,33.08,14,0,39.81,medio,0.00,0.12,,19.68,processado,
+ORB-00244,,Uberlândia,MG,Sudeste,-19.18,-48.47,sensor_sentinel,vegetacao_nativa,nao_aplicavel,22.02,0.62,0.57,34.03,28.52,19,1,70.75,alto,0.00,0.10,0.00,"36,23",pendente,
+ORB-00245,2025-10-17,Sinop,MT,Centro-Oeste,-11.58,-55.37,sensor_landsat,vegetacao_nativa,nao_aplicavel,529.41,0.86,0.84,"48,35",36.77,18,5,58.76,alto,0.00,0.05,,35.58,processado,
+ORB-00246,2025-05-22,Uberlândia,MG,Sudeste,-19.05,"-48,11",sensor_landsat,vegetacao_nativa,nao_aplicavel,30.03,0.64,0.25,54.96,33.32,0,0,"52,21",alto,0.00,0.09,0.00,98.22,reprocessar,possivel queimadura
+ORB-00247,2025-01-21,Uberlândia,MG,Sudeste,-18.98,-48.18,sensor_sentinel,urbano,nao_aplicavel,523.51,0.31,NA,48.86,28.48,19,6,49.38,medio,0.00,0.74,12.20,6.95,pendente,
+ORB-00248,2025-04-14,Sinop,MT,Centro-Oeste,"-11,80",-55.39,sensor_sentinel,vegetacao nat.,nao_aplicavel,99.79,0.68,0.33,12.20,36.14,17,2,100.00,critico,0.00,0.06,"0,00",NA,processado,registro importado manualmente
+ORB-00249,2025-05-16,Goiânia,GO,Centro-Oeste,-16.68,-49.09,sensor_sentinel,vegetacao_nativa,nao_aplicavel,595.09,NA,0.71,48.68,32.72,13,10,68.99,alto,0.00,0.09,0.00,41.56,reprocessar,sombra parcial
+ORB-00250,2025-08-13,Palmas,TO,Norte,-10.05,-48.17,sensor_sentinel,agricultura,milho,218.32,0.54,0.44,60.57,34.68,21,2,47.92,medio,6.67,0.11,8.21,18.38,processado,possivel queimadura
+ORB-00251,2025-04-06,Rio Branco,AC,Norte,"-9,83",-67.95,base_municipal,vegetacao_nativa,nao_aplicavel,11.04,0.80,0.25,25.81,33.43,13,8,95.09,critico,0.00,0.07,,99.86,processado,
+ORB-00252,,Uberlândia,MG,Sudeste,-18.84,-48.21,sensor_sentinel,agricultura,cafe,352.69,0.43,0.60,49.71,28.65,0,3,45.97,médio,2.22,0.19,0.00,0.00,processado,
+ORB-00253,2025-11-14,Petrolina,PE,Nordeste,-9.42,-40.50,sensor_landsat,urbano,nao_aplicavel,61.44,,0.14,47.66,38.30,18,14,85.37,critico,0.00,0.90,10.01,0.00,erro_validacao,
+ORB-00254,,Uberaba,MG,Sudeste,-19.67,-47.94,sensor_sentinel,vegetacao_nativa,nao_aplicavel,475.46,0.88,0.82,42.77,NA,19,3,62.60,alto,0.00,0.05,0.00,27.72,pendente,possivel queimadura
+ORB-00255,29/07/2025,Ribeirão Preto,SP,Sudeste,-21.04,-47.59,sensor_sentinel,pastagem,pastagem,73.83,0.38,0.38,"38,13",32.07,11,0,58.47,alto,1.02,"0,17",,8.38,processado,
+ORB-00256,2025-10-21,Cuiabá,MT,Centro-Oeste,-15.70,-56.07,sensor_sentinel,agricultura,cana,178.32,0.42,0.48,43.17,,21,5,63.70,alto,97.30,0.13,0.00,5.70,pendente,sombra parcial
+ORB-00257,18/08/2025,Barreiras,BA,Nordeste,-12.01,-44.93,sensor_sentinel,agricultura,algodao,635.39,"0,56",0.43,"5,00",35.19,18,0,"86,93",critico,4.29,0.17,0.00,,processado,nuvem na cena
+ORB-00258,2025-02-22,Ribeirão Preto,SP,Sudeste,-21.34,-47.79,sensor_sentinel,agricultura,algodao,472.21,0.73,0.82,40.52,32.17,9,2,37.27,medio,4.59,0.09,0.00,0.00,pendente,coordenada imprecisa
+ORB-00259,2025-03-14,Goiânia,GO,Centro-Oeste,,-49.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,317.96,0.86,"0,24",31.78,34.36,,18,87.88,critico,0.00,0.09,0.00,100.00,processado,possivel queimadura
+ORB-00260,2025-10-31,Sinop,MT,Centro-Oeste,-11.90,-55.46,sensor_landsat,vegetacao_nativa,nao_aplicavel,101.26,0.87,0.81,11.16,38.29,2,2,"84,22",critico,0.00,0.07,3.86,19.49,processado,
+ORB-00261,2025-09-26,Marabá,PA,Norte,-5.31,-49.11,drone_cliente,pastagem,pastagem,153.58,0.49,0.58,85.13,30.68,10,2,43.58,medio,1.38,0.15,0.02,0.00,processado,
+ORB-00262,2025-10-11,Uberaba,MG,Sudeste,-19.87,-47.83,sensor_landsat,agricultura,soja,58.92,0.67,0.50,75.52,25.02,10,5,44.19,medio,3.43,"0,18",0.00,22.46,erro_validacao,nuvem na cena
+ORB-00263,10-03-2025,Uberlândia,MG,Sudeste,-18.97,-48.40,sensor_landsat,urbano,nao_aplicavel,101.73,0.28,,57.63,29.29,6,11,38.66,medio,0.00,0.74,0.00,32.06,processado,
+ORB-00264,2025-09-16,Rio Branco,AC,Norte,-9.99,-67.79,sensor_sentinel,vegetacao_nativa,nao_aplicavel,675.54,0.78,0.38,55.34,33.17,11,8,63.62,alto,0.00,NA,0.00,90.15,processado,possivel queimadura
+ORB-00265,2025-07-03,Marabá,PA,Norte,-5.33,-49.03,sensor_landsat,vegetacao_nativa,nao_aplicavel,199.63,0.84,0.34,"73,54",28.13,5,1,27.29,medio,0.00,0.09,0.00,91.99,processado,
+ORB-00266,2025-10-01,Porto Velho,RO,Norte,-8.83,-63.93,sensor_landsat,vegetacao nat.,nao_aplicavel,41.18,0.86,0.85,48.77,33.72,1,4,40.91,medio,0.00,0.10,0.00,39.73,pendente,
+ORB-00267,05/11/2025,Uberaba,MG,Sudeste,-19.78,-47.91,sensor_sentinel,vegetacao_nativa,nao_aplicavel,135.34,0.74,0.71,28.41,31.95,27,5,100.00,critico,0.00,0.02,0.00,22.91,pendente,
+ORB-00268,2025-09-03,Uberaba,MG,Sudeste,-19.79,-48.03,sensor_sentinel,vegetacao nat.,nao_aplicavel,26.17,0.83,0.77,20.15,28.56,3,8,80.28,critico,0.00,0.08,0.00,31.73,processado,
+ORB-00269,2025-10-02,Uberlândia,MG,Sudeste,-18.63,-48.31,sensor_sentinel,pastagem,pastagem,165.25,0.49,0.56,34.53,27.36,13,1,72.62,alto,1.21,"0,18",0.00,NA,processado,
+ORB-00270,2026-02-07,Barreiras,BA,Nordeste,-12.03,-44.81,sensor_sentinel,vegetacao_nativa,nao_aplicavel,,0.79,0.76,41.85,31.53,1,6,62.15,alto,0.00,0.11,0.00,,processado,
+ORB-00271,22/01/2025,Uberlândia,MG,Sudeste,,-48.16,sensor_sentinel,vegetacao_nativa,nao_aplicavel,221.62,0.71,0.51,32.18,27.31,15,0,74.44,alto,0.00,0.05,0.00,57.84,pendete,registro importado manualmente
+ORB-00272,2025-09-10,Altamira,PA,Norte,-3.47,,sensor_sentinel,agricultura,cafe,NA,,0.53,35.87,,35,6,99.64,critico,1.57,"0,17",0.00,"0,00",processado,
+ORB-00273,2025-10-22,Marabá,PA,Norte,NA,-48.87,sensor_sentinel,vegetacao_nativa,nao_aplicavel,36.02,0.77,"0,52",,33.79,13,3,72.40,alto,0.00,0.11,0.00,"74,13",processado,
+ORB-00274,2025-12-30,Sinop,MT,Centro-Oeste,-11.92,,sensor_sentinel,pastagem,pastagem,358.82,0.46,0.43,"38,07",30.81,15,3,53.11,alto,1.27,0.10,0.00,1.32,pendente,coordenada imprecisa
+ORB-00275,2025-05-27,Sinop,MT,Centro-Oeste,-11.82,-55.48,Sentinel,vegetacao_nativa,nao_aplicavel,171.07,0.76,0.67,44.31,36.23,10,2,44.57,medio,0.00,0.07,0.00,41.81,pendente,nuvem na cena
+ORB-00276,2025-07-26,sinop,MT,Centro-Oeste,-11.93,,sensor_landsat,vegetacao_nativa,nao_aplicavel,104.07,0.69,0.67,30.48,31.50,17,,100.00,critico,0.00,0.09,0.00,23.59,pendente,
+ORB-00277,2026-03-11,Ribeirão Preto,SP,Sudeste,-21.45,-48.12,sensor_sentinel,urbano,nao_aplicavel,792.82,0.34,NA,19.40,25.87,15,4,"74,98",alto,0.00,0.65,4.05,14.10,processado,sombra parcial
+ORB-00278,2025-04-23,Uberlândia,MG,Sudeste,-18.97,-48.29,sensor_sentinel,vegetacao_nativa,nao_aplicavel,472.72,0.64,0.58,44.22,31.31,12,2,41.45,medio,0.00,0.07,0.00,NA,procesado,
+ORB-00279,06-29-2025,Sinop,MT,Centro-Oeste,-11.69,-55.58,sensor_sentinel,urbano,nao_aplicavel,109.46,"0,16",0.12,90.26,38.65,34,3,69.18,alto,0.00,0.59,6.58,"6,14",pendente,possivel queimadura
+ORB-00280,02/10/2025,Cuiabá,MT,Centro-Oeste,-15.44,-56.02,sensor_sentinel,vegetacao_nativa,nao_aplicavel,165.28,0.65,"0,59",38.41,30.72,22,11,79.35,critico,0.00,0.07,0.00,26.82,pendente,
+ORB-00281,2025-06-18,Marabá,PA,Norte,-5.34,-49.13,sensor_landsat,agricultura,soja,410.72,"0,72",0.51,67.65,33.67,0,5,52.50,alto,4.31,"0,16",0.00,41.24,pendente,possivel queimadura
+ORB-00282,2025-07-19,Uberaba,MG,Sudeste,-19.59,-47.96,sensor_sentinel,pastagem,pastagem,133.89,"0,36",0.20,47.40,32.81,24,0,61.99,alto,1.05,NA,0.00,19.60,processado,coordenada imprecisa
+ORB-00283,2025-03-21,Ribeirão Preto,SP,Sudeste,-21.32,-47.65,sensor_sentinel,vegetacao_nativa,nao_aplicavel,534.90,0.81,0.48,48.04,28.64,11,8,64.26,alto,0.00,0.01,0.00,69.19,pendente,
+ORB-00284,2025-03-17,Altamira,PA,Norte,NA,-52.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,323.88,0.79,0.31,46.84,32.77,13,1,64.46,alto,0.00,0.03,"0,00",97.02,processado,possivel queimadura
+ORB-00285,2026-03-09,Sinop,MT,Centro-Oeste,-11.69,-55.17,sensor_landsat,vegetacao_nativa,nao_aplicavel,60.74,0.84,0.80,5.00,35.91,13,13,100.00,critico,"0,00",0.03,0.00,30.34,processado,
+ORB-00286,2025-07-12,Ribeirão Preto,SP,Sudeste,-21.30,"-47,80",sensor_sentinel,pastagem,pastagem,396.57,0.61,0.63,53.76,33.29,11,10,66.98,alto,1.12,0.07,0.00,10.98,erro_validacao,sombra parcial
+ORB-00287,2025-11-01,Goiânia,GO,Centro-Oeste,-16.66,-49.35,base_municipal,urbano,nao_aplicavel,23.98,0.25,0.15,17.90,36.51,17,1,"66,39",alto,0.00,0.95,14.90,26.88,pendente,
+ORB-00288,2025-02-08,Sorriso,MT,Centro-Oeste,-12.72,-55.71,base_municipal,vegetacao_nativa,nao_aplicavel,33.86,0.81,0.50,39.63,37.10,18,8,80.19,critico,"0,00",0.11,1.69,66.69,processado,
+ORB-00289,29/12/2025,Uberaba,MG,Sudeste,-19.62,-47.99,sensor_sentinel,vegetacao_nativa,nao_aplicavel,36.62,0.69,0.62,48.48,27.14,0,2,48.55,medio,0.00,0.12,0.00,,processado,coordenada imprecisa
+ORB-00290,2025-06-03,Sinop,MT,Centro-Oeste,-11.87,-55.39,sensor_landsat,urbano,nao_aplicavel,239.74,0.19,0.24,28.90,37.76,11,1,"73,10",alto,0.00,0.77,10.29,0.00,processado,
+ORB-00291,2025-02-16,Cuiabá,MT,Centro-Oeste,-15.55,-56.12,sensor_sentinel,vegetacao_nativa,nao_aplicavel,57.01,0.76,0.71,61.63,31.00,14,11,86.07,critico,0.00,0.07,0.00,,processado,
+ORB-00292,data_invalida,Uberaba,MG,Sudeste,-19.66,-47.89,sensor_sentinel,vegetacao_nativa,nao_aplicavel,,0.80,0.80,22.72,"27,40",8,0,57.20,alto,0.00,0.10,0.00,23.47,processado,
+ORB-00293,2025-10-23,Sorriso,MT,Centro-Oeste,-12.30,-55.38,Sentinel,vegetacao nat.,nao_aplicavel,35.53,0.73,0.30,65.21,36.80,1,9,54.50,alto,0.00,0.10,0.00,"83,83",processado,possivel queimadura
+ORB-00294,2026-03-15,Sinop,MT,Centro-Oeste,,-55.62,sensor_sentinel,agricultura,soja,27.61,NA,0.61,58.61,37.63,18,0,64.88,alto,1.59,0.18,0.00,"11,61",processado,sombra parcial
+ORB-00295,2025-03-25,Marabá,PA,Norte,-5.20,-49.27,sensor_sentinel,urbano,nao_aplicavel,1.00,0.34,0.29,55.46,"36,91",8,1,52.47,alto,0.00,"0,72",9.28,16.06,processado,registro importado manualmente
+ORB-00296,10-24-2025,Uberaba,MG,Sudeste,-19.74,-47.93,sensor_sentinel,agricultura,cafe,4.27,,"0,58",22.41,26.43,13,11,82.64,critico,1.96,0.17,,42.81,processado,registro importado manualmente
+ORB-00297,2026-03-09,Marabá,PA,Norte,-5.44,-49.06,sensor_sentinel,vegetacao_nativa,nao_aplicavel,308.73,0.73,0.09,58.09,32.13,15,17,83.30,critico,0.00,0.08,0.00,100.00,procesado,coordenada imprecisa
+ORB-00298,2025-05-07,Uberaba,MG,Sudeste,-19.92,-47.92,sensor_landsat,vegetacao_nativa,nao_aplicavel,294.03,0.87,0.81,57.69,"33,70",6,2,39.50,medio,0.00,0.11,0.00,28.80,pendente,
+ORB-00299,2025-01-16,Uberlândia,MG,Sudeste,-18.91,-48.25,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"160,83",0.85,0.59,26.87,28.91,21,1,85.37,critico,"0,00",0.01,0.00,70.14,pendente,sombra parcial
+ORB-00300,2026-01-10,Goiânia,GO,Centro-Oeste,,-49.60,sensor_sentinel,agricultura,soja,47.28,0.43,0.39,53.42,38.74,21,5,75.87,critico,2.78,"0,15",0.00,,processado,
+ORB-00301,2026-01-25,Goiânia,GO,Centro-Oeste,-16.63,-49.18,sensor_sentinel,vegetacao_nativa,nao_aplicavel,82.20,0.84,0.51,,32.24,7,4,79.31,critico,0.00,0.11,"0,00",59.52,reprocessar,
+ORB-00302,2025-02-21,Porto Velho,RO,Norte,-9.09,-63.74,sensor_sentinel,agricultura,milho,"426,59",0.81,0.81,26.74,28.37,8,4,47.97,médio,5.14,0.14,0.00,14.19,processado,
+ORB-00303,2025-11-25,goiânia,GO,Centro-Oeste,-16.38,-49.37,sensor_sentinel,pastagem,pastagem,101.98,0.43,0.44,50.66,"32,71",25,7,63.97,alto,1.23,0.03,0.00,15.86,processado,
+ORB-00304,2025-01-07,Goiânia,GO,Centro-Oeste,NA,-49.40,sensor_sentinel,agricultura,cana,150.32,0.63,0.53,68.01,33.15,22,7,75.60,critico,106.42,"0,18",0.00,17.01,processado,
+ORB-00305,2025-07-22,Barreiras,BA,Nordeste,-12.09,-45.12,LANDSAT,agric.,milho,150.26,0.70,0.77,25.18,39.39,9,,76.53,critico,6.77,0.14,0.00,0.00,processado,
+ORB-00306,2025-06-18,Marabá,PA,Norte,-5.29,-49.36,LANDSAT,vegetacao_nativa,nao_aplicavel,145.25,0.67,0.61,40.81,33.55,12,4,52.53,alto,,NA,0.00,47.47,pendente,possivel queimadura
+ORB-00307,2025-08-09,Sinop,MT,Centro-Oeste,-12.06,-55.63,sensor_sentinel,urbnao,nao_aplicavel,32.60,0.11,0.09,66.36,36.37,17,2,41.44,médio,0.00,,4.36,13.09,procesado,coordenada imprecisa
+ORB-00308,2026-03-25,Goiânia,GO,Centro-Oeste,-16.82,-49.37,sensor_landsat,agricultura,cafe,131.70,0.40,0.19,5.93,36.47,7,3,89.87,critico,1.60,0.10,2.41,40.81,reprocessar,
+ORB-00309,25/09/2025,Altamira,PA,Norte,"-3,43",-52.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,663.88,0.62,0.56,60.98,29.07,7,12,51.33,alto,NA,0.05,0.00,"31,34",processado,registro importado manualmente
+ORB-00310,10-22-2025,Palmas,TO,Norte,"-10,37",-48.49,drone_cliente,agricultura,soja,199.60,0.37,0.42,NA,34.58,6,1,66.58,alto,"4,17",0.06,0.00,"6,06",erro_validacao,possivel queimadura
+ORB-00311,2025-11-07,Uberlândia,MG,Sudeste,-19.11,-48.43,sensor_landsat,agricultura,soja,152.87,0.57,0.44,46.84,28.93,4,11,55.13,alto,3.84,0.16,0.00,11.07,processado,
+ORB-00312,2025-10-10,Uberaba,MG,Sudeste,-19.44,-48.14,sensor_landsat,agricultura,soja,171.87,"0,66",0.46,41.53,30.62,9,0,31.52,medio,,NA,0.00,33.97,processado,
+ORB-00313,2025-10-28,Palmas,TO,Norte,-10.15,-48.38,drone_cliente,vegetacao_nativa,nao_aplicavel,199.39,0.85,0.66,86.39,32.71,0,13,68.85,alto,0.00,0.01,0.00,62.77,processado,
+ORB-00314,2026-02-02,Altamira,PA,Norte,-3.09,-52.33,sensor_landsat,vegetacao_nativa,nao_aplicavel,86.24,0.72,0.66,73.23,30.78,7,10,69.33,alto,0.00,0.10,0.00,45.72,pendete,
+ORB-00315,2026-03-10,Uberlândia,MG,Sudeste,-19.02,-48.18,sensor_sentinel,vegetacao_nativa,nao_aplicavel,530.68,"0,72",0.49,38.54,27.04,7,19,77.23,critico,0.00,,0.00,60.41,pendente,
+ORB-00316,04/05/2025,Petrolina,PE,Nordeste,"-9,29",-40.67,base_municipal,vegetacao_nativa,nao_aplicavel,1.00,0.87,0.48,52.77,,5,0,58.60,alto,0.00,0.09,0.00,81.32,pendente,
+ORB-00317,2025-05-11,Goiânia,GO,Centro-Oeste,-16.40,-49.16,sensor_landsat,vegetacao_nativa,nao_aplicavel,761.02,0.82,0.31,57.64,32.36,28,8,78.43,critico,0.00,0.02,0.00,100.00,erro_validacao,possivel queimadura
+ORB-00318,2025-05-06,Barreiras,BA,Nordeste,-12.30,-45.00,sensor_landsat,vegetacao_nativa,nao_aplicavel,438.48,0.78,0.69,50.04,35.10,30,3,74.10,alto,0.00,"0,02",4.26,33.22,processado,possivel queimadura
+ORB-00319,2025-06-05,Uberlândia,MG,Sudeste,-19.03,-48.23,sensor_sentinel,agricultura,soja,116.72,0.39,0.46,34.03,27.30,16,0,45.78,medio,3.37,0.11,"0,00",0.00,processado,
+ORB-00320,2025-05-08,Sinop,MT,Centro-Oeste,-12.01,-55.56,sensor_sentinel,agricultura,soja,319.42,0.49,0.43,"68,23",38.93,16,2,51.57,alto,4.43,0.14,0.00,"6,02",processado,
+ORB-00321,2025-08-15,Uberaba,MG,Sudeste,-19.76,-47.98,sensor_landsat,agricultura,soja,48.12,0.74,0.49,21.64,25.86,7,2,59.90,alto,4.01,0.07,0.00,48.59,pendente,
+ORB-00322,2025-02-01,Ribeirão Preto,SP,Sudeste,"-21,05",-48.08,sensor_landsat,urbano,nao_aplicavel,173.48,0.15,0.09,35.88,33.75,14,2,58.65,alto,0.00,0.93,"17,91",23.44,processado,registro importado manualmente
+ORB-00323,05-29-2025,Uberaba,MG,Sudeste,-19.83,-47.93,sensor_sentinel,vegetacao_nativa,nao_aplicavel,594.19,0.70,0.34,58.00,26.04,0,0,36.90,medio,0.00,0.04,0.00,92.36,processado,
+ORB-00324,2025-08-10,Palmas,TO,Norte,-9.97,-48.61,sensor_landsat,agricultura,soja,196.61,0.69,0.47,39.34,,3,3,46.06,médio,3.95,NA,0.00,50.75,pendente,
+ORB-00325,2025-01-20,Altamira,PA,Norte,-3.21,-52.20,sensor_sentinel,vegetacao_nativa,nao_aplicavel,199.12,0.73,0.30,63.51,33.94,13,1,56.97,alto,0.00,0.11,0.00,83.08,processado,nuvem na cena
+ORB-00326,2025-08-26,Rio Branco,AC,Norte,-10.09,-67.79,sensor_sentinel,urbano,nao_aplicavel,272.61,0.17,"0,21",64.84,,13,2,46.46,medio,0.00,0.56,7.48,"2,10",reprocessar,sombra parcial
+ORB-00327,2025-09-30,Cuiabá,MT,Centro-Oeste,,-56.25,sensor_landsat,vegetacao_nativa,nao_aplicavel,43.75,0.79,0.79,50.87,31.98,18,6,71.76,alto,0.00,0.04,0.00,"15,86",pendente,
+ORB-00328,2025-04-24,Porto Velho,RO,Norte,-8.84,-63.60,base munic.,agricultura,milho,141.69,0.56,0.35,"62,83",30.66,14,0,37.75,medio,4.46,NA,0.00,NA,processado,registro importado manualmente
+ORB-00329,2025-09-13,Altamira,PA,Norte,-3.08,-51.95,drone_cliente,vegetacao_nativa,nao_aplicavel,535.79,"0,68",0.16,70.12,,17,3,72.62,alto,0.00,0.04,0.00,100.00,processado,
+ORB-00330,2025-10-02,Ribeirão Preto,SP,Sudeste,-21.14,"-47,93",base_municipal,vegetacao_nativa,nao_aplicavel,51.49,0.86,0.84,44.56,31.77,0,8,57.53,alto,0.00,0.08,0.00,15.87,pendente,nuvem na cena
+ORB-00331,2025-04-21,Marabá,PA,Norte,-5.50,-49.14,sensor_landsat,vegetacao_nativa,nao_aplicavel,266.46,"0,62",0.58,48.24,32.80,7,6,67.37,alto,0.00,0.09,"0,00",39.18,processado,
+ORB-00332,2026-02-23,Marabá,PA,Norte,"-5,38",-48.93,drone_cliente,agricultura,soja,76.02,0.54,0.39,64.67,,26,2,"50,85",alto,4.10,0.18,0.00,,processado,
+ORB-00333,2025-04-20,Uberaba,MG,Sudeste,-19.86,"-48,16",sensor_sentinel,vegetacao_nativa,nao_aplicavel,106.94,0.85,0.78,22.47,25.44,23,3,92.99,critico,0.00,0.02,0.00,42.79,processado,coordenada imprecisa
+ORB-00334,12-04-2025,Marabá,PA,Norte,-5.40,-49.13,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.70,0.70,50.21,30.30,7,3,46.91,medio,0.00,0.04,0.00,14.92,processado,
+ORB-00335,2025-04-10,Altamira,PA,Norte,-3.18,-52.13,sensor_landsat,vegetacao_nativa,nao_aplicavel,386.34,0.75,0.48,53.32,29.09,10,5,"59,25",alto,0.00,0.02,0.51,77.24,processado,
+ORB-00336,2025-07-25,Uberaba,MG,Sudeste,-19.68,-48.01,sensor_sentinel,agricultura,soja,119.48,0.36,0.41,38.22,29.30,12,,46.74,medio,2.10,0.19,1.32,2.00,processado,
+ORB-00337,2025-12-23,Ribeirão Preto,SP,Sudeste,-21.09,-47.76,sensor_landsat,urbano,nao_aplicavel,232.03,0.26,0.17,50.97,28.52,12,5,57.17,alto,"0,00",0.79,10.63,"14,09",pendente,nuvem na cena
+ORB-00338,2025-04-19,Altamira,PA,Norte,-3.30,-52.30,sensor_sentinel,agricultura,milho,8.14,0.51,0.69,46.73,34.85,6,4,38.16,medio,"6,66",0.10,0.00,0.00,procesado,nuvem na cena
+ORB-00339,2025-11-05,Cuiabá,MT,Centro-Oeste,"-15,58",-56.04,sensor_sentinel,agricultura,soja,142.44,0.80,0.90,51.70,32.92,36,3,"88,19",critico,NA,0.12,0.00,0.00,procesado,coordenada imprecisa
+ORB-00340,,Petrolina,PE,Nordeste,"-9,34",-40.40,sensor_sentinel,agricultura,soja,43.97,0.40,0.52,49.00,34.06,30,1,70.72,alto,3.47,0.16,0.00,0.00,processado,
+ORB-00341,2025-07-06,Cuiabá,MT,Centro-Oeste,-15.71,-55.82,sensor_landsat,vegetacao nat.,nao_aplicavel,6.54,0.81,0.61,"51,88",32.06,14,,69.45,alto,0.00,0.12,0.00,65.58,processado,
+ORB-00342,2026-02-27,Barreiras,BA,Nordeste,-12.22,-44.87,sensor_landsat,vegetacao_nativa,nao_aplicavel,325.04,0.66,0.42,29.13,37.20,12,1,77.69,critico,0.00,"0,03",0.00,74.45,processado,
+ORB-00343,2025-09-27,Sinop,mt,Centro-Oeste,-11.75,-55.53,sensor_sentinel,agricultura,milho,42.00,0.40,0.35,37.99,32.23,22,7,84.29,critico,3.74,0.11,0.00,18.15,processado,
+ORB-00344,data_invalida,Cuiabá,MT,Centro-Oeste,-15.85,-56.00,drone_cliente,agricultura,cana,19.56,0.46,0.32,52.97,31.19,12,1,34.22,medio,88.32,0.10,0.00,,processado,
+ORB-00345,2025-06-11,Uberlândia,MG,Sudeste,-18.93,-48.32,drone_cliente,vegetacao_nativa,nao_aplicavel,223.51,0.84,0.42,"37,22",25.51,12,6,53.67,alto,0.00,0.07,4.64,76.96,processado,
+ORB-00346,2025-01-05,Ribeirão Preto,SP,Sudeste,-21.25,-47.79,sensor_landsat,agricultura,soja,277.92,0.79,0.75,74.95,27.21,8,5,45.46,medio,3.47,0.12,0.00,5.80,reprocessar,
+ORB-00347,2025-02-26,Uberaba,MG,Sudeste,-19.75,-47.96,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"286,04",0.84,0.79,42.75,"31,56",22,5,86.62,critico,0.00,0.10,0.00,"37,89",reprocessar,
+ORB-00348,2026-02-09,Goiânia,GO,Centro-Oeste,-16.77,-49.44,sensor_sentinel,vegetacao_nativa,nao_aplicavel,89.64,0.72,0.62,NA,31.53,17,1,63.29,alto,0.00,0.12,0.00,40.14,processado,coordenada imprecisa
+ORB-00349,2025-03-03,Sinop,MT,Centro-Oeste,-11.97,-55.42,base_municipal,vegetacao_nativa,nao_aplicavel,55.17,0.84,0.77,61.43,34.77,13,1,60.34,alto,0.00,0.05,0.00,21.05,processado,coordenada imprecisa
+ORB-00350,data_invalida,Porto Velho,RO,Norte,-8.61,-64.04,sensor_sentinel,urbano,nao_aplicavel,11.92,0.15,0.08,72.45,"35,30",17,1,56.07,alto,0.00,NA,5.63,11.23,erro_validacao,
+ORB-00351,2026-03-05,Uberaba,MG,Sudeste,-19.64,-48.11,sensor_landsat,agric.,soja,6.89,0.69,0.63,48.32,27.78,28,0,"65,93",alto,3.52,0.16,"0,00",8.22,processado,nuvem na cena
+ORB-00352,2025-04-07,Cuiabá,MT,Centro-Oeste,-15.53,-55.89,sensor_landsat,agricultura,soja,104.65,0.60,0.39,49.38,,7,3,50.11,alto,3.72,0.14,0.00,39.75,processado,
+ORB-00353,2025-12-08,Rio Branco,AC,Norte,,-68.04,sensor_landsat,agricultura,cafe,73.74,0.57,0.46,47.64,30.33,18,0,34.12,medio,2.09,,0.00,24.09,processado,
+ORB-00354,2025-04-02,Ribeirão Preto,SP,Sudeste,-21.01,-47.86,sensor_landsat,pastagem,nao_aplicavel,32.09,0.50,0.37,50.91,32.95,9,5,42.50,medio,0.00,0.17,0.00,20.35,erro_validacao,coordenada imprecisa
+ORB-00355,2025-04-30,Altamira,PA,Norte,-3.39,-52.01,sensor_landsat,urbano,nao_aplicavel,200.35,0.21,0.20,68.65,34.83,11,1,35.20,medio,0.00,0.85,6.69,20.78,processado,
+ORB-00356,2026-01-03,Barreiras,BA,Nordeste,-12.16,-45.00,sensor_sentinel,agricultura,soja,214.02,0.47,0.29,57.05,,7,0,,medio,3.49,0.06,"0,00",28.33,processado,
+ORB-00357,2026-03-03,ALTAMIRA,PA,Norte,"-2,94",-52.43,sensor_landsat,vegetacao_nativa,nao_aplicavel,NA,0.85,0.34,80.96,"31,62",16,6,78.35,critico,0.00,0.06,0.00,100.00,pendente,
+ORB-00358,2025-07-07,Uberlândia,MG,Sudeste,-19.04,-48.55,sensor_sentinel,pastagem,nao_aplicavel,79.24,0.36,"0,36",26.64,32.05,10,1,55.97,alto,0.00,0.07,0.00,17.07,re-processar,
+ORB-00359,2025-06-01,Altamira,PA,Norte,-3.07,"-52,08",sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.69,0.11,64.41,29.56,7,5,53.88,alto,0.00,0.02,0.00,100.00,erro_validacao,
+ORB-00360,25/07/2025,Palmas,TO,Norte,-10.31,"-48,20",sensor_sentinel,pastagem,pastagem,220.42,0.64,0.53,"91,78",33.54,12,16,84.88,critico,1.43,0.11,0.00,12.32,erro_validacao,
+ORB-00361,2025-07-20,Uberlândia,MG,Sudeste,-19.27,-48.37,sensor_landsat,vegetacao_nativa,nao_aplicavel,787.03,0.63,"0,55",55.35,28.23,6,2,NA,alto,0.00,0.09,,42.65,procesado,registro importado manualmente
+ORB-00362,2025-02-17,Marabá,PA,Norte,-5.18,-49.11,sensor_sentinel,urbano,nao_aplicavel,127.76,0.29,0.31,75.31,33.04,21,1,58.36,alto,0.00,0.65,5.02,10.09,processado,registro importado manualmente
+ORB-00363,02-02-2025,Cuiabá,MT,Centro-Oeste,-15.44,-56.26,sensor_sentinel,pastagem,pastagem,134.49,0.50,0.54,45.02,"34,27",23,4,85.63,critico,0.93,0.12,0.00,0.00,reprocessar,nuvem na cena
+ORB-00364,2025-09-06,Goiânia,go,Centro-Oeste,-16.69,-49.30,sensor_sentinel,vegetacao_nativa,nao_aplicavel,468.57,0.78,0.21,39.43,37.24,34,2,80.68,crítico,0.00,0.05,0.00,100.00,reprocessar,
+ORB-00365,2025-10-21,Porto Velho,RO,Norte,-8.91,-64.02,sensor_sentinel,vegetacao_nativa,nao_aplicavel,133.97,0.69,"0,59",,30.60,2,3,70.40,alto,0.00,0.07,,49.04,processado,nuvem na cena
+ORB-00366,2025-07-07,Uberaba,MG,Sudeste,-19.43,-47.79,sensor_sentinel,vegetacao_nativa,nao_aplicavel,260.69,0.65,,48.62,30.98,26,4,71.85,alto,0.00,0.04,0.00,100.00,processado,
+ORB-00367,2025-03-04,Goiânia,GO,Centro-Oeste,"-16,97",-49.34,sensor_landsat,agricultura,algodao,"73,31",0.65,0.44,62.90,36.57,5,5,56.86,alto,3.90,0.07,3.18,42.11,processado,
+ORB-00368,2025-12-22,Ribeirão Preto,SP,Sudeste,-21.05,-47.89,sensor_landsat,vegetacao_nativa,nao_aplicavel,128.20,0.65,0.63,19.69,29.21,13,4,96.02,critico,0.00,0.03,0.00,19.71,processado,
+ORB-00369,13/02/2025,Sorriso,MT,Centro-Oeste,-12.42,-55.61,sensor_landsat,pastagem,pastagem,241.08,0.57,0.43,30.49,38.67,13,10,80.69,crítico,,0.10,0.00,,processado,
+ORB-00370,2026-02-28,Cuiabá,MT,Centro-Oeste,-15.65,-55.74,sensor_sentinel,vegetacao_nativa,nao_aplicavel,369.95,"0,74",0.73,,34.35,7,0,46.93,medio,0.00,0.05,0.00,"13,42",processado,nuvem na cena
+ORB-00371,2026-03-06,Ribeirão Preto,SP,Sudeste,-21.01,-47.59,sensor_landsat,vegetacao_nativa,nao_aplicavel,,"0,66",0.48,62.79,33.36,12,,64.21,alto,0.00,0.08,0.00,53.20,processado,sombra parcial
+ORB-00372,2025-08-21,Marabá,PA,Norte,-5.41,-48.99,drone_cliente,vegetacao_nativa,nao_aplicavel,407.04,0.83,,50.61,32.03,8,7,57.36,alto,0.00,0.05,0.00,47.38,pendente,nuvem na cena
+ORB-00373,2025-09-28,Uberaba,MG,Sudeste,-19.75,-47.80,sensor_sentinel,agricultura,soja,206.51,0.56,"0,44",22.49,31.69,14,2,"79,43",critico,3.44,0.14,"0,00",13.35,procesado,possivel queimadura
+ORB-00374,2025-07-24,Ribeirão Preto,SP,Sudeste,-21.27,-47.74,Sentinel,urbano,nao_aplicavel,65.82,0.11,0.04,16.95,30.55,16,1,"84,37",critico,0.00,"0,91",5.36,26.00,erro_validacao,sombra parcial
+ORB-00375,2025-04-14,Uberaba,MG,Sudeste,-19.91,-47.85,drone_cliente,pastagem,pastagem,,0.39,,,29.32,7,13,79.18,critico,0.94,0.14,0.00,40.36,processado,coordenada imprecisa
+ORB-00376,2025-10-21,Uberaba,MG,Sudeste,-19.80,-48.15,sensor_landsat,agricultura,milho,591.43,0.36,0.15,41.42,26.54,5,1,25.14,médio,4.41,0.11,"0,00",22.72,processado,registro importado manualmente
+ORB-00377,2025-06-03,Sinop,MT,Centro-Oeste,-11.86,-55.46,base_municipal,vegetacao_nativa,nao_aplicavel,1162.10,0.76,0.38,53.78,30.70,4,4,40.90,medio,0.00,0.05,0.00,71.52,erro_validacao,sombra parcial
+ORB-00378,2025-07-31,Sorriso,MT,Centro-Oeste,-12.50,-55.82,sensor_sentinel,agricultura,cafe,66.75,0.80,0.82,,,17,0,67.37,alto,1.88,0.07,0.00,1.58,processado,coordenada imprecisa
+ORB-00379,2026-03-07,Rio Branco,AC,Norte,-9.77,-67.61,sensor_sentinel,vegetacao_nativa,nao_aplicavel,78.66,0.71,0.63,50.81,36.21,9,10,63.68,alto,0.00,0.01,0.00,,processado,sombra parcial
+ORB-00380,2025-03-06,sinop,MT,Centro-Oeste,-11.95,-55.44,drone_cliente,urbano,nao_aplicavel,10.09,0.15,0.08,26.58,"32,07",34,0,94.12,critico,0.00,0.56,10.40,28.66,processado,
+ORB-00381,2025-03-09,Marabá,PA,Norte,-5.45,-48.87,sensor_landsat,pastagem,pastagem,489.18,"0,58",0.39,61.92,32.63,0,2,51.17,alto,0.71,0.13,0.00,31.30,processado,
+ORB-00382,2025-04-09,Goiânia,GO,Centro-Oeste,-16.45,-49.02,sensor_sentinel,vegetacao_nativa,nao_aplicavel,632.72,0.71,0.71,38.85,35.01,9,0,41.37,medio,0.00,0.01,0.00,39.01,processado,
+ORB-00383,data_invalida,Palmas,TO,Norte,-10.15,-48.46,sensor_landsat,urbano,nao_aplicavel,335.89,0.13,0.12,33.71,36.65,,0,70.80,alto,,0.74,4.76,,procesado,
+ORB-00384,2025-04-25,Marabá,PA,Norte,-5.58,"-48,85",sensor_sentinel,agricultura,milho,1.00,"0,50","0,36",55.31,34.79,17,4,53.84,alto,6.75,0.07,0.00,25.65,processado,possivel queimadura
+ORB-00385,2025-02-13,Sorriso,MT,Centro-Oeste,-12.52,-55.53,sensor_sentinel,vegetacao_nativa,nao_aplicavel,62.86,0.64,"0,55",65.20,32.04,25,8,"65,93",alto,0.00,0.10,0.00,27.60,processado,
+ORB-00386,2026-03-16,Ribeirão Preto,SP,Sudeste,-21.09,-47.69,sensor_sentinel,agricultura,soja,133.53,"0,73",0.68,45.45,26.91,10,6,42.13,medio,2.52,0.12,"0,00",25.22,processado,registro importado manualmente
+ORB-00387,2025-09-04,Sinop,MT,Centro-Oeste,-11.66,-55.58,sensor_landsat,agricultura,milho,657.68,0.59,0.46,21.42,32.27,19,4,78.83,critico,5.67,,0.00,,processado,
+ORB-00388,2025-04-11,Barreiras,BA,Nordeste,-12.20,-44.94,sensor_landsat,agricultura,soja,150.44,0.64,0.82,"32,13",32.93,20,5,73.84,alto,3.82,0.20,0.00,0.00,erro_validacao,coordenada imprecisa
+ORB-00389,2025-01-28,Uberaba,MG,Sudeste,-19.66,-47.86,sensor_landsat,vegetacao_nativa,nao_aplicavel,87.86,0.75,NA,31.36,26.19,1,5,69.93,alto,0.00,0.05,0.00,34.63,processado,
+ORB-00390,2026-01-03,Barreiras,BA,Nordeste,-12.11,-45.02,sensor_sentinel,pastajem,pastagem,NA,0.41,0.31,5.00,36.45,20,18,100.00,critico,1.26,0.14,0.00,31.87,processado,
+ORB-00391,2025-03-27,Barreiras,BA,Nordeste,NA,-44.82,sensor_landsat,agricultura,soja,12.63,0.81,"0,61",49.12,33.78,16,2,38.13,medio,2.91,0.13,0.00,41.23,processado,coordenada imprecisa
+ORB-00392,2025-03-27,Ribeirão Preto,SP,Sudeste,"-20,84",-47.84,sensor_landsat,vegetacao_nativa,nao_aplicavel,649.31,0.76,NA,13.14,,16,3,96.56,critico,0.00,"0,07",4.73,"17,04",processado,sombra parcial
+ORB-00393,2025-08-22,Cuiabá,MT,Centro-Oeste,-15.73,-56.21,sensor_landsat,vegetacao_nativa,nao_aplicavel,33.78,"0,76",NA,"54,60",,18,23,NA,critico,0.00,,0.00,23.51,processado,
+ORB-00394,2025-10-08,Marabá,PA,Norte,-5.35,-49.17,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"176,98",0.62,0.54,55.97,33.16,6,6,44.21,médio,0.00,0.09,0.00,47.37,processado,
+ORB-00395,2025-06-06,Porto Velho,RO,Norte,-8.88,-63.72,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"197,45",0.87,0.55,63.97,NA,17,14,79.98,critico,0.00,0.10,0.00,68.09,processado,nuvem na cena
+ORB-00396,2025-11-30,Altamira,PA,Norte,-3.15,,LANDSAT,agricultura,milho,181.03,0.65,0.80,90.41,34.26,2,7,37.35,medio,5.34,0.13,0.00,0.00,processado,
+ORB-00397,data_invalida,Sorriso,MT,Centro-Oeste,-12.39,-55.72,sensor_sentinel,pastagem,pastagem,16.45,,0.61,5.00,34.16,5,15,100.00,critico,0.97,0.07,0.00,0.00,procesado,
+ORB-00398,10/02/2026,Marabá,PA,Norte,-5.43,-49.13,Sentinel,vegetacao_nativa,nao_aplicavel,16.83,0.80,0.78,38.44,28.67,15,16,78.70,critico,0.00,NA,0.13,23.53,processado,
+ORB-00399,2025-10-16,Palmas,TO,Norte,-10.25,-47.98,sensor_landsat,agricultura,milho,44.67,0.47,0.58,67.56,28.32,0,6,33.30,medio,5.41,,0.00,0.00,processado,
+ORB-00400,2025-03-27,Rio Branco,AC,Norte,-9.84,-67.82,sensor_sentinel,agricultura,soja,NA,0.48,0.43,53.40,28.49,21,2,54.63,alto,2.78,0.18,0.00,24.89,processado,
+ORB-00401,2025-01-06,Uberlândia,MG,Sudeste,-18.84,-48.38,sensor_landsat,urbano,nao_aplicavel,107.73,0.14,0.10,NA,31.48,6,1,NA,alto,0.00,0.63,0.00,0.00,processado,coordenada imprecisa
+ORB-00402,2025-01-25,Ribeirão Preto,SP,Sudeste,"-21,33",,sensor_landsat,agricultura,soja,98.91,0.56,0.47,30.03,31.29,3,0,33.20,medio,3.88,0.19,6.00,32.27,processado,
+ORB-00403,2025-11-03,Marabá,PA,Norte,"-5,59",-48.90,sensor_landsat,vegetacao_nativa,nao_aplicavel,320.31,"0,74",0.66,58.26,31.81,0,13,58.45,alto,0.00,0.09,0.00,37.72,processado,sombra parcial
+ORB-00404,2026-02-28,Sorriso,MT,Centro-Oeste,-12.54,-55.80,drone_cliente,urbano,nao_aplicavel,1.91,0.21,0.22,27.08,35.86,1,0,59.12,alto,0.00,0.61,0.00,14.88,processado,
+ORB-00405,12-24-2025,Goiânia,go,Centro-Oeste,-16.78,-49.40,sensor_sentinel,agricultura,soja,"261,51",0.38,0.25,39.09,,0,5,45.29,medio,2.12,"0,20",0.00,30.35,reprocessar,sombra parcial
+ORB-00406,2025-09-20,Sinop,MT,Centro-Oeste,,-55.76,sensor_landsat,vegetacao_nativa,nao_aplicavel,78.09,0.85,0.65,55.77,31.17,23,8,87.33,crítico,0.00,0.02,0.00,56.28,processado,
+ORB-00407,2025-02-10,Uberlândia,MG,Sudeste,-19.00,-48.30,sensor_landsat,vegetacao nat.,nao_aplicavel,181.14,0.73,"0,39",63.25,"29,91",26,4,80.35,critico,0.00,,"6,44",67.62,processado,registro importado manualmente
+ORB-00408,2025-11-27,Ribeirão Preto,SP,Sudeste,-21.16,-47.64,drone_cliente,urbano,nao_aplicavel,223.32,0.16,0.15,"37,30",29.05,18,0,42.67,medio,0.00,0.94,"4,20",3.57,processado,
+ORB-00409,2025-09-09,Marabá,PA,Norte,-5.29,-49.12,sensor_sentinel,vegetacao_nativa,nao_aplicavel,134.90,0.82,0.80,73.63,28.48,2,25,82.16,critico,0.00,0.03,0.00,"12,66",processado,
+ORB-00410,30/01/2025,Palmas,TO,Norte,-10.08,,sensor_sentinel,urbano,nao_aplicavel,288.58,0.12,0.16,"54,23",31.37,17,0,56.90,alto,0.00,0.87,5.89,0.00,processado,
+ORB-00411,data_invalida,Altamira,PA,Norte,-3.29,-52.21,base_municipal,vegetacao_nativa,nao_aplicavel,153.60,0.64,0.30,58.84,36.03,1,1,37.09,medio,0.00,,0.00,65.12,procesado,sombra parcial
+ORB-00412,2025-03-19,Altamira,PA,Norte,-3.46,-52.04,sensor_landsat,vegetacao_nativa,nao_aplicavel,36.66,0.68,0.09,"65,30","30,45",13,6,48.46,medio,0.00,0.02,,100.00,processado,
+ORB-00413,2025-10-23,Uberaba,MG,Sudeste,-19.73,-47.83,sensor_landsat,vegetacao_nativa,nao_aplicavel,138.89,0.79,0.73,17.57,32.60,12,8,"100,00",critico,0.00,0.07,0.00,27.19,processado,
+ORB-00414,2025-02-22,Uberaba,MG,Sudeste,"-19,77",-48.05,sensor_sentinel,vegetacao_nativa,nao_aplicavel,15.60,0.85,0.79,22.43,29.62,14,5,75.40,critico,0.00,,0.00,42.60,processado,
+ORB-00415,data_invalida,Sinop,MT,Centro-Oeste,-11.70,-55.34,sensor_landsat,vegetacao_nativa,nao_aplicavel,4.78,0.77,"0,45",38.23,36.54,19,10,96.44,critico,0.00,0.02,0.00,65.21,processado,coordenada imprecisa
+ORB-00416,2026-02-26,Sinop,MT,Centro-Oeste,-11.97,,sensor_landsat,urbano,nao_aplicavel,372.56,0.35,0.40,11.73,37.78,12,1,81.70,critico,0.00,0.66,2.63,2.53,processado,
+ORB-00417,01-05-2026,Cuiabá,MT,Centro-Oeste,-15.55,-56.06,sensor_landsat,agricultura,soja,485.81,0.42,0.55,12.46,33.41,1,2,77.19,critico,NA,0.18,0.00,0.00,processado,possivel queimadura
+ORB-00418,2025-01-01,Altamira,PA,Norte,"-3,19",-52.30,base_municipal,vegetacao_nativa,nao_aplicavel,165.92,0.75,0.65,58.86,34.55,15,10,75.83,critico,0.00,0.06,0.00,31.02,pendente,coordenada imprecisa
+ORB-00419,2025-06-26,Cuiabá,mt,Centro-Oeste,-15.82,-56.04,sensor_landsat,vegetacao_nativa,nao_aplicavel,299.07,0.65,0.55,51.63,"37,73",20,2,76.20,critico,0.00,0.08,0.00,26.80,erro_validacao,
+ORB-00420,2025-03-05,Uberlândia,MG,Sudeste,-18.92,-48.40,drone_cliente,vegetacao_nativa,nao_aplicavel,46.65,0.77,0.76,"28,15",31.90,4,0,63.95,alto,0.00,0.11,0.00,20.90,processado,sombra parcial
+ORB-00421,,Palmas,TO,Norte,-10.12,-48.46,sensor_sentinel,pastagem,pastagem,198.23,0.49,0.47,26.40,33.15,11,13,100.00,critico,1.43,0.13,0.00,14.44,processado,
+ORB-00422,2025-08-25,Uberaba,MG,Sudeste,-19.84,"-47,80",sensor_landsat,vegetacao_nativa,nao_aplicavel,40.40,0.73,,46.93,29.42,11,7,45.19,medio,0.00,"0,03",0.00,24.33,processado,
+ORB-00423,2025-12-04,Barreiras,BA,Nordeste,-12.08,-44.96,sensor_sentinel,vegetacao_nativa,nao_aplicavel,86.66,0.71,0.66,27.01,36.17,36,6,100.00,critico,0.00,0.11,0.00,46.42,processado,
+ORB-00424,2025-06-29,Uberaba,MG,Sudeste,-19.83,-47.83,sensor_sentinel,vegetacao_nativa,nao_aplicavel,372.60,NA,0.65,,29.29,17,2,77.71,crítico,0.00,0.02,3.14,20.08,processado,sombra parcial
+ORB-00425,2025-06-09,Sorriso,MT,Centro-Oeste,-12.63,"-55,75",sensor_sentinel,urbano,nao_aplicavel,17.58,0.19,0.23,12.23,33.02,6,5,81.19,critico,0.00,0.78,,8.95,processado,sombra parcial
+ORB-00426,2025-12-09,Barreiras,BA,Nordeste,-12.01,-44.88,sensor_landsat,urbano,nao_aplicavel,504.85,0.28,0.28,59.41,,17,7,80.77,crítico,0.00,0.75,NA,2.29,processado,nuvem na cena
+ORB-00427,2025-12-15,Barreiras,BA,Nordeste,-12.22,-44.92,sensor_landsat,urbano,nao_aplicavel,95.59,0.31,0.35,,37.31,14,0,58.49,alto,0.00,0.89,1.51,7.20,processado,coordenada imprecisa
+ORB-00428,2025-11-01,Cuiabá,MT,Centro-Oeste,-15.25,-55.97,drone_cliente,vegetacao_nativa,nao_aplicavel,69.26,0.75,0.11,24.52,,11,1,80.83,crítico,0.00,0.06,0.00,100.00,pendente,possivel queimadura
+ORB-00429,2026-03-18,Ribeirão Preto,SP,Sudeste,-21.53,-47.72,sensor_landsat,urbano,nao_aplicavel,526.77,0.16,0.16,55.78,27.18,20,0,50.60,alto,0.00,0.92,14.11,15.56,processado,
+ORB-00430,05-09-2025,Uberlândia,MG,Sudeste,-18.82,-48.35,sensor_sentinel,agricultura,milho,177.41,0.44,0.52,56.58,29.45,4,1,23.47,baixo,4.97,0.07,0.00,0.00,reprocessar,
+ORB-00431,2025-11-21,Sorriso,MT,Centro-Oeste,-12.23,-55.83,sensor_sentinel,agricultura,soja,5.60,0.45,0.23,42.25,37.16,14,0,62.84,alto,3.29,0.18,0.00,29.84,processado,
+ORB-00432,2025-12-18,Ribeirão Preto,SP,Sudeste,-21.14,-47.96,drone_cliente,agricultura,cafe,36.96,,0.42,35.45,26.99,0,,58.24,alto,2.22,0.12,0.00,0.00,processado,sombra parcial
+ORB-00433,2025-10-21,Cuiabá,MT,Centro-Oeste,-15.69,-56.16,sensor_landsat,vegetacao_nativa,nao_aplicavel,377.58,0.85,0.77,29.18,36.37,31,15,100.00,critico,0.00,,0.00,"49,73",processado,possivel queimadura
+ORB-00434,2025-11-18,Ribeirão Preto,SP,Sudeste,-21.22,-47.80,sensor_landsat,vegetacao_nativa,nao_aplicavel,135.67,0.69,0.44,36.46,31.82,21,0,54.41,alto,0.00,0.11,,69.76,processado,registro importado manualmente
+ORB-00435,2025-09-03,Uberaba,MG,Sudeste,-19.62,-48.16,drone_cliente,urbano,nao_aplicavel,141.46,0.28,0.32,54.43,25.04,8,1,33.79,medio,0.00,0.90,,5.23,processado,possivel queimadura
+ORB-00436,2025-04-06,Palmas,TO,Norte,-10.09,-48.20,drone_cliente,agricultura,soja,167.83,0.46,0.47,54.44,30.99,19,6,53.94,alto,3.51,0.20,0.00,13.28,processado,nuvem na cena
+ORB-00437,11-21-2025,Palmas,to,Norte,-10.39,-48.28,drone_cliente,urbano,nao_aplicavel,66.95,0.28,0.30,,30.55,7,0,25.92,medio,0.00,0.57,0.00,1.49,processado,
+ORB-00438,2026-02-24,Sinop,MT,Centro-Oeste,-11.61,"-55,73",sensor_sentinel,urbnao,nao_aplicavel,410.18,0.15,0.20,65.60,34.48,26,1,68.54,alto,0.00,0.55,4.85,6.43,erro validacao,
+ORB-00439,2025-03-26,Rio Branco,AC,Norte,,-67.64,sensor_sentinel,pastagem,pastagem,47.95,"0,52",0.40,54.65,,1,10,60.83,alto,1.08,0.03,0.00,11.71,processado,possivel queimadura
+ORB-00440,2025-09-21,Goiânia,GO,Centro-Oeste,-16.57,-49.42,drone_cliente,agricultura,soja,146.43,0.74,0.75,24.38,37.96,8,,66.11,alto,3.01,0.10,"0,00",10.30,processado,possivel queimadura
+ORB-00441,2025-03-06,Cuiabá,MT,Centro-Oeste,"-15,68",-56.18,sensor_sentinel,agricultura,cana,43.64,0.45,0.57,43.05,34.57,19,5,52.94,alto,75.53,,0.00,0.00,processado,
+ORB-00442,2025-08-11,Cuiabá,MT,Centro-Oeste,-15.49,-55.93,drone_cliente,urbano,nao_aplicavel,727.85,,0.35,"58,72",31.82,33,4,60.27,alto,0.00,0.93,13.57,0.00,processado,coordenada imprecisa
+ORB-00443,01/05/2025,Rio Branco,AC,Norte,-9.90,-68.09,drone_cliente,vegetacao_nativa,nao_aplicavel,9.57,"0,72",0.64,59.35,31.32,12,2,,medio,0.00,0.09,0.00,43.10,processado,
+ORB-00444,2025-01-06,Cuiabá,MT,Centro-Oeste,-15.72,-56.06,sensor_landsat,vegetacao_nativa,nao_aplicavel,216.73,0.76,0.69,58.64,35.49,16,5,55.10,alto,0.00,"0,08",0.00,29.77,processado,possivel queimadura
+ORB-00445,2025-08-28,Altamira,PA,Norte,-3.09,-52.09,sensor_sentinel,urbano,nao_aplicavel,53.21,0.19,0.22,57.03,32.52,9,8,49.14,medio,0.00,0.60,6.77,11.26,processado,
+ORB-00446,2025-01-10,Uberlândia,MG,Sudeste,-18.90,"-48,47",sensor_sentinel,vegetacao_nativa,nao_aplicavel,200.81,"0,88",0.57,59.70,25.39,6,0,"30,77",medio,0.00,0.11,0.00,69.36,processado,nuvem na cena
+ORB-00447,2025-09-07,Goiânia,GO,Centro-Oeste,-16.71,-49.36,sensor_landsat,agricultura,soja,405.91,0.42,,44.30,31.25,24,3,61.02,alto,3.55,0.10,0.00,0.00,processado,
+ORB-00448,2025-10-23,Uberaba,MG,Sudeste,-19.80,NA,sensor_landsat,agricultura,soja,47.31,0.68,0.67,35.94,25.29,12,1,40.96,medio,3.53,0.08,"0,00",15.63,processado,coordenada imprecisa
+ORB-00449,2026-01-14,Porto Velho,RO,Norte,"-8,69","-63,87",sensor_sentinel,agricultura,soja,1084.38,0.66,0.62,33.42,"29,91",15,2,"59,92",alto,3.08,0.09,"0,00",17.42,processado,
+ORB-00450,2025-01-15,Uberlândia,MG,Sudeste,-18.80,-48.26,drone_cliente,vegetacao_nativa,nao_aplicavel,292.37,0.84,0.52,39.46,32.66,6,4,55.96,alto,0.00,0.02,0.00,79.32,processado,registro importado manualmente
+ORB-00451,2025-07-09,Palmas,TO,Norte,-10.10,-48.44,sensor_landsat,agric.,soja,119.93,0.63,0.64,61.94,34.77,14,0,34.80,medio,3.60,0.18,,0.00,processado,
+ORB-00452,2025-06-30,Altamira,PA,Norte,-3.30,-52.02,sensor_sentinel,agricultura,soja,261.72,0.80,"0,85","62,47",32.45,0,0,23.23,baixo,3.53,0.10,0.00,0.00,processado,
+ORB-00453,2025-07-30,Uberaba,MG,Sudeste,-19.67,,sensor_sentinel,agricultura,soja,12.03,0.42,0.54,38.50,30.65,19,12,68.84,alto,3.22,0.15,"0,00",0.00,reprocessar,
+ORB-00454,2025-04-09,Cuiabá,mt,Centro-Oeste,-15.80,-56.23,drone_cliente,urbano,nao_aplicavel,289.63,0.12,0.05,52.63,38.21,24,2,62.57,alto,0.00,0.57,13.10,12.23,processado,
+ORB-00455,2025-12-09,Uberaba,MG,Sudeste,-19.66,-47.85,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"201,51",0.74,0.65,30.19,"27,72",21,2,89.33,critico,0.00,NA,0.00,35.08,processado,
+ORB-00456,2026-02-11,Cuiabá,MT,Centro-Oeste,-15.52,-56.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,17.16,0.82,0.49,21.28,35.95,12,8,98.53,critico,0.00,0.09,0.00,87.24,procesado,
+ORB-00457,2025-06-13,Sorriso,MT,Centro-Oeste,NA,NA,sensor_landsat,agua,nao_aplicavel,197.86,0.14,0.06,41.85,35.86,37,2,86.08,critico,0.00,0.01,0.00,"4,94",processado,
+ORB-00458,2025-05-02,Goiânia,GO,Centro-Oeste,-16.90,-49.12,drone_cliente,vegetacao_nativa,nao_aplicavel,151.01,0.81,0.72,17.40,33.08,0,10,75.25,critico,0.00,0.10,0.00,NA,processado,
+ORB-00459,2025-03-20,Sorriso,MT,Centro-Oeste,-12.79,-55.91,sensor_sentinel,urbano,nao_aplicavel,8.39,"0,28",0.24,56.31,38.74,9,0,37.26,medio,0.00,0.59,5.47,24.81,procesado,
+ORB-00460,2025-08-26,Marabá,PA,Norte,-5.30,-49.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,102.02,0.82,0.72,63.08,35.15,19,13,98.12,critico,0.00,0.10,0.00,41.56,processado,sombra parcial
+ORB-00461,2025-12-03,Goiânia,GO,Centro-Oeste,-16.51,-49.21,sensor_sentinel,urbano,nao_aplicavel,17.08,0.25,0.22,47.03,36.07,17,,"56,11",alto,0.00,0.91,8.15,"19,67",processado,
+ORB-00462,2025-04-29,Barreiras,BA,Nordeste,-12.03,-45.12,sensor_sentinel,agricultura,soja,27.49,"0,55",0.51,37.43,35.70,25,12,78.83,critico,,0.19,0.00,5.09,pendente,
+ORB-00463,2025-01-15,Uberaba,MG,Sudeste,-19.52,-47.83,sensor_landsat,urbano,nao_aplicavel,"482,23",0.12,0.15,39.88,26.49,7,6,34.52,medio,0.00,0.65,8.52,0.00,processado,registro importado manualmente
+ORB-00464,2025-04-04,Palmas,TO,Norte,-10.06,-48.38,sensor_landsat,urbano,nao_aplicavel,373.65,0.23,0.27,64.81,30.97,24,22,89.57,critico,0.00,0.71,6.15,13.71,reprocessar,coordenada imprecisa
+ORB-00465,2025-01-13,Uberlândia,MG,Sudeste,-18.89,-48.49,sensor_sentinel,urbano,nao_aplicavel,33.11,0.21,0.24,59.85,32.22,0,6,49.27,medio,0.00,0.91,7.13,2.52,pendente,
+ORB-00466,2025-05-24,Sorriso,MT,Centro-Oeste,-12.50,-55.60,drone_cliente,vegetacao_nativa,nao_aplicavel,57.10,0.83,0.49,34.53,37.58,0,,60.87,alto,0.00,0.10,0.00,75.36,erro_validacao,possivel queimadura
+ORB-00467,2026-03-26,Ribeirão Preto,SP,Sudeste,-21.06,-47.62,base_municipal,agricultura,cana,63.70,0.41,0.35,16.64,33.67,0,3,51.45,alto,96.52,0.05,4.46,"27,85",processado,sombra parcial
+ORB-00468,2025-06-29,UBERABA,mg,Sudeste,-19.87,,sensor_sentinel,agricultura,soja,"493,07",0.42,0.50,62.55,29.70,0,1,20.89,baixo,3.90,0.14,0.00,8.80,processado,
+ORB-00469,2026-01-02,Sorriso,MT,Centro-Oeste,-12.60,-55.67,sensor_landsat,vegetacao_nativa,nao_aplicavel,24.80,"0,83",0.51,5.64,38.22,12,10,"100,00",critico,0.00,0.04,0.00,83.23,erro_validacao,nuvem na cena
+ORB-00470,2025-04-17,Sorriso,MT,Centro-Oeste,-12.57,,drone_cliente,agricultura,milho,242.73,0.53,0.31,NA,"34,58",9,3,90.69,crítico,5.93,0.07,0.00,50.09,processado,registro importado manualmente
+ORB-00471,2025-02-10,Barreiras,BA,Nordeste,-12.09,-44.89,sensor_landsat,agua,nao_aplicavel,1087.43,0.08,0.11,63.51,34.97,14,6,56.16,alto,0.00,0.00,0.00,0.00,pendente,nuvem na cena
+ORB-00472,2025-08-02,Porto Velho,RO,Norte,-8.90,-63.88,sensor_sentinel,vegetacao_nativa,nao_aplicavel,261.76,0.74,0.54,,28.06,0,3,36.25,medio,0.00,0.10,0.00,"68,15",processado,
+ORB-00473,10-18-2025,Uberaba,MG,Sudeste,-19.64,-47.99,sensor_sentinel,agricultura,milho,12.59,0.60,0.69,10.32,27.09,7,1,55.76,alto,6.12,0.11,0.00,0.97,processado,coordenada imprecisa
+ORB-00474,2025-08-09,Marabá,PA,Norte,-5.38,"-49,11",drone_cliente,vegetacao_nativa,nao_aplicavel,476.44,0.87,0.70,48.84,33.25,22,6,66.94,alto,0.00,0.06,"0,00",46.96,processado,
+ORB-00475,2025-09-28,Altamira,PA,Norte,-3.03,-52.26,sensor_sentinel,agricultura,soja,493.68,0.69,0.61,,30.91,8,1,30.87,medio,3.16,"0,19",0.00,22.08,erro_validacao,
+ORB-00476,2025-11-13,Ribeirão Preto,SP,Sudeste,-21.26,-47.84,sensor_sentinel,agricultura,soja,63.16,0.67,0.67,9.40,32.19,1,3,61.50,alto,3.61,"0,19",0.00,11.32,processado,possivel queimadura
+ORB-00477,data_invalida,Uberlândia,MG,Sudeste,-18.83,NA,sensor_sentinel,urbano,nao_aplicavel,37.63,0.25,0.19,28.07,26.41,11,0,,medio,0.00,0.62,0.00,17.81,pendente,possivel queimadura
+ORB-00478,2026-01-29,Uberaba,MG,Sudeste,-19.61,NA,sensor_landsat,vegetacao_nativa,nao_aplicavel,2.79,0.74,0.69,19.18,33.90,21,7,"100,00",crítico,0.00,NA,0.00,34.49,processado,possivel queimadura
+ORB-00479,2025-08-13,Uberlândia,MG,Sudeste,-19.17,,sensor_landsat,agricultura,algodao,113.44,0.49,0.41,36.85,26.20,19,2,61.57,alto,3.42,0.14,0.00,19.83,processado,
+ORB-00480,,Sinop,MT,Centro-Oeste,-11.76,-55.44,base_municipal,vegetacao_nativa,nao_aplicavel,261.52,"0,69",0.60,15.80,,29,5,"100,00",critico,0.00,0.07,"0,00",52.58,erro_validacao,registro importado manualmente
+ORB-00481,data_invalida,Altamira,PA,Norte,-3.24,-52.32,sensor_sentinel,urbano,nao_aplicavel,1.07,NA,0.05,"52,15",29.38,2,0,41.59,medio,0.00,0.88,4.71,12.13,processado,
+ORB-00482,2026-03-22,Uberaba,MG,Sudeste,-20.10,"-47,95",sensor_sentinel,agricultura,soja,251.55,0.37,0.23,41.89,25.42,37,5,62.83,alto,NA,0.08,0.00,NA,pendente,nuvem na cena
+ORB-00483,2025-09-08,Uberlândia,MG,Sudeste,-19.14,-48.17,sensor_sentinel,pastagem,pastagem,84.82,"0,52",0.28,51.61,33.51,25,0,67.57,alto,1.23,0.15,0.00,"49,66",processado,
+ORB-00484,29/01/2025,Goiânia,GO,Centro-Oeste,-16.64,-49.23,sensor_landsat,urbano,nao_aplicavel,494.24,0.31,0.29,42.31,30.70,19,1,55.20,alto,0.00,0.89,5.52,21.78,procesado,
+ORB-00485,2025-01-09,Uberlândia,MG,Sudeste,-18.84,-48.45,sensor_sentinel,pastagem,pastagem,91.23,0.53,0.34,32.92,27.41,0,1,52.81,alto,,0.16,0.00,32.88,procesado,
+ORB-00486,2025-02-13,Uberaba,MG,Sudeste,-19.61,-48.13,drone_cliente,agricultura,soja,50.02,0.81,0.74,44.03,28.61,0,2,41.93,medio,4.49,0.09,"0,00",6.54,erro_validacao,
+ORB-00487,2025-07-16,Petrolina,PE,Nordeste,NA,-40.58,sensor_landsat,vegetacao_nativa,nao_aplicavel,143.19,0.85,0.83,12.48,35.19,,1,90.19,crítico,"0,00",0.04,,14.95,pendente,possivel queimadura
+ORB-00488,03-25-2025,Sinop,MT,Centro-Oeste,,-55.17,sensor_sentinel,agricultura,soja,307.15,0.41,0.56,31.68,30.54,15,5,70.57,alto,3.56,0.18,"0,00","0,00",pendente,
+ORB-00489,2025-01-09,Sorriso,MT,Centro-Oeste,-12.42,-55.70,sensor_sentinel,vegetacao_nativa,nao_aplicavel,80.76,0.82,0.74,34.68,38.76,18,2,85.53,critico,0.00,0.06,0.00,41.24,erro_validacao,possivel queimadura
+ORB-00490,data_invalida,Uberlândia,MG,Sudeste,-18.68,-48.14,drone_cliente,urbano,nao_aplicavel,122.94,0.20,0.23,60.28,32.61,14,6,"64,44",alto,0.00,0.89,3.19,11.53,processado,
+ORB-00491,2025-05-30,Uberlândia,MG,Sudeste,-18.91,-48.22,sensor_sentinel,pastagem,nao_aplicavel,248.88,0.61,0.43,9.47,26.97,2,4,"80,69",critico,0.00,0.06,0.00,32.03,pendente,
+ORB-00492,2026-02-14,Cuiabá,MT,Centro-Oeste,-15.48,-56.08,sensor_sentinel,urbnao,nao_aplicavel,34.02,0.13,0.14,37.37,31.70,21,1,69.46,alto,0.00,0.94,6.31,0.00,processado,coordenada imprecisa
+ORB-00493,2026-01-13,Marabá,PA,Norte,-5.19,-49.19,base_municipal,vegetacao_nativa,nao_aplicavel,454.02,0.80,0.50,66.25,,2,35,98.71,critico,0.00,0.01,0.00,77.36,pendente,
+ORB-00494,2025-02-26,Uberaba,MG,Sudeste,-19.83,-48.04,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.71,"0,38",52.48,26.81,18,2,62.05,alto,0.00,0.08,0.00,74.47,pendente,nuvem na cena
+ORB-00495,2025-09-07,Altamira,PA,Norte,-3.03,-52.51,sensor_landsat,agricultura,soja,,"0,51",0.48,53.92,28.46,1,8,,alto,,0.13,0.00,1.01,processado,
+ORB-00496,2025-11-29,Cuiabá,MT,Centro-Oeste,-15.81,-55.88,sensor_sentinel,vegetacao_nativa,nao_aplicavel,32.86,"0,81",0.45,"47,71",36.21,31,15,"88,34",critico,0.00,0.09,0.00,89.26,processado,registro importado manualmente
+ORB-00497,2025-03-23,Sinop,MT,Centro-Oeste,-11.84,-55.55,sensor_landsat,urbano,nao_aplicavel,349.16,0.31,0.32,71.76,30.49,9,0,46.48,medio,0.00,0.89,10.16,0.00,processado,coordenada imprecisa
+ORB-00498,2025-04-07,Marabá,PA,Norte,-5.22,"-49,10",drone_cliente,agric.,milho,99.77,,0.42,91.18,35.93,14,7,66.96,alto,NA,0.16,0.00,NA,processado,
+ORB-00499,data_invalida,Palmas,TO,Norte,-10.23,-48.29,sensor_sentinel,vegetacao_nativa,nao_aplicavel,233.36,"0,83","0,75",53.26,28.31,,,31.75,medio,0.00,0.09,0.00,30.12,reprocessar,sombra parcial
+ORB-00500,2026-01-18,Porto Velho,RO,Norte,-8.75,-63.96,sensor_sentinel,vegetacao_nativa,nao_aplicavel,48.08,0.77,0.74,87.50,29.29,10,9,66.18,alto,0.00,0.02,0.00,34.41,processado,
+ORB-00501,2025-08-20,Porto Velho,RO,Norte,-8.61,-64.13,sensor_landsat,urbano,nao_aplicavel,"91,79",0.16,NA,60.49,28.04,25,3,60.91,alto,0.00,0.64,15.09,4.51,processado,
+ORB-00502,2025-04-29,Goiânia,GO,Centro-Oeste,-16.43,-49.38,sensor_sentinel,urbano,nao_aplicavel,292.84,0.31,0.29,"26,67",38.85,30,4,100.00,critico,0.00,"0,57",8.95,9.44,processado,
+ORB-00503,2026-01-12,Palmas,TO,Norte,,-48.30,sensor_sentinel,urbano,nao_aplicavel,527.98,0.15,0.08,62.71,30.42,1,0,16.19,baixo,0.00,0.76,0.00,4.31,erro_validacao,
+ORB-00504,2025-02-17,Sorriso,MT,Centro-Oeste,-12.69,-55.62,sensor_landsat,vegetacao_nativa,nao_aplicavel,154.15,0.68,0.64,23.95,31.36,19,9,,critico,0.00,0.11,,45.55,processado,
+ORB-00505,2025-02-07,Palmas,TO,Norte,-10.03,-48.24,sensor_sentinel,vegetacao nat.,nao_aplicavel,163.39,"0,64",0.18,73.21,34.37,0,1,27.56,medio,0.00,0.09,0.00,100.00,processado,
+ORB-00506,2026-03-07,Rio Branco,AC,Norte,-10.08,-67.55,sensor_landsat,pastagem,pastagem,1023.72,0.61,0.63,42.97,33.15,22,7,76.59,critico,1.52,0.05,"3,17",10.86,pendente,
+ORB-00507,2025-11-02,Altamira,PA,Norte,-3.28,-52.18,sensor_sentinel,vegetacao_nativa,nao_aplicavel,144.64,0.68,0.35,57.94,29.52,19,1,60.05,alto,0.00,0.11,0.00,,processado,sombra parcial
+ORB-00508,2025-10-06,Marabá,PA,Norte,-5.43,NA,sensor_sentinel,agricultura,soja,67.23,0.80,0.72,47.11,34.07,10,1,37.31,medio,4.05,0.05,0.00,NA,processado,
+ORB-00509,2025-08-22,Barreiras,BA,Nordeste,-12.29,-45.06,sensor_sentinel,urbano,nao_aplicavel,364.99,0.32,0.28,15.08,,9,0,81.57,critico,"0,00",0.90,5.93,20.57,processado,registro importado manualmente
+ORB-00510,19/08/2025,Rio Branco,AC,Norte,-9.87,-67.82,sensor_sentinel,urbano,nao_aplicavel,127.42,0.21,0.19,50.32,28.62,0,3,19.18,baixo,0.00,0.74,6.15,3.71,processado,possivel queimadura
+ORB-00511,2025-08-21,Porto Velho,RO,Norte,-8.63,-64.17,sensor_landsat,vegetacao_nativa,nao_aplicavel,503.02,0.81,0.81,89.55,34.97,12,2,55.21,alto,"0,00",0.07,0.00,40.30,processado,possivel queimadura
+ORB-00512,16/06/2025,Ribeirão Preto,SP,Sudeste,-21.24,-47.68,sensor_sentinel,vegetacao_nativa,nao_aplicavel,23.81,0.72,0.29,37.83,28.68,1,1,43.34,medio,0.00,0.11,0.00,100.00,pendente,
+ORB-00513,2025-10-17,Ribeirão Preto,SP,Sudeste,"-21,12",-47.70,sensor_landsat,agricultura,soja,232.18,0.41,0.50,49.28,31.05,15,1,45.06,medio,2.51,0.05,0.00,5.46,processado,
+ORB-00514,2025-02-04,Porto Velho,RO,Norte,-8.65,-63.58,sensor_sentinel,vegetacao_nativa,nao_aplicavel,461.91,0.72,0.71,67.12,31.45,22,,61.08,alto,0.00,0.09,0.00,35.10,processado,coordenada imprecisa
+ORB-00515,2025-04-09,Altamira,PA,Norte,-3.18,-52.06,sensor_sentinel,pastagem,pastagem,155.98,0.56,"0,35",51.70,,12,13,63.99,alto,0.82,0.15,6.95,43.07,procesado,
+ORB-00516,2025-10-22,Altamira,PA,Norte,-3.16,-52.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,157.97,0.64,0.62,55.98,30.02,3,6,63.32,alto,0.00,NA,0.00,23.20,processado,sombra parcial
+ORB-00517,2025-04-29,Cuiabá,MT,Centro-Oeste,-15.42,-56.00,sensor_landsat,agricultura,milho,59.21,0.62,0.76,46.03,31.12,26,1,56.14,alto,6.27,0.19,0.00,0.00,processado,possivel queimadura
+ORB-00518,2025-08-17,Cuiabá,MT,Centro-Oeste,-15.34,-55.99,sensor_landsat,pastagem,pastagem,110.29,0.47,"0,48",50.68,34.24,15,0,43.45,medio,1.11,0.06,"0,00",14.58,processado,
+ORB-00519,2025-07-30,Rio Branco,AC,Norte,-10.02,-67.82,sensor_sentinel,agricultura,soja,267.88,0.57,0.70,86.74,33.19,4,4,32.00,medio,3.98,0.15,0.00,0.00,reprocessar,nuvem na cena
+ORB-00520,2025-11-20,Uberlândia,mg,Sudeste,-19.09,-48.26,sensor_landsat,agricultura,soja,9.61,0.36,0.43,"17,76",26.60,15,3,70.68,alto,2.57,0.10,0.00,0.00,processado,nuvem na cena
+ORB-00521,2025-07-31,Porto Velho,RO,Norte,-8.74,-63.91,sensor_sentinel,vegetacao_nativa,nao_aplicavel,1240.90,0.79,0.47,40.09,30.31,11,4,,alto,0.00,0.08,0.00,59.98,processado,sombra parcial
+ORB-00522,2025-01-09,Barreiras,BA,Nordeste,-12.09,-45.14,drone_cliente,agricultura,milho,90.38,0.64,0.67,40.32,37.03,33,2,90.38,critico,6.87,0.15,0.00,12.67,processado,
+ORB-00523,2025-02-08,Uberlândia,MG,Sudeste,-18.84,-48.20,sensor_sentinel,vegetacao_nativa,nao_aplicavel,125.43,0.70,0.64,"46,49","30,91",4,4,35.77,medio,0.00,0.06,2.06,47.65,processado,
+ORB-00524,2026-02-24,Barreiras,BA,Nordeste,NA,,sensor_sentinel,urbano,nao_aplicavel,170.76,0.17,0.11,61.75,34.24,20,9,62.38,alto,0.00,0.92,5.43,21.10,pendete,possivel queimadura
+ORB-00525,2025-02-08,Uberaba,MG,Sudeste,-19.79,-48.03,sensor_sentinel,agricultura,soja,527.66,0.77,0.73,37.16,27.59,6,0,42.58,medio,"3,90",0.05,0.00,0.00,processado,
+ORB-00526,2025-04-28,Uberlândia,MG,Sudeste,-18.91,-48.31,sensor_sentinel,vegetacao_nativa,nao_aplicavel,84.75,0.83,0.75,23.73,30.07,9,2,81.39,critico,0.00,0.03,6.72,37.92,processado,
+ORB-00527,2025-01-24,Petrolina,PE,Nordeste,-9.14,,sensor_sentinel,vegetacao_nativa,nao_aplicavel,226.35,0.86,"0,57",45.82,38.81,23,3,79.50,critico,0.00,0.05,0.45,84.16,processado,
+ORB-00528,2026-02-05,Marabá,PA,Norte,-5.30,-49.01,sensor_sentinel,vegetacao_nativa,nao_aplicavel,84.06,,0.78,61.92,35.83,9,2,49.68,medio,0.00,0.06,0.00,39.01,processado,
+ORB-00529,2025-07-04,RIO BRANCO,AC,Norte,-10.09,-67.65,sensor_sentinel,vegetacao_nativa,nao_aplicavel,52.20,0.81,0.44,"62,51",31.18,10,9,"68,30",alto,0.00,0.07,0.00,87.93,procesado,coordenada imprecisa
+ORB-00530,data_invalida,Palmas,TO,Norte,-10.07,-48.41,sensor_landsat,agricultura,soja,69.88,0.45,"0,33",65.75,29.26,17,5,67.37,alto,3.16,NA,0.00,11.53,pendente,coordenada imprecisa
+ORB-00531,2025-01-20,Uberaba,MG,Sudeste,-19.93,-48.12,sensor_sentinel,vegetacao_nativa,nao_aplicavel,193.15,0.88,"0,84",30.02,28.80,16,2,67.73,alto,0.00,0.11,0.00,38.65,processado,sombra parcial
+ORB-00532,2025-03-05,Porto Velho,RO,Norte,-8.93,-64.01,sensor_landsat,agricultura,soja,69.31,0.47,0.38,69.64,"30,93",19,6,"65,59",alto,4.53,0.09,0.00,2.28,processado,
+ORB-00533,2025-02-07,Sinop,MT,Centro-Oeste,-11.98,-55.54,sensor_landsat,agricultura,cafe,75.20,0.55,0.43,28.24,37.94,27,2,74.26,alto,1.45,0.11,"0,00","27,74",processado,
+ORB-00534,2025-12-11,Uberlândia,MG,Sudeste,-18.92,-48.15,sensor_sentinel,urbano,nao_aplicavel,432.95,0.25,0.29,5.00,33.60,17,5,100.00,crítico,0.00,0.74,"9,04",0.00,processado,
+ORB-00535,2025-03-21,Uberlândia,MG,Sudeste,NA,-48.34,sensor_landsat,vegetacao_nativa,nao_aplicavel,3.97,0.87,0.59,45.17,32.29,8,0,59.87,alto,0.00,0.12,0.00,67.34,processado,
+ORB-00536,15/01/2026,Goiânia,GO,Centro-Oeste,-16.71,-49.52,Sentinel,agricultura,milho,170.67,0.74,,"38,25",38.84,11,2,,alto,6.70,"0,10",0.00,31.99,procesado,
+ORB-00537,2025-08-14,Cuiabá,MT,Centro-Oeste,-15.84,-56.07,sensor_landsat,vegetacao_nativa,nao_aplicavel,389.89,0.65,0.48,28.13,35.24,9,3,80.21,critico,0.00,0.07,9.18,53.83,processado,coordenada imprecisa
+ORB-00538,2026-01-01,Sinop,MT,Centro-Oeste,-11.89,"-55,45",sensor_landsat,pastagem,pastagem,17.00,0.64,0.50,48.28,38.61,21,5,65.62,alto,1.07,"0,17",2.06,31.90,erro_validacao,
+ORB-00539,06/03/2025,Porto Velho,RO,Norte,-8.60,-63.75,drone_cliente,pastagem,pastagem,34.33,0.64,"0,68",46.59,28.68,13,2,46.45,medio,0.92,0.16,0.00,2.60,processado,
+ORB-00540,2025-09-08,Ribeirão Preto,SP,Sudeste,-21.11,-47.95,base_municipal,agricultura,milho,221.13,0.67,0.70,NA,29.82,0,1,75.22,critico,,"0,16",0.00,0.00,processado,
+ORB-00541,2025-11-10,Sinop,MT,Centro-Oeste,-11.89,-55.70,sensor_sentinel,vegetacao_nativa,nao_aplicavel,296.08,0.63,0.30,71.59,31.55,27,8,77.23,critico,0.00,0.11,0.00,68.37,erro_validacao,
+ORB-00542,2026-01-28,Marabá,PA,Norte,-5.25,-49.38,sensor_landsat,vegetacao_nativa,nao_aplicavel,515.12,0.63,0.57,81.04,"32,57",,3,"46,48",medio,0.00,0.08,0.00,44.69,processado,sombra parcial
+ORB-00543,2026-01-15,Rio Branco,AC,Norte,-9.77,-67.81,sensor_sentinel,vegetacao_nativa,nao_aplicavel,658.45,0.80,0.64,66.02,"33,18",26,4,60.32,alto,"0,00",0.12,0.00,50.53,pendente,sombra parcial
+ORB-00544,2025-05-01,Marabá,PA,Norte,-5.32,-49.03,drone_cliente,agric.,cana,23.26,0.59,0.48,81.04,35.25,24,1,,alto,95.44,0.19,0.00,"35,99",pendente,
+ORB-00545,2025-01-13,Uberlândia,MG,Sudeste,-18.95,-48.18,sensor_landsat,agricultura,milho,619.14,0.41,0.35,29.05,27.43,10,8,79.17,critico,5.96,0.10,0.00,1.48,processado,coordenada imprecisa
+ORB-00546,2025-05-20,SORRISO,MT,Centro-Oeste,,-55.64,sensor_landsat,agricultura,cana,186.14,0.63,NA,66.47,32.18,19,1,45.34,medio,76.59,0.05,0.00,7.84,pendente,registro importado manualmente
+ORB-00547,2025-05-07,Goiânia,GO,Centro-Oeste,-16.74,-49.38,sensor_landsat,pastagem,pastagem,491.10,0.59,0.64,37.04,36.98,30,8,100.00,critico,0.97,0.05,0.00,"0,00",processado,
+ORB-00548,20/10/2025,Uberaba,MG,Sudeste,-19.81,-47.74,sensor_sentinel,pastagem,pastagem,360.26,0.44,0.50,20.57,32.16,18,3,97.76,critico,1.50,0.06,0.00,0.00,processado,
+ORB-00549,2025-12-21,Petrolina,PE,Nordeste,-9.72,-40.65,sensor_landsat,vegetacao_nativa,nao_aplicavel,72.94,0.74,0.64,8.47,,23,11,NA,critico,0.00,0.09,0.00,53.57,pendente,sombra parcial
+ORB-00550,2025-12-21,Sorriso,MT,Centro-Oeste,-12.36,-55.52,sensor_landsat,urbano,nao_aplicavel,"721,86",0.26,0.23,41.48,33.63,38,6,89.49,critico,0.00,0.62,1.59,18.41,processado,
+ORB-00551,2025-10-05,Porto Velho,RO,Norte,-8.71,,sensor_sentinel,urbano,nao_aplicavel,67.09,0.17,0.11,36.70,32.97,17,3,58.50,alto,0.00,0.60,9.62,,reprocessar,
+ORB-00552,2026-01-03,Petrolina,PE,Nordeste,-9.25,-40.51,sensor_sentinel,vegetacao_nativa,nao_aplicavel,258.35,0.83,0.73,51.58,34.22,15,0,"53,78",alto,0.00,NA,0.00,43.45,reprocessar,
+ORB-00553,2025-01-24,Ribeirão Preto,SP,Sudeste,-21.05,,sensor_sentinel,vegetacao_nativa,nao_aplicavel,21.14,0.76,0.75,24.64,"25,27",5,9,"77,91",critico,0.00,0.04,,,processado,nuvem na cena
+ORB-00554,2025-02-05,Uberaba,MG,Sudeste,-19.87,-47.67,drone_cliente,agricultura,cafe,11.89,0.37,0.52,71.72,NA,21,1,"52,26",alto,2.07,0.12,0.00,0.00,pendente,nuvem na cena
+ORB-00555,,Altamira,PA,Norte,-3.17,-52.03,base_municipal,vegetacao_nativa,nao_aplicavel,78.15,0.63,0.54,60.76,35.07,,1,38.41,médio,0.00,0.11,0.00,46.61,pendente,registro importado manualmente
+ORB-00556,2026-02-14,Goiânia,GO,Centro-Oeste,-16.59,"-49,18",sensor_sentinel,vegetacao_nativa,nao_aplicavel,165.86,0.63,0.06,68.77,33.13,31,3,64.03,alto,0.00,0.07,,100.00,processado,
+ORB-00557,2025-07-13,Cuiabá,MT,Centro-Oeste,-15.76,-56.20,sensor_sentinel,vegetacao_nativa,nao_aplicavel,214.47,0.62,0.46,31.97,30.35,26,4,92.50,critico,0.00,0.11,"0,00",NA,processado,nuvem na cena
+ORB-00558,2026-03-18,Cuiabá,MT,Centro-Oeste,-15.59,-55.82,sensor_sentinel,pastagem,pastagem,,"0,55",0.58,NA,35.07,32,1,70.01,alto,1.10,0.11,0.00,9.39,processado,possivel queimadura
+ORB-00559,,Cuiabá,MT,Centro-Oeste,-15.70,-56.27,sensor_sentinel,vegetacao nat.,nao_aplicavel,301.64,0.66,0.05,32.15,31.05,24,4,85.18,critico,"0,00","0,01",0.00,100.00,processado,
+ORB-00560,08-04-2025,Goiânia,GO,Centro-Oeste,-16.79,-49.32,sensor_landsat,agua,nao_aplicavel,199.49,0.03,0.05,9.56,33.87,,2,,alto,0.00,,0.00,0.00,procesado,sombra parcial
+ORB-00561,2025-02-17,Sinop,MT,Centro-Oeste,-11.75,-55.59,sensor_sentinel,urbano,nao_aplicavel,471.89,0.22,0.19,23.29,NA,22,2,67.58,alto,"0,00",0.95,10.25,,processado,sombra parcial
+ORB-00562,2025-05-20,Sorriso,MT,Centro-Oeste,-12.49,-55.69,sensor_sentinel,vegetacao_nativa,nao_aplicavel,176.15,0.69,0.39,35.40,,26,5,85.33,critico,0.00,0.11,0.00,55.49,pendente,possivel queimadura
+ORB-00563,,Barreiras,BA,Nordeste,-12.12,-44.89,sensor_landsat,vegetacao_nativa,nao_aplicavel,131.36,0.81,0.21,52.30,32.07,9,16,"69,12",alto,0.00,"0,04",0.00,100.00,processado,possivel queimadura
+ORB-00564,2025-09-12,Ribeirão Preto,SP,Sudeste,-21.05,-47.79,Sentinel,agua,nao_aplicavel,19.99,0.10,0.12,40.00,"32,51",3,1,29.16,medio,0.00,0.01,0.00,5.75,processado,
+ORB-00565,2026-01-19,Palmas,TO,Norte,-10.08,-48.52,sensor_sentinel,agricultura,soja,508.73,0.69,0.58,39.11,"34,07",0,2,53.07,alto,NA,0.19,0.00,11.50,processado,
+ORB-00566,2025-03-10,Palmas,TO,Norte,-9.88,-48.29,sensor_landsat,urbano,nao_aplicavel,4.55,0.11,0.13,65.04,34.06,6,6,49.23,medio,0.00,0.92,14.53,11.17,processado,sombra parcial
+ORB-00567,2025-07-13,Uberaba,MG,Sudeste,-19.95,,sensor_landsat,vegetacao_nativa,nao_aplicavel,57.10,0.71,0.68,28.70,33.28,10,3,"56,20",alto,0.00,"0,02",0.00,34.53,processado,
+ORB-00568,2026-01-14,Petrolina,PE,Nordeste,-9.39,-40.54,sensor_landsat,vegetacao_nativa,nao_aplicavel,322.37,0.63,0.59,24.99,32.17,15,2,90.77,crítico,0.00,0.03,1.32,36.98,processado,
+ORB-00569,2026-01-30,Goiânia,GO,Centro-Oeste,NA,-49.44,sensor_sentinel,vegetacao_nativa,nao_aplicavel,151.93,"0,87",0.49,32.36,31.92,28,9,100.00,critico,0.00,0.05,3.89,80.47,processado,sombra parcial
+ORB-00570,2026-01-02,Uberlândia,MG,Sudeste,-18.93,-48.29,sensor_sentinel,vegetacao_nativa,nao_aplicavel,177.08,0.65,0.56,38.61,32.05,20,1,61.14,alto,0.00,0.09,,51.99,processado,coordenada imprecisa
+ORB-00571,2026-03-23,Cuiabá,MT,Centro-Oeste,-15.69,-56.24,sensor_landsat,vegetacao_nativa,nao_aplicavel,NA,0.84,NA,54.57,37.94,16,4,"55,26",alto,0.00,0.08,"0,00",65.67,processado,
+ORB-00572,2025-09-18,Palmas,TO,Norte,-10.23,-48.38,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.77,0.37,"36,95",31.49,19,3,82.52,critico,0.00,NA,0.00,75.70,processado,possivel queimadura
+ORB-00573,2025-12-30,palmas,TO,Norte,-10.15,-48.35,sensor_sentinel,agricultura,soja,14.25,0.62,0.66,63.36,"29,51",12,0,52.55,alto,3.00,0.20,0.00,0.00,pendente,
+ORB-00574,2025-09-24,Ribeirão Preto,SP,Sudeste,-21.20,-47.70,sensor_sentinel,vegetacao_nativa,nao_aplicavel,48.35,0.87,"0,59",32.66,27.52,3,4,"55,30",alto,0.00,0.06,0.00,72.48,pendente,possivel queimadura
+ORB-00575,2025-03-02,Sinop,MT,Centro-Oeste,-11.96,-55.56,sensor_sentinel,urbano,nao_aplicavel,154.37,NA,"0,22",30.77,"37,01",10,14,"75,56",critico,0.00,0.91,8.33,,processado,
+ORB-00576,2026-02-02,Cuiabá,MT,Centro-Oeste,-15.55,-56.15,drone_cliente,agricultura,milho,32.08,"0,45",0.21,52.55,"30,54",15,4,49.48,medio,6.18,0.15,4.28,48.92,pendente,
+ORB-00577,2025-05-15,Cuiabá,MT,Centro-Oeste,-15.73,-56.08,sensor_landsat,pastajem,pastagem,197.56,"0,40","0,29",43.37,32.31,14,7,56.06,alto,1.81,0.08,0.00,"21,62",processado,
+ORB-00578,2026-02-09,Rio Branco,AC,Norte,-9.99,-67.88,sensor_sentinel,urbano,nao_aplicavel,26.36,0.33,0.26,59.49,"31,60",34,2,71.37,alto,0.00,0.77,NA,10.11,processado,nuvem na cena
+ORB-00579,2025-06-26,Uberaba,MG,Sudeste,-19.76,-47.87,sensor_sentinel,vegetacao_nativa,nao_aplicavel,,"0,80",,30.54,"25,83",16,6,60.63,alto,0.00,0.05,0.00,NA,procesado,
+ORB-00580,2025-10-30,Altamira,PA,Norte,-3.14,-52.07,sensor_sentinel,vegetacao_nativa,nao_aplicavel,23.30,0.68,0.53,64.69,31.79,,9,55.18,alto,0.00,0.11,0.00,61.67,processado,
+ORB-00581,2026-01-16,Porto Velho,RO,Norte,-8.75,-63.80,drone_cliente,urbano,nao_aplicavel,162.53,0.17,0.21,63.35,30.59,12,0,45.70,medio,,0.61,8.92,2.29,processado,
+ORB-00582,2025-06-11,Cuiabá,MT,Centro-Oeste,-15.82,-56.21,sensor_sentinel,vegetacao_nativa,nao_aplicavel,279.19,"0,87",0.60,34.84,33.94,24,9,94.92,critico,"0,00","0,02",0.00,60.74,processado,
+ORB-00583,2025-05-23,Goiânia,GO,Centro-Oeste,"-16,66",-49.23,drone_cliente,agricultura,milho,334.55,0.45,0.56,12.53,NA,4,0,82.60,critico,7.03,0.07,0.00,0.00,processado,nuvem na cena
+ORB-00584,2025-11-23,Porto Velho,RO,Norte,-8.69,-63.99,Sentinel,urbano,nao_aplicavel,164.84,0.30,,76.52,35.94,14,0,46.43,medio,0.00,0.56,3.32,0.00,pendente,
+ORB-00585,2025-07-16,Uberlândia,MG,Sudeste,-18.68,-48.28,sensor_sentinel,vegetacao_nativa,nao_aplicavel,35.84,0.80,0.73,40.25,28.68,0,14,76.48,critico,"0,00",0.01,0.00,27.49,processado,coordenada imprecisa
+ORB-00586,2025-07-27,Goiânia,GO,Centro-Oeste,-16.42,-49.30,sensor_landsat,pastagem,pastagem,141.31,0.53,0.55,33.38,34.61,22,6,90.98,critico,1.51,NA,1.67,0.00,erro_validacao,
+ORB-00587,data_invalida,Palmas,TO,Norte,-10.34,-48.40,Sentinel,agricultura,cana,236.80,0.44,"0,49",61.97,31.66,4,1,41.74,medio,58.33,0.07,0.00,2.44,processado,
+ORB-00588,2025-10-10,Ribeirão Preto,SP,Sudeste,-21.32,-47.65,sensor_landsat,agricultura,cana,1104.51,0.46,0.63,63.82,26.57,0,6,32.14,medio,85.47,0.11,0.00,0.00,processado,
+ORB-00589,2025-12-15,Marabá,PA,Norte,-5.29,-48.87,sensor_sentinel,vegetacao_nativa,nao_aplicavel,,0.86,0.65,85.28,"31,75",19,2,,alto,0.00,0.05,"0,00",55.33,processado,possivel queimadura
+ORB-00590,2025-02-03,Cuiabá,MT,Centro-Oeste,-15.60,,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"195,11",0.65,0.31,69.88,34.16,15,15,74.21,alto,0.00,0.08,0.00,85.35,erro_validacao,possivel queimadura
+ORB-00591,2025-07-24,Uberaba,MG,Sudeste,-19.84,-47.87,sensor_landsat,pastagem,pastagem,206.03,0.52,0.42,46.68,29.12,3,1,24.96,baixo,1.37,0.08,0.00,20.49,processado,
+ORB-00592,2025-03-09,Porto Velho,RO,Norte,-9.03,-64.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,259.94,0.67,0.63,76.84,34.28,4,13,60.40,alto,0.00,0.05,0.00,"23,37",processado,
+ORB-00593,2025-06-12,Marabá,PA,Norte,-5.31,-49.02,sensor_sentinel,urbano,nao_aplicavel,175.48,,0.11,45.70,,1,1,38.65,medio,0.00,0.71,8.39,12.72,processado,registro importado manualmente
+ORB-00594,2025-07-07,Sinop,MT,Centro-Oeste,-12.17,-55.58,sensor_landsat,vegetacao_nativa,nao_aplicavel,79.46,0.81,0.74,41.03,,,8,NA,critico,0.00,0.06,0.00,21.33,processado,coordenada imprecisa
+ORB-00595,2025-06-18,Goiânia,GO,Centro-Oeste,-16.95,-49.39,sensor_sentinel,pastagem,nao_aplicavel,48.36,0.52,0.39,34.97,36.21,13,6,90.64,critico,0.00,"0,14",0.00,13.13,processado,
+ORB-00596,2025-08-05,Goiânia,GO,Centro-Oeste,-16.80,-49.24,base_municipal,urbano,nao_aplicavel,29.47,0.23,0.16,44.33,38.87,15,1,46.01,medio,0.00,0.63,4.99,10.87,processado,coordenada imprecisa
+ORB-00597,2025-01-08,RIBEIRÃO PRETO,SP,Sudeste,-21.32,-47.66,sensor_sentinel,urbano,nao_aplicavel,10.78,0.17,0.20,9.15,26.15,17,4,72.97,alto,0.00,0.86,7.45,14.68,processado,possivel queimadura
+ORB-00598,2026-01-18,Sorriso,MT,Centro-Oeste,-12.77,-55.45,sensor_sentinel,agricultura,milho,447.34,0.59,0.35,18.91,37.69,13,6,89.69,critico,5.85,0.13,0.62,"44,37",processado,
+ORB-00599,2025-03-11,Uberaba,MG,Sudeste,NA,,sensor_sentinel,agricultura,soja,93.61,0.67,0.70,21.39,31.61,1,,83.01,critico,2.60,0.20,0.00,0.00,processado,registro importado manualmente
+ORB-00600,2025-12-14,Palmas,TO,Norte,-9.89,-48.31,sensor_sentinel,pastagem,pastagem,320.85,0.39,0.33,59.48,28.35,0,2,"36,25",medio,1.30,0.12,"0,00",23.27,processado,
+ORB-00601,2025-04-26,Goiânia,GO,Centro-Oeste,-16.80,-49.03,base_municipal,urbano,nao_aplicavel,141.63,"0,21","0,16",48.44,36.40,16,0,NA,medio,0.00,0.88,5.26,12.16,reprocessar,nuvem na cena
+ORB-00602,2025-10-19,Palmas,TO,Norte,-10.30,-48.35,sensor_sentinel,vegetacao_nativa,nao_aplicavel,129.24,NA,0.25,65.78,35.48,18,9,87.03,crítico,0.00,0.06,0.00,93.11,processado,sombra parcial
+ORB-00603,2025-10-01,Ribeirão Preto,SP,Sudeste,-21.40,-48.03,sensor_sentinel,urbano,nao_aplicavel,526.29,0.27,0.26,48.72,33.75,11,0,50.08,alto,0.00,0.68,6.46,6.35,erro_validacao,
+ORB-00604,2025-06-05,Sinop,MT,Centro-Oeste,-11.90,-55.53,sensor_sentinel,pastagem,pastagem,91.77,"0,60",,56.66,34.69,29,11,89.17,critico,1.41,0.09,0.00,29.74,pendente,
+ORB-00605,2026-02-24,Porto Velho,RO,Norte,,-64.03,sensor_sentinel,vegetacao_nativa,nao_aplicavel,18.22,0.71,0.54,49.35,"30,80",15,8,,alto,0.00,0.06,0.00,37.52,processado,sombra parcial
+ORB-00606,2025-05-07,Uberlândia,MG,Sudeste,-18.93,-48.37,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.73,0.70,45.75,26.52,1,2,"51,34",alto,0.00,0.07,0.00,16.10,processado,
+ORB-00607,2025-07-04,Marabá,PA,Norte,-5.57,-49.09,sensor_landsat,urbano,nao_aplicavel,324.53,"0,18",0.10,53.11,35.94,13,9,73.10,alto,0.00,0.81,13.29,15.60,erro_validacao,
+ORB-00608,2025-07-02,Barreiras,BA,Nordeste,-12.06,-44.98,sensor_sentinel,vegetacao nat.,nao_aplicavel,387.56,"0,75",0.70,NA,31.40,11,3,62.70,alto,0.00,,0.00,47.15,processado,
+ORB-00609,20/12/2025,Uberlândia,MG,Sudeste,-18.77,"-48,53",sensor_landsat,pastagem,pastagem,430.44,0.47,0.39,33.76,26.43,19,1,63.27,alto,1.49,0.07,0.00,"30,64",processado,coordenada imprecisa
+ORB-00610,09-04-2025,Goiânia,GO,Centro-Oeste,-16.74,-49.40,sensor_sentinel,urbano,nao_aplicavel,241.49,0.16,0.13,42.11,"34,59",22,3,64.98,alto,0.00,0.55,9.97,2.96,pendente,
+ORB-00611,2025-02-04,Sinop,MT,Centro-Oeste,-11.69,,sensor_landsat,agricultura,milho,211.89,0.59,0.59,24.14,36.44,22,5,93.97,critico,6.00,0.12,2.67,5.73,processado,possivel queimadura
+ORB-00612,2025-08-26,Uberlândia,MG,Sudeste,,-48.53,sensor_sentinel,urbano,nao_aplicavel,150.66,0.17,0.12,61.65,29.50,2,,74.18,alto,0.00,0.86,8.46,11.29,procesado,
+ORB-00613,data_invalida,Altamira,PA,Norte,-3.18,-52.39,sensor_landsat,vegetacao_nativa,nao_aplicavel,68.14,0.85,0.84,48.34,32.24,14,10,80.19,crítico,0.00,NA,NA,39.02,erro_validacao,
+ORB-00614,2025-07-24,Uberaba,MG,Sudeste,-20.01,-47.99,sensor_sentinel,urbano,nao_aplicavel,44.11,0.19,0.14,6.21,30.36,,0,63.04,alto,0.00,,8.57,,processado,
+ORB-00615,2026-01-12,Uberaba,MG,Sudeste,-19.77,-47.77,LANDSAT,vegetacao_nativa,nao_aplicavel,"494,31",0.79,0.48,46.35,32.53,0,1,30.98,medio,0.00,0.08,0.00,62.19,processado,
+ORB-00616,2026-01-04,Uberlândia,MG,Sudeste,-19.04,-48.09,sensor_landsat,pastagem,nao_aplicavel,553.94,"0,37",0.37,27.63,25.74,0,0,38.44,medio,0.00,0.02,0.00,0.00,processado,nuvem na cena
+ORB-00617,2026-01-21,Sorriso,MT,Centro-Oeste,-12.50,-55.97,sensor_sentinel,agricultura,soja,251.55,0.73,0.69,37.98,32.02,17,0,54.86,alto,2.48,0.06,0.00,"13,52",processado,
+ORB-00618,2025-03-18,Uberlândia,MG,Sudeste,-19.10,-48.40,sensor_sentinel,urbano,nao_aplicavel,1160.44,0.29,0.35,"26,49",26.40,13,5,"57,97",alto,0.00,"0,80",14.96,NA,processado,possivel queimadura
+ORB-00619,2025-01-16,Cuiabá,MT,Centro-Oeste,-15.36,-56.32,drone_cliente,urbano,nao_aplicavel,"360,33",0.22,0.24,20.86,35.88,24,0,70.67,alto,"0,00",0.84,7.61,16.87,procesado,
+ORB-00620,2025-08-13,Porto Velho,RO,Norte,-8.51,-64.08,sensor_sentinel,urbano,nao_aplicavel,152.17,0.25,,82.93,28.32,20,13,"57,20",alto,0.00,0.83,5.15,6.32,processado,
+ORB-00621,03-26-2026,Sinop,MT,Centro-Oeste,"-11,73",-55.60,drone_cliente,agricultura,cafe,"402,96",0.64,0.74,20.21,32.38,23,6,80.64,critico,2.27,NA,0.00,0.00,processado,
+ORB-00622,2025-04-16,Uberlândia,MG,Sudeste,"-19,24",-48.14,Sentinel,pastagem,pastagem,"327,70","0,51","0,53",39.90,33.80,8,1,59.72,alto,1.25,0.17,0.00,5.51,erro_validacao,
+ORB-00623,2025-05-23,Uberlândia,MG,Sudeste,-18.85,-48.16,base_municipal,agricultura,milho,"764,55",0.54,0.52,54.12,30.49,11,0,38.36,medio,"7,52",0.06,0.00,10.74,pendente,
+ORB-00624,2026-02-06,Ribeirão Preto,SP,Sudeste,-21.07,-48.00,sensor_landsat,vegetacao_nativa,nao_aplicavel,,0.68,"0,33",24.90,30.53,6,4,70.72,alto,0.00,0.02,0.00,"86,88",processado,sombra parcial
+ORB-00625,,Ribeirão Preto,SP,Sudeste,-21.15,-47.86,sensor_sentinel,urbano,nao_aplicavel,138.78,0.18,0.12,51.66,31.59,0,5,49.55,medio,0.00,0.81,2.38,10.21,processado,
+ORB-00626,2025-10-12,Goiânia,GO,Centro-Oeste,-16.95,-49.42,base_municipal,agricultura,soja,347.21,0.60,0.74,61.49,36.72,2,1,44.81,medio,4.44,0.09,0.00,0.00,processado,nuvem na cena
+ORB-00627,05-24-2025,Goiânia,GO,Centro-Oeste,-16.65,-49.18,sensor_sentinel,agricultura,soja,15.48,0.56,0.45,39.77,"30,01",12,5,"54,56",alto,3.94,0.18,0.00,33.26,processado,
+ORB-00628,2025-09-03,Ribeirão Preto,SP,Sudeste,-21.19,-47.90,sensor_sentinel,vegetacao_nativa,nao_aplicavel,43.88,0.65,0.63,91.44,26.03,12,8,68.01,alto,0.00,0.05,0.00,30.42,processado,
+ORB-00629,2025-06-04,Sinop,MT,Centro-Oeste,-11.77,-55.55,drone_cliente,agricultura,soja,66.10,0.66,0.69,49.96,"32,40",34,3,78.53,critico,1.89,0.10,3.86,12.62,pendente,nuvem na cena
+ORB-00630,2025-01-22,Altamira,PA,Norte,-3.12,-52.17,drone_cliente,urbano,nao_aplicavel,"812,78",0.26,0.23,23.17,35.92,0,0,43.31,medio,0.00,0.78,14.28,4.00,processado,registro importado manualmente
+ORB-00631,2026-01-29,Porto Velho,RO,Norte,"-8,84","-63,82",sensor_landsat,vegetacao_nativa,nao_aplicavel,650.19,0.84,0.40,57.10,29.45,11,3,44.90,medio,0.00,0.03,0.00,98.07,processado,possivel queimadura
+ORB-00632,31/01/2025,Uberlândia,MG,Sudeste,-18.87,-48.32,sensor_sentinel,urbano,nao_aplicavel,202.71,,0.03,31.89,33.93,21,7,88.09,critico,0.00,0.88,NA,4.05,erro_validacao,sombra parcial
+ORB-00633,2025-02-04,Porto Velho,RO,Norte,,-64.04,sensor_landsat,vegetacao_nativa,nao_aplicavel,213.77,0.71,0.69,54.24,"36,19",3,11,52.72,alto,0.00,,0.00,16.39,processado,
+ORB-00634,2025-12-25,Petrolina,PE,Nordeste,-9.43,-40.59,sensor_sentinel,urbano,nao_aplicavel,150.50,0.34,0.36,55.37,"39,34",4,3,56.16,alto,0.00,0.83,"0,00",6.53,processado,
+ORB-00635,2025-09-24,Sorriso,mt,Centro-Oeste,-12.61,-55.57,sensor_landsat,agricultura,milho,96.39,0.58,0.67,46.41,35.48,7,0,25.69,medio,5.06,0.06,0.00,0.00,processado,
+ORB-00636,2025-02-09,Sorriso,MT,Centro-Oeste,-12.66,-55.63,drone_cliente,agricultura,milho,,0.41,0.22,27.33,32.30,8,0,67.48,alto,5.63,0.07,0.00,27.34,processado,
+ORB-00637,06-29-2025,Palmas,TO,Norte,-10.15,-48.22,sensor_sentinel,urbano,nao_aplicavel,102.59,0.17,0.15,"42,50",28.62,7,1,36.48,medio,0.00,0.56,16.05,0.00,reprocessar,nuvem na cena
+ORB-00638,2025-03-06,Cuiabá,MT,Centro-Oeste,-15.68,-55.99,sensor_sentinel,vegetacao_nativa,nao_aplicavel,143.20,,0.64,29.27,32.72,16,5,80.64,critico,0.00,0.05,0.00,36.48,erro_validacao,
+ORB-00639,2025-09-27,Uberlândia,MG,Sudeste,-18.69,-48.15,sensor_sentinel,vegetacao_nativa,nao_aplicavel,8.90,0.81,0.79,44.26,26.91,0,0,"47,51",medio,0.00,0.04,0.00,34.23,processado,coordenada imprecisa
+ORB-00640,2025-09-23,Altamira,PA,Norte,-3.38,-52.31,sensor_landsat,vegetacao_nativa,nao_aplicavel,137.05,0.78,0.76,82.40,32.85,0,2,42.32,médio,,0.06,0.00,15.35,processado,nuvem na cena
+ORB-00641,data_invalida,Palmas,TO,Norte,-10.25,-48.23,sensor_sentinel,vegetacao_nativa,nao_aplicavel,154.83,0.72,0.68,92.35,35.54,2,7,49.51,medio,0.00,0.09,0.00,"42,82",procesado,
+ORB-00642,2025-01-15,Rio Branco,AC,Norte,-9.89,-67.74,sensor_sentinel,agricultura,soja,196.28,0.62,0.58,58.16,"34,72",3,2,30.65,medio,4.82,"0,07",0.00,1.38,processado,
+ORB-00643,2025-05-07,Ribeirão Preto,SP,Sudeste,-21.30,-47.82,sensor_sentinel,vegetacao_nativa,nao_aplicavel,86.43,0.69,0.61,33.67,26.68,23,2,65.91,alto,0.00,0.09,0.00,,processado,
+ORB-00644,2026-01-26,Sorriso,MT,Centro-Oeste,-12.34,-55.95,sensor_landsat,agricultura,cafe,17.67,0.50,0.42,NA,32.12,7,2,27.69,medio,2.17,0.13,"0,00",5.62,erro_validacao,
+ORB-00645,2025-11-20,Goiânia,GO,Centro-Oeste,-16.82,-49.35,sensor_sentinel,vegetacao_nativa,nao_aplicavel,151.97,0.88,0.68,75.74,32.53,26,4,86.22,critico,"0,00",,0.00,53.64,processado,
+ORB-00646,2025-12-07,Porto Velho,RO,Norte,-8.77,-63.86,sensor_sentinel,vegetacao_nativa,nao_aplicavel,128.58,0.75,0.67,"42,16",29.67,19,23,90.17,critico,0.00,0.07,0.00,23.46,processado,
+ORB-00647,2026-03-10,Uberaba,MG,Sudeste,-19.78,-47.76,sensor_landsat,agricultura,cafe,187.39,0.52,0.53,60.99,31.77,30,,74.64,alto,2.17,0.16,0.00,5.16,procesado,
+ORB-00648,2025-11-24,Barreiras,BA,Nordeste,-12.03,-45.04,base_municipal,agricultura,soja,66.38,0.67,0.54,24.51,33.03,0,3,69.52,alto,3.90,0.11,0.00,37.48,processado,sombra parcial
+ORB-00649,18/12/2025,Cuiabá,MT,Centro-Oeste,-15.37,-56.23,sensor_sentinel,vegetacao_nativa,nao_aplicavel,319.43,0.74,0.40,,33.44,27,1,68.48,alto,0.00,0.10,0.00,83.30,processado,
+ORB-00650,2025-08-07,Goiânia,GO,Centro-Oeste,-16.72,-49.09,sensor_sentinel,agricultura,milho,620.98,0.39,0.20,46.87,"38,40",18,1,54.32,alto,4.20,"0,10",0.00,41.08,processado,
+ORB-00651,2025-07-25,Cuiabá,MT,Centro-Oeste,-15.57,-56.03,base_municipal,urbano,nao_aplicavel,"281,80",0.23,0.18,53.24,35.65,26,4,77.25,critico,0.00,,10.44,6.17,processado,
+ORB-00652,2025-07-09,Uberaba,mg,Sudeste,-19.69,-48.06,sensor_sentinel,vegetacao_nativa,nao_aplicavel,211.08,0.66,0.64,43.28,31.81,10,0,55.50,alto,0.00,0.06,0.00,13.62,processado,
+ORB-00653,2025-04-23,Barreiras,BA,Nordeste,-11.98,-44.90,sensor_landsat,vegetacao_nativa,nao_aplicavel,475.00,"0,69",0.49,41.72,39.61,12,2,65.74,alto,0.00,0.10,0.00,65.80,processado,
+ORB-00654,2025-04-05,Ribeirão Preto,SP,Sudeste,-21.08,-47.72,sensor_sentinel,vegetacao_nativa,nao_aplicavel,144.22,"0,62",0.31,5.00,28.29,0,1,NA,alto,0.00,"0,11",0.00,66.80,erro_validacao,
+ORB-00655,2026-03-03,Uberaba,MG,Sudeste,-19.60,-47.80,sensor_sentinel,agricultura,algodao,,0.60,0.60,40.52,25.23,15,4,39.81,medio,4.06,0.07,"0,00",0.00,processado,
+ORB-00656,2026-01-06,Uberaba,MG,Sudeste,-19.75,-47.70,sensor_sentinel,urbano,nao_aplicavel,,0.21,0.14,14.35,29.07,5,6,68.83,alto,0.00,0.67,0.89,NA,processado,
+ORB-00657,2025-11-19,Altamira,PA,Norte,-3.37,-52.17,sensor_sentinel,vegetacao_nativa,nao_aplicavel,157.61,0.67,0.65,66.17,33.23,6,8,73.58,alto,0.00,0.04,0.00,39.13,pendente,
+ORB-00658,2026-01-12,Sorriso,MT,Centro-Oeste,-12.43,-55.84,base_municipal,agricultura,soja,532.40,0.82,0.71,26.52,36.77,15,4,88.02,critico,3.19,0.18,0.00,35.58,processado,
+ORB-00659,2026-02-21,Palmas,TO,Norte,-10.14,-48.41,sensor_sentinel,pastagem,pastagem,4.32,0.56,0.55,77.02,33.25,0,2,51.14,alto,1.30,0.09,0.00,2.77,processado,
+ORB-00660,2026-03-18,Cuiabá,MT,Centro-Oeste,-15.33,-55.90,sensor_landsat,vegetacao_nativa,nao_aplicavel,"161,04",0.75,0.67,53.14,36.84,16,2,53.91,alto,"0,00",0.07,0.00,50.00,processado,
+ORB-00661,2025-12-03,Uberaba,MG,Sudeste,-19.75,"-47,74",sensor_sentinel,vegetacao_nativa,nao_aplicavel,31.33,0.78,"0,59",34.91,30.55,0,2,36.62,medio,0.00,0.06,0.00,49.91,pendente,
+ORB-00662,2025-07-14,Ribeirão Preto,sp,Sudeste,-21.13,-47.55,sensor_landsat,urbnao,nao_aplicavel,157.30,0.18,0.22,18.07,27.71,5,1,"53,70",alto,0.00,0.67,14.23,"0,00",processado,
+ORB-00663,2026-02-07,Sinop,MT,Centro-Oeste,-11.74,-55.68,drone_cliente,agricultura,cafe,96.94,0.46,0.31,19.25,38.25,,3,75.62,critico,2.15,0.11,0.00,,erro_validacao,
+ORB-00664,2025-09-12,Uberaba,MG,Sudeste,-19.86,-48.07,sensor_sentinel,urbano,nao_aplicavel,1.00,0.31,0.36,34.42,32.53,11,4,65.13,alto,0.00,0.73,7.22,10.67,pendente,coordenada imprecisa
+ORB-00665,2025-05-19,Uberaba,MG,Sudeste,-19.86,-48.21,base_municipal,vegetacao_nativa,nao_aplicavel,936.51,0.73,0.73,"46,50",26.24,2,0,"19,92",baixo,0.00,0.05,0.00,17.35,processado,possivel queimadura
+ORB-00666,2025-07-19,marabá,PA,Norte,-5.37,-49.27,sensor_sentinel,vegetacao_nativa,nao_aplicavel,29.55,0.78,0.54,50.10,29.86,17,7,"56,78",alto,0.00,0.04,0.00,73.71,processado,
+ORB-00667,2026-01-27,Uberaba,MG,Sudeste,-19.70,-48.01,sensor_landsat,urbano,nao_aplicavel,85.07,0.22,0.27,7.85,25.55,7,0,77.33,crítico,0.00,0.76,12.02,0.00,processado,sombra parcial
+ORB-00668,2025-07-07,Altamira,PA,Norte,,-52.10,sensor_sentinel,agricultura,milho,180.36,"0,42",0.32,52.74,29.95,11,0,29.01,médio,5.48,0.11,0.00,29.72,processado,
+ORB-00669,2025-07-23,Ribeirão Preto,sp,Sudeste,"-21,01",-47.96,sensor_landsat,vegetacao_nativa,nao_aplicavel,31.21,0.77,0.75,40.50,33.34,10,2,60.89,alto,0.00,"0,01",0.00,31.70,processado,
+ORB-00670,01/11/2025,Petrolina,PE,Nordeste,-9.27,-40.48,drone_cliente,urbano,nao_aplicavel,87.04,0.19,0.18,65.99,33.32,35,3,70.51,alto,0.00,0.60,,10.32,pendente,
+ORB-00671,data_invalida,Porto Velho,RO,Norte,-8.92,-63.89,sensor_landsat,vegetacao_nativa,nao_aplicavel,37.48,0.75,0.60,51.11,28.40,13,2,58.04,alto,0.00,0.09,0.81,60.34,processado,registro importado manualmente
+ORB-00672,2025-06-28,Altamira,PA,Norte,-2.94,-52.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,342.78,"0,69",0.69,"64,85",33.79,4,10,54.83,alto,0.00,0.03,0.00,37.85,processado,
+ORB-00673,2026-01-20,Sorriso,MT,Centro-Oeste,NA,-55.61,sensor_sentinel,agricultura,milho,7.95,0.36,0.49,15.87,"37,38",8,0,83.13,critico,5.53,0.19,0.00,0.00,processado,
+ORB-00674,2025-08-23,Uberaba,MG,Sudeste,-19.89,"-47,77",sensor_sentinel,agricultura,cana,38.87,0.74,0.88,49.26,32.85,5,2,31.30,medio,87.04,0.18,0.00,0.00,pendente,possivel queimadura
+ORB-00675,2025-03-14,Uberlândia,MG,Sudeste,-18.97,-48.45,sensor_sentinel,urbano,nao_aplicavel,241.94,0.22,0.24,41.84,25.95,5,1,40.64,medio,0.00,0.56,3.56,1.77,processado,possivel queimadura
+ORB-00676,02-10-2025,Sinop,MT,Centro-Oeste,-12.08,-55.66,sensor_sentinel,agricultura,cana,160.55,0.37,0.38,52.96,37.75,17,7,62.39,alto,64.88,0.15,0.00,NA,processado,
+ORB-00677,2025-08-26,Palmas,TO,Norte,-10.01,"-48,19",sensor_sentinel,pastagem,pastagem,48.23,0.46,0.32,53.49,33.83,19,9,87.54,critico,1.46,0.16,"0,00",27.26,pendente,nuvem na cena
+ORB-00678,2025-09-26,Uberaba,mg,Sudeste,-20.03,-47.84,sensor_sentinel,agricultura,milho,22.28,0.63,0.68,21.91,30.24,3,3,59.33,alto,4.71,0.18,0.00,"0,00",processado,registro importado manualmente
+ORB-00679,2025-10-31,Porto Velho,RO,Norte,-8.83,-63.81,sensor_sentinel,agricultura,cana,73.27,0.40,0.24,"61,48",28.99,13,1,"43,88",medio,73.45,0.06,0.00,19.49,processado,
+ORB-00680,2025-08-04,Goiânia,GO,Centro-Oeste,-16.64,-49.26,sensor_landsat,agricultura,cafe,37.57,0.65,"0,51",,"37,48",26,2,79.15,critico,1.85,"0,20",NA,28.82,processado,coordenada imprecisa
+ORB-00681,2025-11-10,Goiânia,GO,Centro-Oeste,"-16,70",-49.10,sensor_sentinel,agricultura,cafe,406.80,0.64,0.62,"27,46",34.61,34,3,99.95,critico,"1,00",0.12,0.00,12.15,processado,
+ORB-00682,2025-09-09,Cuiabá,MT,Centro-Oeste,-15.52,-56.05,sensor_landsat,agricultura,cafe,34.07,0.38,0.15,48.64,32.43,30,3,"76,75",critico,"1,73",0.17,0.00,43.26,processado,
+ORB-00683,2025-12-29,Uberaba,mg,Sudeste,-20.02,-47.93,sensor_sentinel,pastagem,nao_aplicavel,490.33,0.44,0.48,41.78,31.84,0,7,57.25,alto,0.00,0.12,4.29,5.15,processado,
+ORB-00684,2025-09-12,Palmas,TO,Norte,-10.19,-48.27,sensor_sentinel,agricultura,milho,264.43,0.70,0.66,63.24,"28,10",19,3,50.26,alto,6.64,0.10,,0.75,processado,
+ORB-00685,2025-03-16,uberlândia,MG,Sudeste,-18.99,-48.38,base_municipal,vegetacao_nativa,nao_aplicavel,35.93,0.74,0.74,32.51,31.77,1,5,61.40,alto,0.00,0.08,0.00,35.43,processado,coordenada imprecisa
+ORB-00686,2025-11-12,Petrolina,PE,Nordeste,-9.56,-40.70,sensor_landsat,vegetacao_nativa,nao_aplicavel,75.14,0.75,"0,45",49.51,35.32,16,3,52.58,alto,0.00,0.07,3.67,72.51,pendente,nuvem na cena
+ORB-00687,2025-08-27,Sorriso,MT,Centro-Oeste,-12.51,,sensor_sentinel,urbano,nao_aplicavel,237.68,0.12,0.04,48.34,"32,71",0,14,45.11,medio,0.00,0.89,14.05,15.62,processado,
+ORB-00688,2026-03-15,Sinop,MT,Centro-Oeste,-11.98,-55.44,sensor_sentinel,vegetacao nat.,nao_aplicavel,491.39,0.86,0.21,46.84,32.13,19,4,74.22,alto,0.00,0.06,0.00,100.00,processado,
+ORB-00689,2025-09-15,Cuiabá,MT,Centro-Oeste,-15.71,-56.27,sensor_sentinel,agricultura,soja,419.72,0.62,NA,"64,10","30,37",19,4,54.45,alto,3.71,0.18,0.00,0.70,processado,sombra parcial
+ORB-00690,29/11/2025,Sorriso,mt,Centro-Oeste,-12.53,-55.56,sensor_sentinel,agricultura,algodao,394.65,,0.58,41.43,31.68,0,0,45.67,medio,4.37,0.13,3.02,0.00,processado,registro importado manualmente
+ORB-00691,2025-11-20,Sorriso,MT,Centro-Oeste,-12.64,-55.74,sensor_sentinel,urbano,nao_aplicavel,31.56,0.22,0.27,12.88,36.92,15,4,"79,85",critico,0.00,0.88,10.55,0.00,processado,possivel queimadura
+ORB-00692,2025-12-03,Marabá,PA,Norte,-5.39,-49.33,sensor_sentinel,agricultura,algodao,69.57,0.56,0.73,52.57,34.41,30,10,92.44,critico,5.09,0.18,0.00,0.00,erro_validacao,sombra parcial
+ORB-00693,2026-01-18,Goiânia,GO,Centro-Oeste,-16.64,-49.19,sensor_landsat,vegetacao_nativa,nao_aplicavel,42.51,0.79,0.78,5.00,33.88,26,10,100.00,critico,0.00,0.12,0.00,19.92,erro_validacao,
+ORB-00694,2025-02-19,Uberlândia,MG,Sudeste,-18.95,-48.38,sensor_sentinel,pastagem,pastagem,257.02,0.49,,,33.67,12,2,100.00,critico,1.12,0.07,0.00,46.68,processado,coordenada imprecisa
+ORB-00695,2025-05-14,Porto Velho,RO,Norte,"-8,75",-63.97,sensor_sentinel,agricultura,cafe,4.87,0.53,0.51,73.83,32.77,0,15,61.05,alto,1.80,0.05,0.00,0.00,processado,
+ORB-00696,2025-01-26,Marabá,PA,Norte,-5.52,-49.18,sensor_sentinel,agricultura,cana,49.12,0.69,0.70,59.28,33.60,0,8,50.66,alto,73.45,0.09,3.87,0.00,processado,registro importado manualmente
+ORB-00697,04-29-2025,Uberlândia,MG,Sudeste,-19.03,-48.38,sensor_sentinel,vegetacao_nativa,nao_aplicavel,74.90,0.68,0.60,33.43,26.89,12,0,51.61,alto,0.00,0.04,0.00,43.52,processado,sombra parcial
+ORB-00698,2025-10-09,Porto Velho,RO,Norte,-8.69,-64.10,sensor_sentinel,vegetacao nat.,nao_aplicavel,109.74,0.76,0.12,30.34,31.68,10,6,61.89,alto,0.00,"0,05",0.00,,processado,
+ORB-00699,2025-05-29,Marabá,PA,Norte,-5.54,-49.08,drone_cliente,agricultura,soja,228.51,0.64,0.42,66.49,34.52,23,2,74.26,alto,3.47,0.14,0.00,52.19,processado,sombra parcial
+ORB-00700,2025-06-03,Altamira,PA,Norte,-3.04,"-52,07",base_municipal,vegetacao_nativa,nao_aplicavel,NA,0.67,0.43,33.79,36.39,0,9,,alto,NA,0.12,0.00,58.19,pendente,
+ORB-00701,2026-01-10,Ribeirão Preto,SP,Sudeste,-21.30,,sensor_sentinel,agricultura,soja,59.59,0.48,0.32,46.56,30.17,4,,44.60,medio,3.30,0.07,0.00,25.30,processado,coordenada imprecisa
+ORB-00702,2025-02-04,Uberaba,MG,Sudeste,-20.07,-47.63,sensor_landsat,vegetacao_nativa,nao_aplicavel,69.72,,0.73,53.10,29.20,7,0,34.25,medio,0.00,0.03,0.00,30.63,erro_validacao,
+ORB-00703,2025-12-21,Ribeirão Preto,SP,Sudeste,-21.17,-47.91,sensor_sentinel,vegetacao_nativa,nao_aplicavel,680.29,0.81,,38.21,32.64,4,1,42.77,medio,0.00,0.08,0.00,35.94,processado,registro importado manualmente
+ORB-00704,2025-03-03,Porto Velho,RO,Norte,-8.80,-63.89,Sentinel,urbano,nao_aplicavel,225.36,"0,10",0.13,71.56,34.22,,3,50.67,alto,0.00,"0,84",9.57,NA,pendente,sombra parcial
+ORB-00705,2025-01-19,Uberaba,MG,Sudeste,-19.82,-47.84,sensor_sentinel,agricultura,cafe,260.68,0.69,0.77,41.50,25.64,,0,52.62,alto,1.62,0.18,0.00,"0,00",procesado,
+ORB-00706,2025-10-09,Sinop,MT,Centro-Oeste,-11.77,-55.25,drone_cliente,agricultura,soja,1768.94,0.62,0.64,9.66,35.29,16,0,88.21,critico,3.08,0.16,0.00,0.00,processado,
+ORB-00707,2025-05-25,Uberlândia,MG,Sudeste,-18.79,-48.21,base_municipal,agricultura,milho,160.11,0.39,0.24,46.98,28.70,17,5,57.41,alto,4.80,,0.00,15.50,processado,coordenada imprecisa
+ORB-00708,,Ribeirão Preto,SP,Sudeste,-21.20,-47.72,sensor_sentinel,vegetacao_nativa,nao_aplicavel,243.57,0.66,0.65,43.79,30.70,0,2,46.02,medio,0.00,0.08,0.00,"25,22",processado,
+ORB-00709,2025-10-21,Uberaba,MG,Sudeste,-19.49,-48.27,sensor_sentinel,vegetacao_nativa,nao_aplicavel,476.51,0.80,0.48,26.84,32.69,4,4,56.44,alto,0.00,0.06,0.00,77.43,processado,
+ORB-00710,2025-09-11,Rio Branco,AC,Norte,-9.89,-67.88,sensor_sentinel,vegetacao_nativa,nao_aplicavel,19.10,0.84,0.58,80.73,35.49,0,3,33.36,medio,0.00,0.02,0.00,62.47,processado,
+ORB-00711,2025-03-17,Porto Velho,RO,Norte,-8.88,-63.97,sensor_sentinel,pastagem,pastagem,"458,60",0.59,0.34,95.00,28.12,16,14,72.25,alto,1.21,0.15,0.00,36.27,pendente,coordenada imprecisa
+ORB-00712,2026-01-17,Ribeirão Preto,SP,Sudeste,"-20,87",-47.78,sensor_landsat,vegetacao_nativa,nao_aplicavel,18.43,0.79,0.78,39.89,29.00,7,0,48.26,medio,0.00,0.05,0.00,40.68,pendente,possivel queimadura
+ORB-00713,2026-01-05,Sorriso,MT,Centro-Oeste,-12.61,"-55,62",sensor_landsat,vegetacao_nativa,nao_aplicavel,1.00,0.79,0.76,37.23,30.57,0,16,"66,74",alto,0.00,0.06,6.17,43.00,processado,sombra parcial
+ORB-00714,2025-03-14,Cuiabá,MT,Centro-Oeste,-15.77,-56.24,sensor_landsat,vegetacao_nativa,nao_aplicavel,161.20,0.77,0.69,26.12,31.74,32,8,100.00,critico,0.00,0.01,0.00,23.20,pendente,
+ORB-00715,2026-02-02,Sinop,MT,Centro-Oeste,-11.92,-55.66,sensor_sentinel,agricultura,milho,47.25,0.46,0.64,"42,83",30.61,13,4,50.11,alto,7.72,0.08,"0,00",0.00,processado,registro importado manualmente
+ORB-00716,2025-07-11,Cuiabá,MT,Centro-Oeste,-15.49,-56.17,Sentinel,urbano,nao_aplicavel,17.83,0.30,0.33,"65,17",30.92,19,1,43.59,medio,0.00,0.56,9.52,0.00,reprocessar,
+ORB-00717,,Altamira,PA,Norte,-3.14,-52.34,sensor_sentinel,agricultura,milho,12.06,0.60,0.51,71.64,32.64,10,3,54.73,alto,4.91,0.16,"0,00",29.12,erro_validacao,possivel queimadura
+ORB-00718,2025-09-18,Petrolina,PE,Nordeste,-9.62,-40.57,sensor_sentinel,vegetacao_nativa,nao_aplicavel,142.10,0.70,"0,62",65.25,33.07,18,7,69.62,alto,0.00,0.02,0.00,36.89,pendente,nuvem na cena
+ORB-00719,2026-03-06,Uberlândia,MG,Sudeste,-19.02,-48.20,sensor_sentinel,vegetacao_nativa,nao_aplicavel,202.96,0.63,0.25,,31.33,0,6,47.71,medio,0.00,0.05,,91.62,processado,
+ORB-00720,2025-10-25,Rio Branco,AC,Norte,NA,NA,sensor_sentinel,vegetacao nat.,nao_aplicavel,"273,26","0,81",0.73,48.20,"31,41",4,4,,alto,0.00,0.08,0.00,42.14,processado,
+ORB-00721,2025-12-11,Goiânia,GO,Centro-Oeste,-16.68,-49.17,sensor_sentinel,agricultura,milho,396.79,0.55,0.32,NA,34.18,15,0,57.89,alto,NA,0.10,0.00,35.45,processado,
+ORB-00722,2025-07-15,Ribeirão Preto,SP,Sudeste,-20.98,-47.50,base_municipal,agricultura,soja,19.85,0.82,"0,88",,27.42,17,0,44.04,medio,3.97,0.11,3.76,0.00,processado,
+ORB-00723,2026-02-09,Ribeirão Preto,SP,Sudeste,-21.06,-47.58,sensor_sentinel,vegetacao_nativa,nao_aplicavel,98.65,,0.19,39.77,31.66,19,0,74.42,alto,,0.10,"2,81",100.00,processado,nuvem na cena
+ORB-00724,03-30-2025,Cuiabá,MT,Centro-Oeste,"-15,48",-56.08,sensor_sentinel,agua,nao_aplicavel,105.90,0.04,0.10,21.04,33.67,12,2,76.44,critico,0.00,"0,01",0.00,"0,00",processado,
+ORB-00725,27/02/2026,Sorriso,MT,Centro-Oeste,NA,-56.03,sensor_sentinel,pastagem,pastagem,345.87,0.33,0.09,56.86,32.56,38,3,84.51,critico,1.19,0.10,0.00,42.09,processado,
+ORB-00726,2025-03-11,Barreiras,BA,Nordeste,-12.21,"-45,00",sensor_sentinel,agua,nao_aplicavel,331.91,0.04,0.04,36.68,37.06,18,6,"64,85",alto,0.00,0.01,0.00,4.37,erro_validacao,
+ORB-00727,2025-03-27,Uberaba,MG,Sudeste,-19.77,-47.91,sensor_sentinel,vegetacao_nativa,nao_aplicavel,158.72,"0,71","0,10",5.95,28.31,10,5,88.82,critico,0.00,0.03,0.00,100.00,processado,coordenada imprecisa
+ORB-00728,2026-03-13,Sinop,MT,Centro-Oeste,NA,-55.58,sensor_landsat,vegetacao_nativa,nao_aplicavel,62.29,0.73,0.12,36.95,32.26,13,8,88.35,critico,0.00,0.03,0.00,100.00,processado,
+ORB-00729,2026-03-10,Petrolina,PE,Nordeste,,-40.55,sensor_sentinel,agua,nao_aplicavel,51.52,0.06,0.10,42.37,34.14,13,4,51.96,alto,0.00,0.01,0.00,0.00,pendente,sombra parcial
+ORB-00730,2025-07-16,Uberlândia,MG,Sudeste,-19.22,-48.63,drone_cliente,agricultura,milho,99.00,0.76,0.69,"43,58",,16,5,73.02,alto,5.14,0.05,0.00,7.77,processado,possivel queimadura
+ORB-00731,2025-01-15,Uberlândia,MG,Sudeste,-19.01,-48.11,drone_cliente,urbano,nao_aplicavel,70.04,0.24,0.18,47.44,26.89,28,1,56.15,alto,0.00,0.77,7.50,20.38,erro_validacao,sombra parcial
+ORB-00732,2026-01-08,Barreiras,ba,Nordeste,-12.17,-44.93,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"68,82",0.74,,35.03,31.70,11,4,52.36,alto,0.00,0.03,"0,00",41.19,processado,
+ORB-00733,,Porto Velho,RO,Norte,-8.76,-64.03,sensor_sentinel,agricultura,milho,66.01,0.35,0.32,75.64,36.08,11,7,53.41,alto,,0.16,0.00,"13,93",processado,
+ORB-00734,2025-05-01,Sinop,MT,Centro-Oeste,-11.69,-55.70,base_municipal,agricultura,milho,25.63,0.41,0.31,58.18,37.03,31,2,69.07,alto,6.95,0.14,"0,00",5.76,erro_validacao,
+ORB-00735,01-29-2025,Altamira,PA,Norte,-3.28,-52.29,sensor_landsat,vegetacao_nativa,nao_aplicavel,230.37,0.68,0.64,75.67,,18,5,"59,15",alto,0.00,0.06,0.00,44.11,processado,
+ORB-00736,2025-11-12,Sinop,MT,Centro-Oeste,-11.86,-55.39,sensor_sentinel,urbano,nao_aplicavel,198.57,0.12,,39.00,NA,16,3,,alto,"0,00",0.81,"10,60",0.00,reprocessar,
+ORB-00737,2025-08-29,Porto Velho,RO,Norte,-8.88,-63.74,sensor_sentinel,vegetacao_nativa,nao_aplicavel,160.20,0.69,0.62,75.47,32.73,0,3,35.54,medio,0.00,"0,12",0.00,37.30,processado,sombra parcial
+ORB-00738,2025-10-20,Goiânia,GO,Centro-Oeste,-16.77,-49.33,sensor_landsat,pastagem,pastagem,"79,58",0.58,0.48,NA,35.98,14,3,69.02,alto,1.16,0.13,"0,00",31.44,processado,
+ORB-00739,2025-08-11,Porto Velho,RO,Norte,-8.58,-63.91,drone_cliente,urbano,nao_aplicavel,15.34,0.20,0.13,56.26,35.71,4,0,"34,32",medio,0.00,0.95,4.75,3.43,processado,
+ORB-00740,2025-02-12,Porto Velho,RO,Norte,-8.80,-63.88,sensor_sentinel,vegetacao_nativa,nao_aplicavel,138.16,,0.59,58.16,32.69,1,8,44.25,medio,0.00,0.06,0.00,21.97,processado,coordenada imprecisa
+ORB-00741,2025-11-03,Goiânia,GO,Centro-Oeste,-16.43,-49.09,sensor_sentinel,urbano,nao_aplicavel,687.79,0.14,0.20,47.08,30.43,23,0,45.76,medio,0.00,0.59,10.16,9.92,processado,sombra parcial
+ORB-00742,2025-06-09,Porto Velho,RO,Norte,-8.92,-63.80,sensor_sentinel,vegetacao_nativa,nao_aplicavel,97.12,"0,74",0.13,84.84,34.64,18,2,56.51,alto,0.00,0.10,0.00,100.00,processado,
+ORB-00743,2026-03-05,Uberlândia,MG,Sudeste,-18.98,"-48,31",sensor_landsat,vegetacao_nativa,nao_aplicavel,498.62,0.64,0.17,38.75,26.17,3,2,58.11,alto,0.00,0.04,NA,84.09,pendente,
+ORB-00744,2025-06-29,Marabá,PA,Norte,-5.41,-49.14,sensor_sentinel,agricultura,soja,,"0,81",0.74,65.43,28.64,22,1,42.74,médio,3.02,0.10,0.00,15.11,pendente,
+ORB-00745,2025-07-06,Uberaba,MG,Sudeste,-19.48,-48.17,sensor_sentinel,agricultura,milho,4.05,0.53,0.45,36.75,27.61,8,0,55.64,alto,6.05,0.10,0.00,NA,processado,
+ORB-00746,2025-04-03,Barreiras,BA,Nordeste,-12.07,-45.16,sensor_landsat,vegetacao_nativa,nao_aplicavel,"91,59",0.88,0.33,24.95,36.22,22,4,94.92,critico,0.00,0.07,0.00,100.00,erro_validacao,
+ORB-00747,2025-11-18,porto velho,RO,Norte,-8.74,-63.80,sensor_landsat,vegetacao_nativa,nao_aplicavel,48.96,0.82,0.77,29.16,34.81,12,8,93.78,critico,0.00,0.07,0.00,19.82,processado,
+ORB-00748,2025-02-04,Porto Velho,RO,Norte,-8.99,-63.90,sensor_sentinel,agricultura,milho,27.43,"0,58",0.40,40.56,NA,10,0,39.17,medio,7.24,0.05,0.00,17.23,processado,
+ORB-00749,,Porto Velho,RO,Norte,-8.82,-63.93,sensor_sentinel,agricultura,cafe,309.34,0.35,0.43,49.78,29.57,11,5,40.33,medio,2.03,NA,0.00,0.00,procesado,registro importado manualmente
+ORB-00750,2025-10-02,Uberlândia,MG,Sudeste,-19.05,-48.24,sensor_landsat,agricultura,milho,4.64,0.55,0.51,79.73,32.13,14,1,41.22,medio,6.21,0.08,0.00,0.00,processado,coordenada imprecisa
+ORB-00751,2026-02-17,Porto Velho,RO,Norte,-8.69,-63.94,sensor_sentinel,vegetacao_nativa,nao_aplicavel,7.12,0.70,0.65,36.14,30.38,8,12,89.73,critico,0.00,0.03,0.00,40.76,processado,
+ORB-00752,08-17-2025,Ribeirão Preto,SP,Sudeste,-21.26,-48.12,sensor_landsat,agricultura,milho,448.98,0.70,0.67,35.86,26.38,7,3,NA,medio,4.58,"0,14",0.00,2.07,erro_validacao,
+ORB-00753,2025-09-21,Uberlândia,MG,Sudeste,-18.81,-48.11,sensor_landsat,vegetacao_nativa,nao_aplicavel,6.44,0.83,0.77,42.75,33.49,15,1,50.61,alto,0.00,0.02,0.00,44.06,processado,sombra parcial
+ORB-00754,2026-02-15,Ribeirão Preto,SP,Sudeste,-21.13,-48.03,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"225,16",0.63,0.12,33.93,27.91,14,,84.04,critico,0.00,0.07,0.00,100.00,reprocessar,
+ORB-00755,2025-09-23,Sinop,MT,Centro-Oeste,-11.72,-55.32,drone_cliente,vegetacao_nativa,nao_aplicavel,59.35,0.66,0.49,30.53,33.51,24,7,100.00,critico,0.00,0.01,0.00,65.69,reprocessar,coordenada imprecisa
+ORB-00756,2025-04-22,Cuiabá,MT,Centro-Oeste,-15.61,-56.06,drone_cliente,agricultura,soja,644.01,0.56,0.35,39.45,35.05,12,7,"73,68",alto,3.16,0.12,7.37,28.12,erro_validacao,
+ORB-00757,2025-06-17,Uberaba,MG,Sudeste,-19.71,-48.03,sensor_sentinel,agricultura,soja,1558.40,0.82,"0,72",37.99,26.92,0,3,45.71,medio,4.05,0.15,0.00,20.82,processado,
+ORB-00758,2025-01-07,Altamira,PA,Norte,-2.97,-52.14,sensor_sentinel,vegetacao_nativa,nao_aplicavel,113.98,,0.34,"47,03",32.22,12,5,60.41,alto,0.00,0.02,0.00,69.88,erro_validacao,sombra parcial
+ORB-00759,2025-06-17,Cuiabá,MT,Centro-Oeste,-15.51,-55.78,sensor_sentinel,urbano,nao_aplicavel,760.22,0.19,0.13,14.76,38.67,20,6,91.73,critico,0.00,0.83,8.66,"9,04",pendente,
+ORB-00760,2025-06-26,Altamira,PA,Norte,-3.08,-52.18,drone_cliente,agricultura,soja,133.11,0.60,0.51,55.47,31.73,10,10,68.66,alto,2.42,0.20,0.00,24.61,erro_validacao,coordenada imprecisa
+ORB-00761,2025-12-27,Barreiras,BA,Nordeste,NA,-45.12,sensor_sentinel,vegetacao_nativa,nao_aplicavel,114.61,0.78,0.69,31.54,32.36,17,0,61.29,alto,0.00,0.02,0.00,"28,78",processado,sombra parcial
+ORB-00762,2025-08-20,Ribeirão Preto,SP,Sudeste,-21.35,-48.11,sensor_landsat,urbano,nao_aplicavel,6.66,0.10,0.09,48.88,"32,71",29,12,76.07,critico,0.00,0.89,NA,17.56,processado,
+ORB-00763,2025-08-08,Marabá,PA,Norte,,-48.99,sensor_sentinel,urbano,nao_aplicavel,132.34,0.34,0.30,58.39,33.96,3,0,"46,91",medio,0.00,0.57,"5,40",0.00,pendente,
+ORB-00764,2025-08-17,Sinop,MT,Centro-Oeste,-12.12,-55.70,sensor_landsat,urbano,nao_aplicavel,161.96,0.34,0.40,"45,81",36.82,28,9,"86,55",critico,0.00,"0,68","5,58","1,00",processado,
+ORB-00765,2025-07-19,Altamira,PA,Norte,-3.31,-52.26,sensor_sentinel,vegetacao_nativa,nao_aplicavel,39.08,0.76,0.46,58.48,28.37,1,8,61.77,alto,0.00,0.07,0.00,80.84,processado,
+ORB-00766,2025-02-04,Petrolina,PE,Nordeste,-9.51,-40.61,base_municipal,vegetacao_nativa,nao_aplicavel,108.16,0.74,0.36,30.11,32.96,28,2,100.00,critico,0.00,0.06,0.00,"77,41",processado,
+ORB-00767,2025-11-09,Sinop,MT,Centro-Oeste,-11.83,-55.36,sensor_landsat,urbano,nao_aplicavel,,0.28,0.32,19.83,34.56,12,2,78.12,critico,0.00,0.57,3.35,0.00,processado,
+ORB-00768,2025-05-30,Ribeirão Preto,SP,Sudeste,-21.39,"-47,57",base_municipal,urbnao,nao_aplicavel,24.80,0.23,0.19,35.23,32.99,10,0,52.09,alto,0.00,0.89,5.24,11.77,processado,possivel queimadura
+ORB-00769,04-09-2025,Petrolina,PE,Nordeste,-9.49,-40.49,drone_cliente,vegetacao_nativa,nao_aplicavel,395.61,0.82,0.64,32.75,37.76,17,9,85.51,critico,0.00,0.05,0.57,65.41,reprocessar,
+ORB-00770,2025-01-17,Porto Velho,RO,Norte,-8.60,-64.16,sensor_landsat,vegetacao_nativa,nao_aplicavel,553.81,0.64,0.33,57.75,28.41,8,2,35.35,medio,0.00,0.10,0.00,83.88,processado,coordenada imprecisa
+ORB-00771,16/02/2026,UBERABA,MG,Sudeste,-19.62,-48.01,sensor_sentinel,vegetacao_nativa,nao_aplicavel,579.53,0.78,0.29,65.45,31.00,23,10,73.17,alto,0.00,0.04,0.00,84.31,processado,sombra parcial
+ORB-00772,2025-01-02,Palmas,TO,Norte,-10.11,-48.49,drone_cliente,agricultura,soja,394.74,0.51,"0,54","93,68",29.44,16,0,51.90,alto,1.69,0.13,,6.49,processado,
+ORB-00773,2025-03-03,Sinop,MT,Centro-Oeste,-11.67,-55.32,sensor_sentinel,agricultura,milho,43.51,0.78,0.81,"53,12","30,27",29,1,67.90,alto,6.70,0.13,0.00,0.00,pendente,possivel queimadura
+ORB-00774,2026-03-09,Ribeirão Preto,SP,Sudeste,-21.33,-47.91,sensor_landsat,agricultura,soja,141.44,0.63,0.66,53.40,31.81,12,2,37.81,medio,2.14,0.19,"0,00",0.00,processado,
+ORB-00775,2025-03-01,Cuiabá,MT,Centro-Oeste,-15.57,-56.04,sensor_sentinel,pastajem,pastagem,4.75,0.40,0.20,34.19,38.75,23,,82.21,critico,1.15,0.11,0.00,36.28,processado,nuvem na cena
+ORB-00776,2025-11-06,Altamira,PA,Norte,-3.32,-52.18,base_municipal,agricultura,milho,17.93,0.41,0.23,59.70,28.22,19,5,50.88,alto,5.23,0.05,0.00,31.75,reprocessar,
+ORB-00777,2026-03-11,Rio Branco,AC,Norte,-9.91,-67.83,sensor_landsat,agricultura,cana,57.41,0.76,0.82,37.11,32.70,0,0,24.25,baixo,68.17,0.13,0.00,5.29,processado,nuvem na cena
+ORB-00778,2025-08-02,Uberlândia,MG,Sudeste,-19.11,-48.54,sensor_sentinel,agricultura,soja,220.97,"0,40",0.54,19.79,31.86,15,,59.92,alto,"2,88",0.12,0.00,0.00,processado,
+ORB-00779,2025-12-16,Uberlândia,mg,Sudeste,-18.85,-48.28,sensor_landsat,urbano,nao_aplicavel,85.36,0.32,0.36,5.00,30.03,13,0,73.71,alto,0.00,0.85,2.96,0.00,pendente,possivel queimadura
+ORB-00780,2026-03-13,Ribeirão Preto,SP,Sudeste,-21.25,-47.70,sensor_sentinel,agricultura,cafe,71.05,"0,68",0.67,55.37,25.73,18,16,64.74,alto,1.22,0.07,2.97,0.00,processado,coordenada imprecisa
+ORB-00781,2025-08-26,Rio Branco,AC,Norte,-10.24,-67.85,sensor_sentinel,agricultura,soja,231.29,0.67,0.60,56.19,"28,54",0,6,28.10,medio,3.88,0.17,0.00,3.63,processado,possivel queimadura
+ORB-00782,2025-08-27,Porto Velho,RO,Norte,-8.99,-63.78,sensor_landsat,pastagem,pastagem,397.44,0.61,0.53,"66,51",33.85,19,,88.71,crítico,1.09,0.04,0.00,26.11,pendente,
+ORB-00783,2025-03-15,Goiânia,GO,Centro-Oeste,-16.46,-49.02,sensor_sentinel,agricultura,milho,6.44,0.51,0.41,44.91,37.13,23,0,64.01,alto,3.62,0.06,0.00,21.38,pendente,possivel queimadura
+ORB-00784,2025-02-06,Marabá,PA,Norte,-5.38,-49.12,sensor_landsat,urbano,nao_aplicavel,34.27,0.17,0.16,54.95,33.28,9,19,75.52,critico,0.00,NA,11.05,19.47,processado,nuvem na cena
+ORB-00785,2025-01-30,CUIABÁ,MT,Centro-Oeste,-15.41,-56.05,sensor_sentinel,urbano,nao_aplicavel,61.53,0.14,0.10,69.44,34.39,0,2,40.24,medio,0.00,0.67,8.75,3.00,processado,sombra parcial
+ORB-00786,2025-10-29,Altamira,PA,Norte,-3.39,-52.04,drone_cliente,vegetacao_nativa,nao_aplicavel,230.48,0.73,"0,34",70.06,36.03,23,1,66.61,alto,0.00,0.03,0.00,85.80,reprocessar,
+ORB-00787,2025-04-30,Palmas,TO,Norte,-10.23,-48.46,drone_cliente,agricultura,cafe,241.11,0.52,0.56,46.87,35.31,,1,NA,alto,1.64,0.05,0.00,"0,00",processado,possivel queimadura
+ORB-00788,2026-03-07,Petrolina,PE,Nordeste,-9.32,-40.15,sensor_sentinel,agricultura,milho,519.71,0.62,0.59,34.52,37.53,13,2,59.02,alto,5.08,0.09,0.00,16.27,processado,
+ORB-00789,2025-07-16,altamira,PA,Norte,-3.23,-52.08,Sentinel,vegetacao nat.,nao_aplicavel,549.21,0.71,0.32,,30.26,,7,53.88,alto,0.00,0.09,0.00,80.44,processado,registro importado manualmente
+ORB-00790,2025-01-21,Palmas,TO,Norte,-10.22,-48.33,sensor_sentinel,agricultura,milho,623.23,0.67,0.63,61.38,28.53,8,4,"30,06",medio,3.99,0.11,0.00,16.60,processado,sombra parcial
+ORB-00791,2026-02-26,Barreiras,ba,Nordeste,-12.13,-44.84,sensor_sentinel,urbano,nao_aplicavel,82.41,0.30,0.23,41.98,39.49,18,9,"68,14",alto,0.00,0.63,2.79,28.75,pendente,
+ORB-00792,2026-02-09,Uberaba,MG,Sudeste,"-19,67",-48.11,sensor_landsat,vegetacao_nativa,nao_aplicavel,423.12,0.82,0.35,20.64,26.40,10,3,85.18,critico,0.00,0.10,3.98,100.00,processado,coordenada imprecisa
+ORB-00793,03/01/2026,Sorriso,MT,Centro-Oeste,-12.32,NA,sensor_sentinel,vegetacao_nativa,nao_aplicavel,25.62,0.72,0.63,12.34,38.89,27,3,100.00,critico,0.00,0.10,0.00,28.46,processado,sombra parcial
+ORB-00794,2025-10-24,Porto Velho,RO,Norte,-9.09,-63.69,sensor_sentinel,agricultura,algodao,20.85,0.62,0.53,45.03,NA,20,0,52.66,alto,3.86,0.19,6.41,21.12,processado,
+ORB-00795,2026-02-08,Uberaba,MG,Sudeste,-19.78,-47.93,sensor_landsat,pastagem,pastagem,8.92,"0,39",0.31,48.53,31.11,1,0,40.74,medio,1.13,0.15,0.00,NA,erro_validacao,
+ORB-00796,2026-02-01,Sinop,MT,Centro-Oeste,-11.98,-55.56,sensor_landsat,vegetacao_nativa,nao_aplicavel,364.92,0.75,0.67,38.23,36.28,19,5,"77,12",critico,0.00,0.10,7.14,46.65,processado,
+ORB-00797,2025-03-24,Altamira,pa,Norte,-3.11,-52.18,drone_cliente,vegetacao_nativa,nao_aplicavel,62.20,0.70,0.66,57.40,28.43,6,0,34.14,medio,0.00,0.06,0.00,36.67,processado,
+ORB-00798,2025-07-20,Porto Velho,RO,Norte,"-8,74",-63.85,drone_cliente,vegetacao_nativa,nao_aplicavel,135.62,0.80,0.32,,34.51,12,3,47.56,médio,0.00,0.04,0.00,"100,00",processado,sombra parcial
+ORB-00799,2025-05-14,Goiânia,GO,Centro-Oeste,-16.89,-49.23,sensor_sentinel,urbano,nao_aplicavel,9.96,0.33,0.25,67.74,37.35,23,0,69.90,alto,0.00,0.85,13.35,25.36,processado,
+ORB-00800,2025-01-02,Altamira,PA,Norte,-3.32,-52.37,sensor_sentinel,agricultura,soja,181.75,"0,37","0,25",59.62,29.28,,5,50.25,alto,3.16,0.16,0.00,18.74,processado,sombra parcial
+ORB-00801,2025-09-29,Sorriso,MT,Centro-Oeste,-12.37,-55.53,base_municipal,agricultura,soja,616.37,0.53,0.51,32.07,30.96,27,3,92.20,critico,2.80,0.16,0.00,22.22,processado,
+ORB-00802,2025-04-13,Ribeirão Preto,SP,Sudeste,"-21,50",-48.11,drone_cliente,agricultura,cafe,43.05,0.73,"0,85",46.05,28.90,0,10,33.89,medio,2.22,0.13,"0,00",0.00,reprocessar,
+ORB-00803,2026-01-03,Sinop,MT,Centro-Oeste,,-55.29,sensor_sentinel,agricultura,soja,52.11,0.76,0.88,53.67,38.79,19,6,"74,19",alto,3.33,0.12,0.00,0.00,processado,
+ORB-00804,2025-01-08,Porto Velho,RO,Norte,-8.75,-63.80,sensor_sentinel,agricultura,soja,179.88,0.46,NA,78.57,34.28,11,1,37.39,medio,3.48,0.08,0.00,"43,36",processado,registro importado manualmente
+ORB-00805,2025-09-09,Uberaba,MG,Sudeste,-19.68,-48.17,sensor_sentinel,agricultura,milho,126.98,0.44,0.56,5.00,30.41,10,6,75.66,critico,6.40,0.06,0.00,0.80,pendente,possivel queimadura
+ORB-00806,2025-12-20,Uberaba,MG,Sudeste,-19.69,-48.03,sensor_sentinel,vegetacao_nativa,nao_aplicavel,NA,0.81,0.73,13.09,25.34,18,2,87.42,critico,0.00,0.03,0.00,NA,erro_validacao,registro importado manualmente
+ORB-00807,2025-04-29,Uberlândia,MG,Sudeste,-18.80,-48.46,sensor_sentinel,urbano,nao_aplicavel,198.36,,NA,18.17,31.38,0,1,66.10,alto,0.00,0.89,16.38,29.87,processado,
+ORB-00808,2025-12-07,Ribeirão Preto,SP,Sudeste,-21.01,-48.03,base_municipal,agricultura,soja,129.03,0.79,0.83,51.78,26.85,9,5,48.09,medio,3.78,0.19,0.00,12.83,erro_validacao,
+ORB-00809,2025-05-31,Altamira,PA,Norte,-3.11,-52.44,sensor_sentinel,vegetacao_nativa,nao_aplicavel,69.74,0.65,0.09,45.37,31.07,4,8,47.13,medio,0.00,0.10,0.00,94.46,reprocessar,
+ORB-00810,2025-08-10,Rio Branco,AC,Norte,-9.99,-68.07,sensor_sentinel,vegetacao_nativa,nao_aplicavel,4.11,0.68,0.62,77.46,"34,11",,13,86.31,critico,0.00,0.03,0.00,30.93,processado,possivel queimadura
+ORB-00811,2025-09-27,Porto Velho,RO,Norte,"-8,63",-63.55,sensor_sentinel,agricultura,milho,14.54,0.79,0.56,57.80,36.69,,6,37.11,medio,3.98,0.09,0.00,44.75,processado,
+ORB-00812,2026-01-17,Sinop,MT,Centro-Oeste,-12.02,-55.35,sensor_landsat,vegetacao nat.,nao_aplicavel,73.63,0.84,0.82,22.27,37.56,35,1,100.00,critico,0.00,0.02,0.00,15.36,processado,sombra parcial
+ORB-00813,2025-06-10,Goiânia,GO,Centro-Oeste,-16.67,NA,sensor_landsat,vegetacao_nativa,nao_aplicavel,101.28,,0.65,31.44,32.68,0,5,46.67,medio,,0.05,0.00,20.94,processado,possivel queimadura
+ORB-00814,2026-01-13,Ribeirão Preto,SP,Sudeste,-21.01,-47.95,sensor_landsat,vegetacao_nativa,nao_aplicavel,"445,91",0.80,0.78,29.19,25.62,3,2,66.21,alto,,0.09,0.00,,processado,sombra parcial
+ORB-00815,2025-03-05,Goiânia,GO,Centro-Oeste,-16.52,-49.23,sensor_landsat,vegetacao_nativa,nao_aplicavel,"99,14",0.75,0.37,"42,18",37.98,11,15,76.72,critico,0.00,0.04,0.00,76.40,processado,possivel queimadura
+ORB-00816,2025-02-18,Altamira,PA,Norte,-3.15,-52.16,sensor_landsat,urbano,nao_aplicavel,691.01,"0,24",0.16,48.59,36.68,20,2,72.47,alto,0.00,0.92,8.58,31.18,pendente,possivel queimadura
+ORB-00817,2025-08-27,Cuiabá,MT,Centro-Oeste,-15.56,-56.29,sensor_landsat,vegetacao_nativa,nao_aplicavel,172.70,0.67,0.27,23.58,35.47,25,13,100.00,critico,0.00,0.09,0.00,73.72,erro_validacao,possivel queimadura
+ORB-00818,2025-02-19,Porto Velho,RO,Norte,-8.73,-64.03,sensor_sentinel,urbano,nao_aplicavel,140.03,0.29,0.34,73.69,29.52,27,0,46.59,medio,0.00,0.87,0.00,0.00,processado,
+ORB-00819,2026-03-12,uberlândia,MG,Sudeste,-18.89,-48.27,sensor_sentinel,vegetacao_nativa,nao_aplicavel,106.21,0.84,0.23,16.37,29.92,9,1,74.08,alto,0.00,0.11,0.00,100.00,processado,
+ORB-00820,2025-07-08,Uberaba,MG,Sudeste,-19.80,-48.00,sensor_landsat,pastagem,pastagem,912.28,0.45,0.30,19.26,28.09,7,1,73.37,alto,1.60,"0,05","0,00",42.99,processado,
+ORB-00821,2025-09-25,Altamira,PA,Norte,-3.06,"-52,47",sensor_sentinel,agua,nao_aplicavel,474.91,0.08,0.10,50.88,34.24,0,7,46.88,medio,NA,0.00,0.00,4.81,pendente,
+ORB-00822,2026-02-03,Petrolina,PE,Nordeste,-9.61,-40.49,sensor_sentinel,vegetacao_nativa,nao_aplicavel,255.09,0.82,0.20,30.90,35.08,19,12,,critico,0.00,0.10,0.00,100.00,processado,nuvem na cena
+ORB-00823,2025-02-01,UBERLÂNDIA,MG,Sudeste,-18.86,-48.26,base_municipal,vegetacao_nativa,nao_aplicavel,64.89,0.67,0.23,5.00,,15,8,100.00,critico,0.00,0.01,,86.01,pendente,registro importado manualmente
+ORB-00824,2026-02-11,Porto Velho,RO,Norte,"-8,67",-63.68,sensor_sentinel,vegetacao_nativa,nao_aplicavel,241.60,0.66,0.25,59.82,33.59,14,1,71.02,alto,0.00,0.01,0.00,,processado,sombra parcial
+ORB-00825,2025-11-23,Cuiabá,MT,Centro-Oeste,-15.89,-55.95,sensor_landsat,urbano,nao_aplicavel,242.86,0.28,"0,25",18.91,31.25,30,3,100.00,critico,0.00,0.94,8.88,20.79,processado,
+ORB-00826,2025-02-20,Sinop,MT,Centro-Oeste,-12.02,-55.38,sensor_sentinel,agricultura,soja,216.93,0.78,0.66,38.97,33.50,27,10,92.17,critico,3.47,0.06,0.00,21.85,reprocessar,
+ORB-00827,2025-10-22,Rio Branco,AC,Norte,-9.94,-67.98,drone_cliente,agricultura,cafe,104.15,0.42,0.56,"60,11",31.47,30,2,70.52,alto,1.55,0.09,0.00,0.00,pendente,nuvem na cena
+ORB-00828,23/01/2025,UBERABA,MG,Sudeste,-19.39,-48.16,sensor_landsat,vegetacao_nativa,nao_aplicavel,42.39,0.62,"0,38",49.57,,15,1,62.11,alto,0.00,0.04,0.00,57.09,processado,sombra parcial
+ORB-00829,2025-03-02,Uberlândia,MG,Sudeste,-19.03,-48.15,sensor_sentinel,vegetacao_nativa,nao_aplicavel,55.69,0.88,NA,33.51,27.11,14,0,69.97,alto,0.00,,0.00,44.85,processado,
+ORB-00830,2025-09-24,Marabá,PA,Norte,-5.07,-49.28,base_municipal,pastajem,pastagem,48.74,0.48,0.46,58.74,"32,04",4,2,37.86,medio,1.37,0.17,0.00,14.27,processado,
+ORB-00831,2025-04-29,Goiânia,GO,Centro-Oeste,-16.78,"-49,17",sensor_landsat,urbano,nao_aplicavel,68.68,0.10,0.03,24.69,35.00,19,,62.82,alto,0.00,0.58,12.07,9.43,erro_validacao,possivel queimadura
+ORB-00832,2025-08-17,Goiânia,GO,Centro-Oeste,-16.68,-48.99,sensor_landsat,vegetacao nat.,nao_aplicavel,9.75,0.75,,14.65,31.09,17,8,97.27,critico,0.00,0.02,0.00,100.00,pendente,coordenada imprecisa
+ORB-00833,2025-11-14,Uberaba,MG,Sudeste,-20.08,-48.20,sensor_landsat,pastagem,pastagem,"211,21",0.53,0.34,25.49,"25,20",11,5,60.96,alto,1.07,0.04,0.00,46.77,reprocessar,sombra parcial
+ORB-00834,2025-07-31,Sinop,MT,Centro-Oeste,-11.90,-55.69,sensor_landsat,vegetacao_nativa,nao_aplicavel,103.12,0.84,0.69,59.30,,21,10,92.59,critico,0.00,0.10,0.00,NA,processado,
+ORB-00835,2025-11-24,Cuiabá,MT,Centro-Oeste,-15.49,-56.12,sensor_sentinel,urbano,nao_aplicavel,739.20,0.19,0.17,34.79,35.30,32,3,76.92,critico,0.00,0.94,,"0,00",reprocessar,
+ORB-00836,2025-11-14,Altamira,PA,Norte,-3.21,-52.04,sensor_landsat,vegetacao_nativa,nao_aplicavel,236.96,"0,83",0.83,57.90,28.09,17,12,68.12,alto,0.00,0.07,0.00,20.83,processado,
+ORB-00837,2025-05-15,Cuiabá,MT,Centro-Oeste,-15.46,-56.05,sensor_sentinel,agricultura,milho,81.30,0.55,0.54,"42,80",31.62,9,1,35.52,medio,4.60,0.20,0.00,15.17,pendente,
+ORB-00838,2025-10-05,Sinop,MT,Centro-Oeste,-11.73,-55.40,sensor_sentinel,vegetacao_nativa,nao_aplicavel,417.38,0.80,"0,41",27.04,33.26,3,10,81.53,critico,"0,00",0.04,0.00,72.41,reprocessar,nuvem na cena
+ORB-00839,2025-08-13,Barreiras,BA,Nordeste,-12.36,-44.72,drone_cliente,agricultura,milho,22.27,0.62,0.39,"35,25","31,18",34,8,90.50,critico,,0.14,0.00,31.78,pendente,
+ORB-00840,data_invalida,Rio Branco,AC,Norte,-9.98,-67.91,sensor_landsat,agricultura,cafe,783.92,,"0,52",55.06,31.57,3,1,43.38,medio,"2,24",0.19,0.00,29.29,pendente,
+ORB-00841,2026-01-22,Uberaba,MG,Sudeste,-20.09,-47.65,sensor_sentinel,urbano,nao_aplicavel,"663,27","0,11",0.14,6.23,31.90,20,5,100.00,critico,0.00,0.59,8.48,5.04,processado,sombra parcial
+ORB-00842,2025-06-20,Petrolina,PE,Nordeste,-9.57,-40.39,sensor_sentinel,vegetacao_nativa,nao_aplicavel,225.90,0.69,0.48,26.06,37.31,16,3,72.02,alto,,0.12,0.00,41.25,processado,
+ORB-00843,2025-04-19,Palmas,TO,Norte,-10.24,-48.41,sensor_landsat,urbano,nao_aplicavel,343.53,0.26,"0,28",47.49,35.88,29,13,94.34,critico,"0,00",0.58,4.49,0.00,pendete,
+ORB-00844,2025-05-05,Porto Velho,RO,Norte,-8.59,-64.08,sensor_sentinel,vegetacao_nativa,nao_aplicavel,25.12,0.85,0.84,49.74,29.82,16,5,54.30,alto,0.00,,,33.10,processado,
+ORB-00845,2025-04-02,Sorriso,MT,Centro-Oeste,-12.53,-55.79,sensor_sentinel,vegetacao_nativa,nao_aplicavel,134.45,0.70,0.60,38.45,"38,86",39,10,97.63,critico,0.00,0.06,0.00,54.31,processado,
+ORB-00846,2025-07-11,Porto Velho,RO,Norte,-8.55,-63.65,sensor_sentinel,vegetacao_nativa,nao_aplicavel,267.63,0.73,0.36,62.57,"36,16",16,4,66.35,alto,0.00,"0,10",0.00,67.75,processado,
+ORB-00847,2025-01-28,Cuiabá,MT,Centro-Oeste,-15.49,-56.06,sensor_sentinel,agricultura,milho,594.94,0.78,0.78,48.89,34.29,15,6,50.53,alto,"5,60",0.18,0.00,0.68,procesado,
+ORB-00848,2026-02-10,Uberaba,MG,Sudeste,-19.94,-47.79,sensor_sentinel,vegetacao_nativa,nao_aplicavel,29.71,0.75,0.72,48.54,31.69,25,3,64.15,alto,0.00,"0,02",0.00,29.04,processado,nuvem na cena
+ORB-00849,2025-03-07,Ribeirão Preto,SP,Sudeste,-21.06,NA,base_municipal,agricultura,milho,470.08,0.56,,45.98,25.18,7,4,50.43,alto,4.91,0.06,0.00,0.00,processado,possivel queimadura
+ORB-00850,2025-06-14,Palmas,TO,Norte,-10.18,-48.22,sensor_sentinel,agricultura,algodao,110.65,0.79,0.85,,32.68,7,5,43.58,medio,3.95,"0,16",0.00,0.00,processado,
+ORB-00851,2025-11-21,Sorriso,MT,Centro-Oeste,-12.37,-55.56,sensor_landsat,urbano,nao_aplicavel,"425,03",0.20,0.22,26.02,32.85,20,1,NA,critico,0.00,0.93,14.51,NA,procesado,possivel queimadura
+ORB-00852,2026-01-21,Cuiabá,MT,Centro-Oeste,-15.92,-56.38,drone_cliente,vegetacao_nativa,nao_aplicavel,43.36,0.69,0.61,46.07,NA,17,1,56.78,alto,0.00,0.09,0.00,28.88,processado,coordenada imprecisa
+ORB-00853,,Sorriso,MT,Centro-Oeste,,-55.79,sensor_landsat,agricultura,milho,840.45,0.66,0.77,48.02,36.76,22,10,"83,33",critico,5.21,"0,20",5.26,0.00,processado,
+ORB-00854,2025-05-18,Altamira,PA,Norte,-3.06,-52.16,sensor_landsat,urbano,nao_aplicavel,33.43,,,40.01,"31,56",15,2,55.78,alto,0.00,0.60,14.10,13.36,processado,
+ORB-00855,2025-08-12,Porto Velho,RO,Norte,-8.73,-64.00,sensor_sentinel,agricultura,milho,64.90,0.66,"0,50",39.05,28.45,5,11,57.21,alto,3.45,0.10,0.00,34.62,pendente,
+ORB-00856,2025-03-24,Barreiras,BA,Nordeste,-11.98,-45.36,sensor_landsat,vegetacao_nativa,nao_aplicavel,993.30,"0,84",0.61,16.30,33.74,22,1,87.72,critico,0.00,0.03,0.00,71.74,processado,
+ORB-00857,2025-10-20,Cuiabá,MT,Centro-Oeste,-15.65,-56.11,sensor_sentinel,agricultura,cana,12.60,0.66,0.46,11.79,37.37,25,2,"95,99",critico,83.24,0.10,0.00,29.06,processado,
+ORB-00858,09/08/2025,Rio Branco,AC,Norte,-9.94,-67.85,sensor_sentinel,agricultura,soja,"40,71",0.49,0.58,63.23,32.45,20,12,84.47,critico,3.43,0.17,0.00,3.70,processado,
+ORB-00859,2025-07-21,Uberlândia,MG,Sudeste,-18.87,-48.51,sensor_sentinel,agricultura,milho,54.97,0.78,"0,71",31.84,27.71,9,3,"65,99",alto,8.86,0.13,NA,10.44,procesado,coordenada imprecisa
+ORB-00860,2026-03-11,Sorriso,MT,Centro-Oeste,-12.84,-55.49,base_municipal,urbano,nao_aplicavel,166.08,0.33,,43.51,34.63,29,0,76.36,critico,0.00,0.65,7.80,12.38,pendente,
+ORB-00861,2025-11-09,Palmas,TO,Norte,-10.38,NA,base_municipal,agricultura,soja,50.26,"0,79",0.90,45.89,33.04,19,1,55.52,alto,3.65,NA,"0,00",0.00,processado,
+ORB-00862,2025-04-27,Palmas,TO,Norte,-9.92,-48.29,sensor_sentinel,vegetacao_nativa,nao_aplicavel,39.31,0.71,0.44,47.99,29.02,21,8,63.87,alto,0.00,0.01,0.00,62.66,processado,possivel queimadura
+ORB-00863,2025-05-10,Sorriso,MT,Centro-Oeste,-12.70,-55.90,sensor_landsat,agricultura,milho,505.91,0.46,0.43,"12,77",34.08,0,7,68.57,alto,5.67,0.13,"0,00",10.15,pendente,
+ORB-00864,2025-08-16,Petrolina,PE,Nordeste,-9.26,-40.31,sensor_sentinel,pastagem,pastagem,153.73,0.62,"0,60",43.73,37.14,32,4,71.94,alto,1.20,0.09,"5,97",16.26,pendente,sombra parcial
+ORB-00865,2025-10-15,Rio Branco,AC,Norte,-10.02,-67.59,sensor_landsat,vegetacao_nativa,nao_aplicavel,223.77,0.86,"0,29",31.34,32.89,18,9,84.66,critico,0.00,0.10,0.00,100.00,processado,
+ORB-00866,2025-04-29,Sorriso,MT,Centro-Oeste,"-12,22",-55.72,sensor_sentinel,vegetacao_nativa,nao_aplicavel,302.47,0.69,0.60,29.58,NA,6,0,61.77,alto,0.00,0.07,0.00,35.65,processado,nuvem na cena
+ORB-00867,2025-02-17,Marabá,PA,Norte,-5.24,"-48,98",sensor_sentinel,vegetacao_nativa,nao_aplicavel,207.26,0.85,0.80,64.83,30.73,11,6,52.70,alto,0.00,0.01,0.00,34.44,reprocessar,
+ORB-00868,2025-02-06,Uberaba,MG,Sudeste,-19.86,-48.07,sensor_sentinel,pastagem,nao_aplicavel,21.48,0.62,0.71,5.00,32.91,12,1,93.45,critico,0.00,0.09,0.00,0.00,processado,possivel queimadura
+ORB-00869,2025-05-21,Uberaba,mg,Sudeste,-19.83,-47.95,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"509,54",0.76,0.35,39.84,28.81,13,0,,alto,0.00,0.12,0.00,91.37,pendente,
+ORB-00870,2025-05-25,Sinop,MT,Centro-Oeste,-11.93,-55.44,drone_cliente,pastagem,pastagem,11.18,0.47,0.26,12.35,31.95,11,,85.46,critico,1.28,0.15,0.00,26.31,processado,
+ORB-00871,2025-01-27,Ribeirão Preto,SP,Sudeste,"-21,14",-47.82,sensor_sentinel,pastagem,pastagem,157.36,0.36,0.42,56.82,27.83,21,4,56.66,alto,,0.14,0.00,,procesado,
+ORB-00872,13/10/2025,Altamira,PA,Norte,-3.05,-52.24,base_municipal,urbano,nao_aplicavel,136.06,0.14,NA,78.82,36.02,16,0,65.48,alto,0.00,0.74,13.17,0.00,processado,sombra parcial
+ORB-00873,2025-09-15,Sorriso,MT,Centro-Oeste,,-55.62,drone_cliente,vegetacao_nativa,nao_aplicavel,"18,91",0.81,0.66,64.91,38.39,22,2,69.05,alto,,0.04,0.00,45.59,processado,nuvem na cena
+ORB-00874,03-19-2026,Rio Branco,AC,Norte,-9.98,-67.82,sensor_landsat,pastagem,nao_aplicavel,128.72,0.53,"0,61",72.05,28.69,12,2,58.61,alto,NA,0.17,4.00,1.18,processado,
+ORB-00875,2025-11-11,Goiânia,GO,Centro-Oeste,-16.75,-49.24,sensor_sentinel,urbano,nao_aplicavel,300.67,0.13,0.11,57.01,36.77,22,3,72.60,alto,0.00,"0,84",16.04,"2,00",pendente,registro importado manualmente
+ORB-00876,2026-01-18,Uberaba,MG,Sudeste,-19.60,-47.85,sensor_sentinel,vegetacao_nativa,nao_aplicavel,66.43,0.72,0.45,9.40,29.20,24,10,100.00,critico,0.00,0.06,0.00,68.11,processado,
+ORB-00877,2025-04-06,Altamira,PA,Norte,,-52.52,sensor_landsat,pastajem,pastagem,11.70,0.51,0.42,"61,39",34.38,,4,35.19,medio,0.98,0.07,0.00,5.01,pendente,sombra parcial
+ORB-00878,2026-01-13,Uberaba,MG,Sudeste,-19.81,-47.80,sensor_sentinel,agric.,soja,54.17,0.56,0.42,38.81,28.35,7,0,32.21,medio,3.89,0.17,0.00,24.33,processado,nuvem na cena
+ORB-00879,2026-02-13,Goiânia,GO,Centro-Oeste,-16.82,-49.15,sensor_sentinel,agricultura,soja,155.71,0.58,0.42,30.16,38.96,13,9,67.82,alto,3.99,0.11,0.00,35.39,processado,coordenada imprecisa
+ORB-00880,11-26-2025,altamira,PA,Norte,-3.33,-52.38,sensor_landsat,pastajem,pastagem,54.41,0.56,0.44,58.14,35.99,10,4,68.47,alto,1.56,0.06,0.00,"24,43",processado,nuvem na cena
+ORB-00881,2025-04-21,Goiânia,GO,Centro-Oeste,-16.82,-49.36,sensor_landsat,pastajem,pastagem,673.77,0.64,0.42,29.93,35.24,3,6,59.10,alto,1.53,0.05,0.00,47.12,processado,registro importado manualmente
+ORB-00882,2025-08-13,Ribeirão Preto,SP,Sudeste,-21.07,-47.87,sensor_landsat,agricultura,milho,61.90,0.52,0.41,25.74,,0,2,41.67,medio,4.86,0.20,"0,00",8.21,processado,
+ORB-00883,2025-03-19,Uberaba,MG,Sudeste,-19.88,-48.10,sensor_sentinel,vegetacao_nativa,nao_aplicavel,86.65,0.63,0.60,33.28,33.89,14,1,58.24,alto,0.00,0.06,0.00,23.51,procesado,registro importado manualmente
+ORB-00884,2025-02-06,Ribeirão Preto,SP,Sudeste,-21.43,-47.53,sensor_landsat,agricultura,soja,53.01,0.70,0.52,38.99,28.41,12,4,42.98,medio,2.03,0.11,0.00,21.77,processado,coordenada imprecisa
+ORB-00885,2025-06-18,Petrolina,PE,Nordeste,-9.09,-40.51,drone_cliente,agricultura,soja,17.47,0.72,0.56,27.46,38.21,16,4,73.69,alto,1.99,,0.00,35.02,reprocessar,
+ORB-00886,2025-04-27,Porto Velho,RO,Norte,-8.63,-63.85,base_municipal,urbano,nao_aplicavel,73.44,0.11,,33.28,32.85,0,3,54.05,alto,0.00,0.64,0.00,0.00,processado,possivel queimadura
+ORB-00887,2025-01-02,Palmas,TO,Norte,-10.14,-48.37,sensor_sentinel,vegetacao nat.,nao_aplicavel,124.64,0.80,0.63,50.89,30.64,0,5,53.49,alto,0.00,0.10,0.00,53.42,processado,
+ORB-00888,02-26-2026,Altamira,PA,Norte,-3.33,-52.08,sensor_landsat,urbano,nao_aplicavel,245.90,NA,0.07,57.49,28.42,0,2,31.08,medio,0.00,0.66,"10,41",15.33,processado,
+ORB-00889,2025-09-24,Altamira,PA,Norte,-3.40,-52.55,sensor_sentinel,agricultura,milho,34.10,"0,42",0.55,NA,30.85,5,1,27.52,medio,6.16,0.07,0.00,0.00,processado,
+ORB-00890,2025-07-12,Uberaba,MG,Sudeste,-19.76,-47.96,base munic.,vegetacao_nativa,nao_aplicavel,72.37,0.87,0.87,25.48,32.78,7,3,58.80,alto,0.00,0.08,0.00,28.95,pendente,possivel queimadura
+ORB-00891,2025-11-23,Altamira,PA,Norte,-3.04,NA,sensor_landsat,vegetacao_nativa,nao_aplicavel,137.05,0.75,0.74,37.16,31.40,10,0,64.82,alto,0.00,0.01,"0,00",12.35,pendente,
+ORB-00892,2025-04-10,Uberlândia,MG,Sudeste,-19.01,-48.30,sensor_sentinel,pastagem,pastagem,86.13,0.47,NA,NA,"25,24",6,9,60.82,alto,1.31,0.06,0.00,43.49,processado,registro importado manualmente
+ORB-00893,2025-08-02,Cuiabá,MT,Centro-Oeste,-15.73,-56.16,sensor_sentinel,pastagem,pastagem,271.98,0.41,0.43,45.06,35.58,17,4,NA,alto,1.40,0.06,,,reprocessar,sombra parcial
+ORB-00894,2025-10-19,Marabá,PA,Norte,-5.47,-49.13,sensor_sentinel,vegetacao_nativa,nao_aplicavel,236.45,"0,63",0.56,36.59,36.22,2,4,45.05,medio,0.00,0.05,0.00,32.73,processado,nuvem na cena
+ORB-00895,2025-07-20,Cuiabá,MT,Centro-Oeste,-15.50,-55.84,sensor_sentinel,urbano,nao_aplicavel,153.97,0.29,0.29,10.13,38.39,23,3,99.67,critico,0.00,0.59,0.00,0.00,reprocessar,sombra parcial
+ORB-00896,2025-09-28,Uberlândia,MG,Sudeste,-18.80,-48.42,drone_cliente,vegetacao_nativa,nao_aplicavel,76.16,0.71,0.13,32.82,27.49,11,0,60.50,alto,0.00,0.07,2.00,100.00,processado,
+ORB-00897,2025-05-23,Goiânia,GO,Centro-Oeste,"-16,83",-49.00,sensor_sentinel,pastagem,pastagem,16.81,0.35,0.34,"23,00",34.44,23,10,99.96,critico,1.14,0.05,0.00,11.91,processado,coordenada imprecisa
+ORB-00898,2025-01-24,Goiânia,GO,Centro-Oeste,-16.77,-49.27,sensor_landsat,agricultura,cafe,325.08,0.79,"0,90",32.20,35.88,19,6,67.86,alto,2.17,0.05,"0,00",0.00,processado,
+ORB-00899,2025-04-24,Sinop,MT,Centro-Oeste,-11.87,-55.37,sensor_sentinel,vegetacao_nativa,nao_aplicavel,96.60,0.64,0.63,6.44,36.58,23,4,100.00,critico,0.00,0.10,0.00,26.75,processado,
+ORB-00900,21/01/2025,Uberlândia,MG,Sudeste,-18.79,"-48,21",sensor_sentinel,pastagem,pastagem,195.81,0.35,0.41,33.57,31.71,22,0,80.68,critico,,0.13,0.00,0.00,processado,
+ORB-00901,2025-05-28,Uberlândia,MG,Sudeste,-18.86,-48.40,sensor_sentinel,urbano,nao_aplicavel,22.48,0.26,"0,31",17.58,28.54,14,1,66.98,alto,0.00,0.70,12.29,,processado,nuvem na cena
+ORB-00902,2025-11-26,Altamira,PA,Norte,-3.25,"-52,15",sensor_sentinel,vegetacao_nativa,nao_aplicavel,39.10,0.74,0.73,32.60,34.32,13,4,60.92,alto,0.00,0.02,0.00,41.57,processado,
+ORB-00903,2025-03-07,Altamira,PA,Norte,,-51.88,drone_cliente,agricultura,soja,171.74,0.42,0.27,28.18,35.16,12,13,"89,30",critico,3.30,0.11,0.00,30.00,processado,
+ORB-00904,2025-03-10,Sorriso,MT,Centro-Oeste,-12.48,-55.71,sensor_sentinel,vegetacao_nativa,nao_aplicavel,131.60,0.75,0.37,"51,91","35,04",20,9,70.59,alto,"0,00",0.04,"0,00",90.72,processado,coordenada imprecisa
+ORB-00905,2025-05-26,Porto Velho,RO,Norte,-8.66,-63.65,drone_cliente,agricultura,cafe,,0.67,"0,48",76.09,29.54,11,,48.19,medio,2.08,NA,0.00,36.96,erro_validacao,possivel queimadura
+ORB-00906,2026-03-25,Sorriso,MT,Centro-Oeste,-12.60,-55.64,drone_cliente,agricultura,soja,792.27,0.75,0.81,35.85,30.56,23,1,72.23,alto,3.94,0.16,0.00,0.00,processado,sombra parcial
+ORB-00907,2025-11-18,Palmas,TO,Norte,-10.44,-48.58,sensor_sentinel,pastagem,pastagem,"372,09",0.56,0.57,77.73,34.43,4,4,44.24,medio,1.04,0.14,7.25,1.62,processado,
+ORB-00908,2025-05-15,Uberaba,MG,Sudeste,-19.69,-48.01,sensor_sentinel,agricultura,soja,24.53,0.53,"0,42",58.08,32.89,24,12,88.74,critico,3.21,0.20,0.00,27.88,processado,sombra parcial
+ORB-00909,2025-12-20,Uberaba,MG,Sudeste,-19.88,-47.86,sensor_sentinel,vegetacao_nativa,nao_aplicavel,339.37,0.69,,11.13,NA,0,10,98.78,critico,"0,00","0,10",0.00,55.03,processado,
+ORB-00910,20/11/2025,Rio Branco,AC,Norte,-9.86,-67.64,Sentinel,agricultura,milho,164.79,0.75,0.82,56.52,31.82,12,0,57.10,alto,6.38,0.12,0.00,0.13,processado,
+ORB-00911,2025-12-16,Uberaba,MG,Sudeste,-19.90,-48.09,sensor_landsat,pastagem,pastagem,8.27,0.32,0.32,62.51,30.13,5,0,,alto,1.33,0.18,0.00,6.22,processado,
+ORB-00912,2025-05-22,Altamira,PA,Norte,-3.31,-52.23,sensor_sentinel,urbano,nao_aplicavel,,0.11,0.07,68.80,36.96,17,2,52.33,alto,0.00,0.93,6.24,8.55,processado,
+ORB-00913,2025-04-06,Marabá,PA,Norte,-5.49,-49.21,sensor_landsat,pastagem,pastagem,39.24,0.49,0.33,84.07,35.16,18,7,81.81,critico,1.06,0.03,0.00,15.49,processado,
+ORB-00914,2026-03-04,Rio Branco,AC,Norte,-9.82,-67.83,drone_cliente,agricultura,soja,554.60,0.70,0.70,"72,16",35.07,8,4,55.73,alto,"3,66",0.18,0.00,14.74,processado,coordenada imprecisa
+ORB-00915,2025-04-19,Uberaba,MG,Sudeste,-19.70,-47.77,sensor_sentinel,vegetacao_nativa,nao_aplicavel,179.39,0.66,"0,05",NA,28.46,11,1,53.47,alto,"0,00",0.07,0.00,100.00,processado,
+ORB-00916,2025-04-06,Rio Branco,AC,Norte,-10.02,-67.53,sensor_sentinel,agricultura,cafe,113.91,0.77,0.87,37.36,31.98,18,6,69.59,alto,1.10,0.18,0.00,0.00,processado,
+ORB-00917,2026-03-19,Barreiras,BA,Nordeste,"-11,97",-45.14,sensor_sentinel,pastagem,pastagem,160.72,"0,57",0.65,41.30,33.89,16,,71.62,alto,1.07,NA,0.00,0.00,processado,
+ORB-00918,2025-11-14,Sorriso,MT,Centro-Oeste,-12.72,"-55,77",sensor_sentinel,agua,nao_aplicavel,41.47,0.12,0.08,22.64,33.52,23,5,"89,14",critico,0.00,"0,01",0.00,NA,processado,
+ORB-00919,2025-07-26,Goiânia,GO,Centro-Oeste,-16.64,-49.09,sensor_landsat,pastagem,pastagem,35.12,0.61,"0,65",13.87,31.77,11,1,91.09,critico,0.96,0.14,0.00,0.00,pendente,
+ORB-00920,2025-02-12,Marabá,PA,Norte,-5.30,"-49,07",sensor_sentinel,agricultura,cafe,12.45,0.43,0.23,36.10,30.47,14,4,54.78,alto,2.08,0.07,0.00,"45,23",processado,possivel queimadura
+ORB-00921,05/02/2025,Uberaba,MG,Sudeste,-19.64,-48.01,sensor_landsat,agricultura,soja,5.96,0.42,0.33,85.81,33.30,0,,34.05,medio,3.92,0.16,0.00,10.91,pendente,
+ORB-00922,2025-01-26,Barreiras,BA,Nordeste,-12.20,-44.98,sensor_landsat,agricultura,soja,16.03,0.64,0.69,24.19,36.81,21,0,81.06,critico,3.75,0.09,0.00,0.00,processado,
+ORB-00923,2025-04-30,Marabá,PA,Norte,-5.48,-49.08,sensor_sentinel,agricultura,soja,429.24,0.81,"0,87","87,81",34.57,1,0,"37,10",medio,3.46,0.19,0.00,0.00,processado,
+ORB-00924,2026-01-19,Uberaba,MG,Sudeste,-19.77,-48.01,sensor_sentinel,vegetacao nat.,nao_aplicavel,255.11,0.85,0.84,"34,06",31.22,2,2,64.66,alto,0.00,0.10,0.00,27.41,processado,sombra parcial
+ORB-00925,2025-08-01,Uberlândia,MG,Sudeste,-19.16,-48.44,drone_cliente,agricultura,cana,23.64,0.76,0.75,43.01,29.77,11,3,60.67,alto,"67,54",0.07,0.00,0.00,processado,registro importado manualmente
+ORB-00926,2025-08-18,Ribeirão Preto,SP,Sudeste,-21.24,-47.80,Sentinel,vegetacao_nativa,nao_aplicavel,60.24,0.84,"0,19",45.56,29.87,9,0,,medio,0.00,0.08,0.00,100.00,processado,coordenada imprecisa
+ORB-00927,2025-09-12,Goiânia,GO,Centro-Oeste,-16.43,-49.27,sensor_sentinel,urbano,nao_aplicavel,452.77,0.12,0.09,14.49,33.07,17,1,87.55,critico,0.00,0.71,10.10,1.39,processado,possivel queimadura
+ORB-00928,2026-03-27,Barreiras,BA,Nordeste,-12.04,-45.00,drone_cliente,vegetacao_nativa,nao_aplicavel,305.65,"0,64",0.56,34.05,,15,1,,alto,0.00,0.11,0.00,50.80,pendente,registro importado manualmente
+ORB-00929,2025-06-02,sinop,MT,Centro-Oeste,,-55.61,sensor_sentinel,agua,nao_aplicavel,467.45,0.05,NA,37.83,32.66,30,0,,alto,0.00,0.01,"0,00",0.00,processado,
+ORB-00930,,Altamira,PA,Norte,-3.24,-52.29,base_municipal,agricultura,cana,,0.66,0.68,60.77,31.76,15,0,47.82,medio,78.37,0.19,0.00,17.07,processado,registro importado manualmente
+ORB-00931,2025-04-06,Altamira,PA,Norte,-2.96,-52.04,drone_cliente,vegetacao_nativa,nao_aplicavel,1.00,0.68,0.27,57.84,,15,3,76.39,critico,0.00,0.04,0.00,85.31,reprocessar,
+ORB-00932,2025-10-21,Porto Velho,RO,Norte,-9.01,,base munic.,urbano,nao_aplicavel,20.47,0.34,"0,37",52.66,30.40,1,0,42.49,medio,0.00,"0,88",0.37,"0,00",processado,possivel queimadura
+ORB-00933,05/09/2025,Uberaba,MG,Sudeste,-19.74,-47.81,sensor_sentinel,vegetacao_nativa,nao_aplicavel,61.46,0.72,0.19,33.23,32.93,13,9,68.48,alto,0.00,0.11,0.00,,procesado,
+ORB-00934,2025-03-05,Uberaba,MG,Sudeste,-19.65,-47.80,sensor_landsat,vegetacao_nativa,nao_aplicavel,262.48,0.85,0.54,33.88,30.73,0,3,66.84,alto,0.00,0.07,,64.92,processado,
+ORB-00935,2026-03-17,Sinop,MT,Centro-Oeste,,-55.35,sensor_landsat,pastagem,pastagem,775.15,0.39,0.26,39.98,37.26,0,5,51.02,alto,1.51,"0,03",0.00,11.75,processado,
+ORB-00936,2025-09-03,Uberlândia,MG,Sudeste,-18.93,-48.17,sensor_sentinel,pastagem,nao_aplicavel,33.49,0.46,0.26,25.20,28.01,8,12,91.64,crítico,0.00,0.04,0.00,44.14,processado,
+ORB-00937,2025-03-12,Goiânia,GO,Centro-Oeste,-16.69,-49.10,sensor_landsat,vegetacao_nativa,nao_aplicavel,47.42,0.74,0.68,37.88,31.19,16,3,57.74,alto,0.00,0.03,3.43,23.25,processado,possivel queimadura
+ORB-00938,2025-07-15,Cuiabá,MT,Centro-Oeste,-15.65,-56.11,sensor_sentinel,urbano,nao_aplicavel,1009.21,0.20,"0,21",45.11,36.32,6,7,48.06,medio,0.00,0.87,"8,46",4.38,processado,possivel queimadura
+ORB-00939,2025-07-24,Cuiabá,MT,Centro-Oeste,-15.48,-56.22,sensor_sentinel,agricultura,cana,47.46,0.64,0.76,70.76,38.75,30,3,88.14,critico,81.23,0.12,0.00,0.00,erro_validacao,nuvem na cena
+ORB-00940,2025-02-06,Uberaba,MG,Sudeste,-19.91,-47.81,drone_cliente,agricultura,soja,839.11,0.79,0.80,45.92,26.57,0,0,33.64,medio,3.02,0.17,0.00,,processado,
+ORB-00941,2025-01-30,Uberaba,MG,Sudeste,-19.85,-47.79,drone_cliente,agricultura,cafe,62.37,0.79,"0,84",33.99,32.32,11,3,46.69,medio,1.33,0.10,NA,12.84,processado,
+ORB-00942,2026-03-11,Uberaba,MG,Sudeste,"-19,61",,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"95,64",0.75,0.26,,27.71,1,1,57.27,alto,0.00,0.10,"0,00",84.63,erro_validacao,nuvem na cena
+ORB-00943,2025-10-11,Sinop,MT,Centro-Oeste,-11.95,-55.52,sensor_sentinel,vegetacao_nativa,nao_aplicavel,346.90,0.79,0.62,5.33,"35,53",29,4,100.00,critico,0.00,0.05,0.00,52.08,processado,
+ORB-00944,2025-09-29,Sinop,MT,Centro-Oeste,-11.78,-55.37,drone_cliente,vegetacao_nativa,nao_aplicavel,59.34,0.64,0.21,19.88,34.80,16,2,84.48,critico,0.00,0.07,0.00,80.06,processado,possivel queimadura
+ORB-00945,2025-03-29,Uberlândia,MG,Sudeste,-18.93,-48.31,sensor_landsat,agricultura,soja,23.92,0.55,0.70,18.50,33.96,12,7,77.10,critico,3.26,0.13,0.00,0.00,processado,registro importado manualmente
+ORB-00946,2025-08-27,Porto Velho,RO,Norte,-8.68,-63.92,sensor_landsat,agricultura,milho,378.56,0.50,0.54,61.40,31.98,7,0,44.21,medio,4.33,0.15,0.00,0.00,erro_validacao,sombra parcial
+ORB-00947,2025-12-14,Rio Branco,AC,Norte,-10.15,-68.17,sensor_sentinel,urbano,nao_aplicavel,123.96,,0.12,67.01,36.82,11,20,78.95,critico,0.00,0.63,10.04,17.31,reprocessar,
+ORB-00948,2026-03-06,Marabá,PA,Norte,-5.22,-49.00,sensor_sentinel,vegetacao_nativa,nao_aplicavel,36.20,0.65,"0,12",62.94,31.36,9,4,"54,95",alto,0.00,0.02,0.00,100.00,processado,
+ORB-00949,2025-07-02,Cuiabá,MT,Centro-Oeste,-15.73,-55.97,sensor_sentinel,agricultura,milho,52.15,0.58,0.69,29.52,38.58,16,7,82.56,critico,4.05,0.08,0.00,0.00,processado,
+ORB-00950,2025-04-04,Uberaba,MG,Sudeste,-20.08,-48.21,sensor_sentinel,agricultura,soja,430.25,0.38,"0,41",16.04,32.83,11,,80.27,critico,2.81,0.17,0.00,0.00,processado,
+ORB-00951,2025-12-27,Sinop,MT,Centro-Oeste,-11.59,-55.49,sensor_landsat,vegetacao_nativa,nao_aplicavel,330.58,,0.75,23.03,32.26,30,6,100.00,critico,0.00,"0,05",0.00,30.28,processado,
+ORB-00952,2025-10-30,Marabá,PA,Norte,-5.47,-49.37,sensor_sentinel,vegetacao nat.,nao_aplicavel,83.88,0.80,"0,76",66.72,32.79,21,14,96.59,critico,0.00,0.04,0.00,39.91,processado,
+ORB-00953,2025-08-04,Uberaba,MG,Sudeste,-19.65,-47.81,sensor_sentinel,urbano,nao_aplicavel,"319,00",0.20,"0,22",28.64,31.07,9,6,65.12,alto,0.00,0.79,10.70,9.12,processado,
+ORB-00954,2025-09-16,Uberaba,MG,Sudeste,-19.92,-47.78,LANDSAT,vegetacao_nativa,nao_aplicavel,38.15,0.83,0.76,26.70,28.86,15,0,56.80,alto,0.00,0.07,0.01,50.15,procesado,sombra parcial
+ORB-00955,2025-11-27,Sinop,MT,Centro-Oeste,-11.88,-55.63,sensor_sentinel,urbano,nao_aplicavel,92.51,0.13,0.04,54.05,37.22,17,,42.94,medio,0.00,0.94,6.03,8.39,processado,
+ORB-00956,09-10-2025,Altamira,PA,Norte,-3.28,-52.55,sensor_landsat,agricultura,milho,62.02,0.71,0.66,46.01,35.18,6,2,"28,36",medio,5.10,,0.00,NA,erro_validacao,
+ORB-00957,2025-05-07,Petrolina,PE,Nordeste,-9.16,-40.45,sensor_landsat,urbano,nao_aplicavel,88.45,,0.06,35.33,NA,34,4,79.41,critico,0.00,0.86,7.19,6.99,erro_validacao,nuvem na cena
+ORB-00958,2025-07-01,Barreiras,BA,Nordeste,NA,-44.92,sensor_landsat,vegetacao_nativa,nao_aplicavel,,0.64,0.60,39.83,,24,5,,alto,0.00,,0.00,42.83,reprocessar,nuvem na cena
+ORB-00959,02/06/2025,Altamira,PA,Norte,"-3,31",-52.23,sensor_sentinel,urbano,nao_aplicavel,NA,,"0,20",62.41,,,14,NA,critico,0.00,0.85,4.19,16.18,processado,
+ORB-00960,2025-05-21,Ribeirão Preto,SP,Sudeste,-21.36,-47.92,sensor_sentinel,vegetacao nat.,nao_aplicavel,174.85,0.73,0.48,10.84,NA,10,10,100.00,critico,NA,0.06,0.00,57.77,processado,
+ORB-00961,2025-03-11,Rio Branco,AC,Norte,-9.86,-67.63,sensor_sentinel,vegetacao_nativa,nao_aplicavel,242.23,0.77,0.73,63.36,35.83,13,3,64.00,alto,0.00,0.11,0.00,37.91,processado,nuvem na cena
+ORB-00962,2025-11-18,Marabá,PA,Norte,-5.21,-49.13,sensor_sentinel,vegetacao_nativa,nao_aplicavel,308.70,0.81,0.74,82.24,36.25,14,9,61.15,alto,0.00,0.09,0.00,33.12,processado,possivel queimadura
+ORB-00963,2026-01-05,Sinop,MT,Centro-Oeste,-11.95,-55.39,sensor_sentinel,pastagem,nao_aplicavel,36.47,"0,62",0.64,29.58,35.58,18,5,86.05,critico,0.00,0.11,0.00,0.38,pendente,
+ORB-00964,2025-05-26,Uberaba,MG,Sudeste,-19.82,-47.92,sensor_sentinel,vegetacao_nativa,nao_aplicavel,278.51,"0,64",0.30,41.01,31.89,11,0,44.14,médio,0.00,0.09,0.00,80.56,processado,
+ORB-00965,2025-12-09,Rio Branco,AC,Norte,,-67.99,base_municipal,pastagem,pastagem,178.32,0.65,0.52,"59,02",29.05,0,9,39.03,medio,1.09,0.12,0.00,38.59,processado,
+ORB-00966,,Sorriso,MT,Centro-Oeste,"-12,60",-55.70,sensor_sentinel,agricultura,soja,1.34,0.46,"0,53",46.75,32.03,5,2,52.36,alto,3.53,0.14,0.00,"0,00",processado,
+ORB-00967,2025-03-01,Cuiabá,MT,Centro-Oeste,,-55.97,sensor_sentinel,agricultura,cana,201.69,0.52,"0,46","37,21",33.63,31,2,77.48,critico,82.05,0.14,0.00,1.11,processado,
+ORB-00968,2025-11-13,Barreiras,BA,Nordeste,-12.40,-45.06,sensor_landsat,vegetacao_nativa,nao_aplicavel,8.85,NA,0.34,44.04,NA,0,2,"35,38",medio,0.00,0.11,4.44,100.00,processado,
+ORB-00969,2025-07-28,Petrolina,PE,Nordeste,"-9,07",-40.65,sensor_sentinel,pastagem,nao_aplicavel,372.58,0.46,0.22,37.63,37.97,12,6,73.47,alto,0.00,0.08,0.00,43.14,processado,coordenada imprecisa
+ORB-00970,2026-02-28,Sorriso,MT,Centro-Oeste,NA,-55.62,sensor_sentinel,vegetacao_nativa,nao_aplicavel,154.40,0.74,0.58,48.35,35.75,9,6,54.94,alto,0.00,0.03,6.03,59.38,erro_validacao,
+ORB-00971,2025-01-12,Uberlândia,MG,Sudeste,-18.80,-48.11,base_municipal,vegetacao_nativa,nao_aplicavel,137.00,0.76,0.73,"22,93",26.35,24,1,"85,26",critico,"0,00",0.05,0.00,15.96,re-processar,
+ORB-00972,2025-02-09,Rio Branco,AC,Norte,-9.66,NA,sensor_landsat,vegetacao_nativa,nao_aplicavel,NA,"0,70",0.70,76.42,36.32,7,2,51.32,alto,0.00,0.03,,31.48,processado,
+ORB-00973,01-15-2026,Ribeirão Preto,sp,Sudeste,-21.41,-47.75,drone_cliente,vegetacao_nativa,nao_aplicavel,462.50,0.68,"0,46",26.68,NA,9,1,52.21,alto,0.00,0.08,0.00,68.51,processado,
+ORB-00974,09-01-2025,Uberlândia,MG,Sudeste,-18.91,-48.37,sensor_sentinel,urbano,nao_aplicavel,226.54,0.30,0.21,41.75,26.15,2,1,"42,28",medio,0.00,0.78,4.41,,processado,
+ORB-00975,2025-02-19,Cuiabá,MT,Centro-Oeste,-15.69,-56.23,base_municipal,vegetacao_nativa,nao_aplicavel,,0.72,,23.89,"31,04",22,4,93.32,critico,"0,00",0.11,0.00,,processado,coordenada imprecisa
+ORB-00976,2025-09-08,Sinop,MT,Centro-Oeste,"-11,91",-55.78,sensor_landsat,vegetacao_nativa,nao_aplicavel,98.60,0.81,0.80,,38.31,24,4,98.69,critico,0.00,0.09,NA,38.87,processado,possivel queimadura
+ORB-00977,2025-05-25,Uberaba,MG,Sudeste,-19.60,-48.26,sensor_sentinel,urbano,nao_aplicavel,273.28,0.23,NA,36.51,29.17,14,3,53.37,alto,0.00,"0,93",6.40,0.47,pendente,registro importado manualmente
+ORB-00978,2026-02-25,Cuiabá,MT,Centro-Oeste,-15.72,-56.26,sensor_landsat,agricultura,milho,385.66,0.46,0.56,59.84,,26,1,52.69,alto,5.91,0.08,2.34,0.00,pendente,
+ORB-00979,2025-04-25,Uberaba,MG,Sudeste,-19.94,-47.95,sensor_sentinel,vegetacao_nativa,nao_aplicavel,235.74,0.83,NA,41.38,26.12,12,4,61.09,alto,0.00,0.10,0.00,28.19,processado,sombra parcial
+ORB-00980,2025-06-18,Uberaba,MG,Sudeste,-19.72,-47.72,sensor_sentinel,pastagem,pastagem,302.90,0.57,0.51,28.63,27.58,4,4,54.60,alto,0.63,0.08,0.00,0.85,processado,possivel queimadura
+ORB-00981,2025-06-27,Uberaba,MG,Sudeste,-19.79,-47.98,Sentinel,urbano,nao_aplicavel,153.14,0.20,0.17,60.37,33.66,14,8,49.32,medio,0.00,0.58,12.52,0.00,processado,sombra parcial
+ORB-00982,2025-08-10,Porto Velho,RO,Norte,-8.85,-63.94,sensor_sentinel,vegetacao_nativa,nao_aplicavel,"345,55",0.78,0.70,60.90,30.91,0,1,30.68,medio,0.00,0.05,0.00,25.40,processado,
+ORB-00983,2025-02-21,Sinop,MT,Centro-Oeste,-11.99,-55.47,drone_cliente,agric.,soja,826.04,"0,69",0.84,60.04,35.86,28,1,77.88,critico,3.06,NA,"0,00",0.00,erro_validacao,
+ORB-00984,2025-01-31,Cuiabá,MT,Centro-Oeste,-15.38,-56.14,sensor_sentinel,vegetacao_nativa,nao_aplicavel,105.54,0.75,0.19,36.02,37.10,10,3,77.37,critico,0.00,0.12,0.00,100.00,procesado,
+ORB-00985,2025-01-18,Barreiras,BA,Nordeste,-12.14,-44.83,sensor_sentinel,agric.,cana,NA,0.42,"0,22",43.73,38.20,7,7,"64,81",alto,,0.06,0.00,25.31,processado,coordenada imprecisa
+ORB-00986,2025-02-10,Uberaba,MG,Sudeste,-19.67,-47.94,base_municipal,vegetacao nat.,nao_aplicavel,8.98,0.62,0.56,36.27,25.91,14,1,"56,96",alto,0.00,0.11,0.00,47.08,erro_validacao,possivel queimadura
+ORB-00987,2026-01-28,Barreiras,BA,Nordeste,-12.14,-45.03,sensor_landsat,vegetacao_nativa,nao_aplicavel,140.21,0.74,0.50,11.93,38.99,7,3,96.59,critico,0.00,0.04,0.00,46.16,processado,possivel queimadura
+ORB-00988,2025-02-05,PORTO VELHO,RO,Norte,"-8,66",-63.97,sensor_sentinel,vegetacao_nativa,nao_aplicavel,18.32,0.82,0.57,82.69,28.23,8,9,47.69,medio,0.00,0.08,0.00,51.26,processado,sombra parcial
+ORB-00989,2026-03-23,Cuiabá,MT,Centro-Oeste,-15.58,-56.13,sensor_sentinel,pastagem,pastagem,238.44,0.54,"0,60","37,78",33.98,12,4,72.07,alto,1.59,0.03,0.00,6.15,processado,nuvem na cena
+ORB-00990,22/01/2025,Altamira,PA,Norte,-3.46,-52.27,sensor_sentinel,vegetacao_nativa,nao_aplicavel,77.44,0.87,0.83,49.77,32.37,0,16,80.48,critico,0.00,0.07,0.00,30.44,reprocessar,
+ORB-00991,data_invalida,Porto Velho,RO,Norte,-9.03,-63.68,sensor_sentinel,agricultura,cana,135.34,"0,50",0.58,46.45,34.05,23,2,54.27,alto,"82,46",0.13,0.00,"0,00",processado,
+ORB-00992,2025-02-10,Rio Branco,AC,Norte,"-10,07",-67.92,Sentinel,vegetacao_nativa,nao_aplicavel,75.64,0.67,0.61,56.14,34.33,18,8,63.31,alto,0.00,0.09,0.00,34.64,processado,
+ORB-00993,2025-11-07,Sorriso,MT,Centro-Oeste,-12.53,-55.78,sensor_sentinel,vegetacao_nativa,nao_aplicavel,307.20,0.83,0.74,16.32,32.90,10,4,75.42,critico,0.00,0.05,0.00,46.37,processado,
+ORB-00994,2025-07-31,Palmas,TO,Norte,-10.44,-48.19,base_municipal,agricultura,soja,13.56,0.62,NA,90.90,"34,30",15,1,36.55,medio,3.62,0.18,0.00,0.00,pendente,nuvem na cena
+ORB-00995,2025-04-09,Rio Branco,AC,Norte,-10.19,-67.80,sensor_sentinel,agricultura,milho,"403,64",NA,0.38,39.65,34.39,20,0,45.93,medio,,0.09,0.00,30.44,processado,
+ORB-00996,data_invalida,Porto Velho,RO,Norte,-8.59,-64.09,sensor_sentinel,agricultura,algodao,61.54,,0.47,74.01,30.67,9,1,42.56,medio,3.33,0.15,0.00,9.47,pendete,
+ORB-00997,2025-10-27,Barreiras,BA,Nordeste,-12.14,-44.86,sensor_sentinel,pastagem,pastagem,355.65,0.48,0.24,43.12,33.32,30,1,71.12,alto,0.94,0.06,,27.41,processado,
+ORB-00998,2025-01-28,Marabá,PA,Norte,-5.38,-49.10,sensor_sentinel,urbano,nao_aplicavel,276.37,0.20,0.14,95.00,,1,2,31.94,medio,0.00,,"12,38",15.38,processado,nuvem na cena
+ORB-00999,data_invalida,Uberlândia,MG,Sudeste,-18.94,,sensor_sentinel,agricultura,cana,149.91,0.37,0.44,27.20,25.98,3,1,41.38,medio,82.39,0.07,0.00,0.00,processado,
+ORB-01000,2025-12-08,Rio Branco,AC,Norte,-9.97,-67.79,sensor_sentinel,vegetacao_nativa,nao_aplicavel,423.14,0.79,0.44,50.04,36.87,,1,,medio,NA,0.05,0.00,86.74,processado,
+ORB-00763,2025-08-08,Marabá,PA,Norte,,-48.99,sensor_sentinel,urbano,nao_aplicavel,132.34,0.34,0.30,58.39,33.96,3,0,"46,91",medio,0.00,0.57,"5,40",0.00,processado,duplicata importada do website
+ORB-00181,2025-06-13,Uberlândia,MG,Sudeste,-18.86,-48.41,sensor_sentinel,vegetacao_nativa,nao_aplicavel,552.32,0.86,0.70,"48,28",28.02,0,6,41.23,medio,0.00,0.07,0.00,44.11,processado,duplicata importada do website
+ORB-00570,2026-01-02,Uberlândia,MG,Sudeste,-18.93,-48.29,sensor_sentinel,vegetacao_nativa,nao_aplicavel,177.08,0.65,0.56,38.61,32.05,20,1,61.14,alto,0.00,0.09,,51.99,processado,duplicata importada do website
+ORB-00481,data_invalida,Altamira,PA,Norte,-3.24,-52.32,sensor_sentinel,urbano,nao_aplicavel,1.07,NA,0.05,"52,15",29.38,2,0,41.59,medio,0.00,0.88,4.71,12.13,processado,duplicata importada do website
+ORB-00725,27/02/2026,Sorriso,MT,Centro-Oeste,NA,-56.03,sensor_sentinel,pastagem,pastagem,345.87,0.33,0.09,56.86,32.56,38,3,84.51,critico,1.19,0.10,0.00,42.09,processado,duplicata importada do website
+ORB-00243,2025-12-01,Ribeirão Preto,SP,Sudeste,-21.30,-47.67,sensor_sentinel,vegetacao_nativa,nao_aplicavel,209.10,0.80,"0,77",47.48,33.08,14,0,39.81,medio,0.00,0.12,,19.68,processado,duplicata importada do website
+ORB-00371,2026-03-06,Ribeirão Preto,SP,Sudeste,-21.01,-47.59,sensor_landsat,vegetacao_nativa,nao_aplicavel,,"0,66",0.48,62.79,33.36,12,,64.21,alto,0.00,0.08,0.00,53.20,processado,duplicata importada do website
+ORB-00501,2025-08-20,Porto Velho,RO,Norte,-8.61,-64.13,sensor_landsat,urbano,nao_aplicavel,"91,79",0.16,NA,60.49,28.04,25,3,60.91,alto,0.00,0.64,15.09,4.51,processado,duplicata importada do website
+ORB-00411,data_invalida,Altamira,PA,Norte,-3.29,-52.21,base_municipal,vegetacao_nativa,nao_aplicavel,153.60,0.64,0.30,58.84,36.03,1,1,37.09,medio,0.00,,0.00,65.12,processado,duplicata importada do website
+ORB-00853,,Sorriso,MT,Centro-Oeste,,-55.79,sensor_landsat,agricultura,milho,840.45,0.66,0.77,48.02,36.76,22,10,"83,33",critico,5.21,"0,20",5.26,0.00,processado,duplicata importada do website
+ORB-00890,2025-07-12,Uberaba,MG,Sudeste,-19.76,-47.96,base munic.,vegetacao_nativa,nao_aplicavel,72.37,0.87,0.87,25.48,32.78,7,3,58.80,alto,0.00,0.08,0.00,28.95,processado,duplicata importada do website
+ORB-00532,2025-03-05,Porto Velho,RO,Norte,-8.93,-64.01,sensor_landsat,agricultura,soja,69.31,0.47,0.38,69.64,"30,93",19,6,"65,59",alto,4.53,0.09,0.00,2.28,processado,duplicata importada do website
+ORB-00367,2025-03-04,Goiânia,GO,Centro-Oeste,"-16,97",-49.34,sensor_landsat,agricultura,algodao,"73,31",0.65,0.44,62.90,36.57,5,5,56.86,alto,3.90,0.07,3.18,42.11,processado,duplicata importada do website
+ORB-00445,2025-08-28,Altamira,PA,Norte,-3.09,-52.09,sensor_sentinel,urbano,nao_aplicavel,53.21,0.19,0.22,57.03,32.52,9,8,49.14,medio,0.00,0.60,6.77,11.26,processado,duplicata importada do website
+ORB-00260,2025-10-31,Sinop,MT,Centro-Oeste,-11.90,-55.46,sensor_landsat,vegetacao_nativa,nao_aplicavel,101.26,0.87,0.81,11.16,38.29,2,2,"84,22",critico,0.00,0.07,3.86,19.49,processado,duplicata importada do website
+ORB-00156,2025-08-28,Cuiabá,MT,Centro-Oeste,-15.60,-56.08,sensor_landsat,vegetacao_nativa,nao_aplicavel,20.93,0.79,0.74,23.03,37.51,25,4,95.09,critico,0.00,0.09,0.00,41.07,processado,duplicata importada do website
+ORB-00639,2025-09-27,Uberlândia,MG,Sudeste,-18.69,-48.15,sensor_sentinel,vegetacao_nativa,nao_aplicavel,8.90,0.81,0.79,44.26,26.91,0,0,"47,51",medio,0.00,0.04,0.00,34.23,processado,duplicata importada do website
+ORB-00424,2025-06-29,Uberaba,MG,Sudeste,-19.83,-47.83,sensor_sentinel,vegetacao_nativa,nao_aplicavel,372.60,NA,0.65,,29.29,17,2,77.71,crítico,0.00,0.02,3.14,20.08,processado,duplicata importada do website
+ORB-00356,2026-01-03,Barreiras,BA,Nordeste,-12.16,-45.00,sensor_sentinel,agricultura,soja,214.02,0.47,0.29,57.05,,7,0,,medio,3.49,0.06,"0,00",28.33,processado,duplicata importada do website
+ORB-00218,2026-03-10,Ribeirão Preto,SP,Sudeste,-21.09,-47.78,sensor_sentinel,urbano,nao_aplicavel,229.94,0.32,0.37,65.22,26.14,1,6,49.02,medio,0.00,0.64,6.94,"2,88",processado,duplicata importada do website
+ORB-00776,2025-11-06,Altamira,PA,Norte,-3.32,-52.18,base_municipal,agricultura,milho,17.93,0.41,0.23,59.70,28.22,19,5,50.88,alto,5.23,0.05,0.00,31.75,processado,duplicata importada do website
+ORB-00805,2025-09-09,Uberaba,MG,Sudeste,-19.68,-48.17,sensor_sentinel,agricultura,milho,126.98,0.44,0.56,5.00,30.41,10,6,75.66,critico,6.40,0.06,0.00,0.80,processado,duplicata importada do website
+ORB-00634,2025-12-25,Petrolina,PE,Nordeste,-9.43,-40.59,sensor_sentinel,urbano,nao_aplicavel,150.50,0.34,0.36,55.37,"39,34",4,3,56.16,alto,0.00,0.83,"0,00",6.53,processado,duplicata importada do website
+ORB-00876,2026-01-18,Uberaba,MG,Sudeste,-19.60,-47.85,sensor_sentinel,vegetacao_nativa,nao_aplicavel,66.43,0.72,0.45,9.40,29.20,24,10,100.00,critico,0.00,0.06,0.00,68.11,processado,duplicata importada do website
+ORB-00594,2025-07-07,Sinop,MT,Centro-Oeste,-12.17,-55.58,sensor_landsat,vegetacao_nativa,nao_aplicavel,79.46,0.81,0.74,41.03,,,8,NA,critico,0.00,0.06,0.00,21.33,processado,duplicata importada do website
